@@ -139,6 +139,8 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
 
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
+- [Traps used by cyber detectives…](https://medium.com/@ibederov_en/traps-used-by-cyber-detectives-c778b4853f1a)
+- [MAC Address Investigation](https://t.me/ibederov_en/18)
 
 # Training & Practicing
 
