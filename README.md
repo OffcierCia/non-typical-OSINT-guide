@@ -302,6 +302,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
+- [EOG](https://t.me/eyeofgod)
 
 **Awesome articles (external):**
 
@@ -311,6 +312,23 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [ARCHIVING & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+- [Open Source Intelligence: The Beginners’ Guide to OSINT](https://www.liferaftinc.com/blog/the-beginners-guide-to-osint)
+- [DarkNet OSINT Guide](https://medium.com/the-sleuth-sheet/darknet-osint-guide-984f68fb7ab3)
+- [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
+- [OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+- [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
+- [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
+- [OSINT: FOUNDATIONS](https://i-intelligence.eu/courses/osint-foundations)
+- [How to Use OSINT to Detect Data Leaks and Breaches](https://www.liferaftinc.com/blog/how-to-use-osint-to-detect-data-leaks-and-breaches)
+- [Introduction to OSINT](https://infosecwriteups.com/introduction-to-osint-2c92597988d1)
+- [How to Improve Cyber Attack Detection Using Social Media?](https://www.geeksforgeeks.org/how-to-improve-cyber-attack-detection-using-social-media/)
+- [Are you leaking information on the web? Use these tools to find out](https://www.tech.gov.sg/media/technews/are-you-leaking-information-on-the-web)
+- [OSINT: Data Leaks and Data Breaches](https://www.osintguru.com/blog/osint-data-leaks-and-data-breaches)
+- [OSINT with gOSINT](https://brandefense.io/blog/osint-with-gosint/)
+- [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
+- [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
+- [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
+- [SOCMINT – or rather OSINT of social media](https://research.securitum.com/socmint-or-rather-osint-of-social-media/)
 
 # Support Project
 
