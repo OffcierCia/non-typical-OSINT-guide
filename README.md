@@ -178,9 +178,11 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment. 
 
+- [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
+
 [Read my channel if you like this topic](https://t.me/officer_cia)... Or someone can even get into [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925) which is growing day-by-day right now. For GEOINT skills training I suggest checking [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
 
-**Just looks at this awesome Mind-Map:**
+**Just take a look at this awesome Mind-Map:**
 
 - [Click on me!](http://files.mtg-bi.com/MindMap.jpg)
 
