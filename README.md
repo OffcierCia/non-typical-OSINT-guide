@@ -300,6 +300,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [telesint_bot](https://telesint_bot)
 - [Twitter to TG bot](https://TwttrToTG_Bot)
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
+- [spiderfoot](https://github.com/smicallef/spiderfoot)
+- [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 
 **Awesome articles (external):**
 
