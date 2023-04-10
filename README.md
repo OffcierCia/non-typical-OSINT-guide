@@ -250,6 +250,10 @@ Carefully study these resources and come back to them as you journey through the
 
 - [Comprehensive Counter OSINT](https://github.com/soxoj/counter-osint-guide-en)
 - [Counter OSINT](https://github.com/CScorza/OSINTAnonymous)
+- [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
+- [Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT)](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002585)
+- [Intelligent evidence: Using open source intelligence (OSINT) in criminal proceedings](https://www.researchgate.net/publication/309015913_Intelligent_evidence_Using_open_source_intelligence_OSINT_in_criminal_proceedings)
+- [The Intelligence Cycle: Generating OSINT from OSINF](https://www.skopenow.com/news/the-intelligence-cycle-creating-osint-from-osinf)
 
 # Work: A-Z
 
