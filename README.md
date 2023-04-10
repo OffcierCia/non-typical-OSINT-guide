@@ -295,6 +295,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [maigret_osint_bot](https://t.me/maigret_osint_bot)
 - [telesint_bot](https://telesint_bot)
 - [Twitter to TG bot](https://TwttrToTG_Bot)
+- [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 
 **Awesome articles (external):**
 
