@@ -1,9 +1,11 @@
-# non-typical-OSINT-guide
+# The Atypical OSINT Guide
+
 The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome! 
 
 **Check out:**
 
 - [Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 
 Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. 
 
@@ -22,14 +24,14 @@ This information does not make you better or worse. Humanity as a species has a 
 
 - [Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 
-Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on civilian applications. That is my vision, which I hope you will embrace...
+Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on **civilian** applications. That is my vision, which I hope you will embrace...
 
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
 
 **May the Force be with you!**
 
-#
+# Introduction: Civil OSINT
 
 To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...
 
@@ -54,6 +56,9 @@ I would like to give you the first lesson, all resources which I will advise you
 
 - [So You Think You Can Google? - Workshop With Henk van Ess](https://youtu.be/uyqXS5lL-mc)
 - [OSINT Origins #1 - Jean-Marc Manach/@manhack](https://youtu.be/XrTFzZ77eEI)
+- [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
+
+# Mind-Mapping
 
 First, let's break down such a concept as mind-mapping. It is very important to teach how to sort information according to different criteria, I believe you can practice sorting absolutely any information you’d like!
 
@@ -69,6 +74,8 @@ Didn't everyone make cheat sheets at school? It's time to do it again, because i
 - [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://youtu.be/46st98FUf8s)
 
 > A tiny tip - perform [power-searching](https://www.edx.org/course/power-searching-with-google) with using different IPs, over different time ranges and via different [search engines](https://github.com/tasos-py/Search-Engines-Scraper). 
+
+# Immersive & Gamified Learning: Tricks (a)
 
 I can also recommend that you turn to an interesting subculture that is suitable for introverts! I am sure that everyone is interested in various strange phenomena in one way or another. Immerse yourself in a net-stalking environment! Sometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).
 
@@ -109,6 +116,8 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
 
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
+
+# Training & Practicing
 
 **Good training materials:**
 
@@ -152,12 +161,134 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 **Tools:**
 
-Sherlock
-ChatGeoPT
-Emoji OSINT
-Advangle
-OSINT + AI
-OSINT - SAN
-OSINT Buddy
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [ChatGeoPT](https://github.com/earth-genome/ChatGeoPT)
+- [Emoji OSINT](https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji)
+- [Advangle](http://advangle.com/)
+- [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
+- [OSINT - SAN](https://github.com/Bafomet666/OSINT-SAN)
+- [OSINT Buddy](https://github.com/jerlendds/osintbuddy)
 
+# Choosing a Pathway to Follow...
+
+Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment. 
+
+[Read my channel if you like this topic](https://t.me/officer_cia)... Or someone can even get into [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925) which is growing day-by-day right now. For GEOINT skills training I suggest checking [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
+
+**Just looks at this awesome Mind-Map:**
+
+- [Click on me!](http://files.mtg-bi.com/MindMap.jpg)
+
+**Explore data terminals:**
+
+- [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
+- [This page is for anyone who loves open source investigating](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
+
+You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
+
+- [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en)
+
+I'll highlight some basic advice for you - evaluate information according to different criteria, always know your "base settings" - it's good for the mental health, the things you find shouldn't ruin your foundations! Practice it, do it in your daily life, apply OSINT where it seems un-obvious like mentioned below:
+
+- [5 Ways OSINT Can Help Your Career! - Knowmad OSINT](https://knowmad-osint.com/5-ways-osint-can-help-your-career/)
+- [The Art of Attack](https://books.google.nl/books?id=j583EAAAQBAJ&pg=PT10&lpg=PT10&dq=how+to+think+like+an+osint+mindset&source=bl&ots=JeHrgDkP0q&sig=ACfU3U0UC_u94QQs3wdSXmIt2VsZcJNcyw&hl=en&sa=X&ved=2ahUKEwjIvNrwlcj3AhXD0qQKHZfUA50Q6AF6BAgiEAM#v=onepage&q=how%20to%20think%20like%20an%20osint%20mindset&f=false)
+
+# Immersive & Gamified Learning: Games (b)
+
+Join communities, of course and chat, chat! Above I've only mentioned English-speaking communities but there are also local ones, do some research on your own. I’m 100% sure in you! You will succeed! Do you like to hang out with friends? If so, then try playing Dozor or Encounter (or any NightGame based on codebreaking or geolocation or Escapology or Lock-Picking) together! 
+
+- [DozoR Team Night Game](https://en.wikipedia.org/wiki/Dozor)
+- [Codebreaking](https://en.m.wikipedia.org/wiki/Codebreaking)
+- [GeoCaching](https://en.m.wikipedia.org/wiki/Geocaching)
+- [Escapology](https://en.wikipedia.org/wiki/Escapology)
+- [Lock-Picking](https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/)
+
+**Check out:**
+
+- [Ingress](https://www.ingress.com/)
+- [Geocaching](https://education.nationalgeographic.org/resource/geocaching/)
+- [Escapology](https://www.escapology.com/en)
+
+**OSINT-Games:**
+
+- [Sourcing.games](https://sourcing.games/)
+- [osint.games](https://www.osint.games/)
+- [spyingchallenge.com](http://spyingchallenge.com/))
+- [10 Beginner OSINT CTF Solutions](https://geckosint.medium.com/10-beginner-osint-ctf-solutions-ae89e557a4b)
+- [More OSINT CTFs](https://warnerchad.medium.com/osint-ctfs-9993129c10c7)
+- [OSINT Challenges List - Reddit](https://www.reddit.com/r/OSINT/comments/vu9i43/looking_for_osint_challenges_ctfs/)
+- [2 great OSINT Training Tools](https://nixintel.info/osint/two-great-osint-training-tools/)
+- [OSINT-Related Games - Reddit](https://www.reddit.com/r/OSINT/comments/i62fhp/osint_related_games/)
+- [The 10 best location-based games](https://www.digitaltrends.com/gaming/best-location-based-gps-games/)
+- [7 Geolocation Games to Get You Exploring the Outdoors](https://www.samsung.com/uk/explore/entertainment/7-geolocation-games-to-get-you-exploring-the-outdoors/)
+- [Location-based game](https://en.wikipedia.org/wiki/Location-based_game)
+- [What is a Fox Hunt in Ham Radio?](https://hamradioplanet.com/what-is-a-fox-hunt-in-ham-radio/)
+- [9 Virtual Games to Play When You Can't Be Together](https://www.realsimple.com/work-life/entertainment/virtual-games)
+
+Carefully study these resources and come back to them as you journey through the world of the hornets, don't forget the roots. This article does not answer questions, but rather raises some rhetorical questions to encourage you to think about something!
+
+- [Comprehensive Counter OSINT](https://github.com/soxoj/counter-osint-guide-en)
+- [Counter OSINT](https://github.com/CScorza/OSINTAnonymous)
+
+# Work: A-Z
+
+I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets!
+
+- ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
+
+**Work:**
+
+- [anonfriendly.com](http://anonfriendly.com/)
+- [osintjobs](https://twitter.com/osintjobs)
+- [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [How to find a job in Web3?](web.archive.org/web/20220618210743/https://twitter.com/_prestwich/status/1538267150917308416)
+- [www.jobprotocol.xyz](https://www.jobprotocol.xyz/) & try [HR games](https://sourcing.games/)!
+- Due Diligence
+- Journalism
+- SMM
+- [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [Scamfari](https://osint.scamfari.com/)
+
+# External Data
+
+**More tools (random) to use in work:**
+
+- [mullvad.net/en/browser](https://mullvad.net/en/browser)
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck)
+- [lampyre.io](https://lampyre.io/)
+- [osintui](https://github.com/wssheldon/osintui)
+- [Detect.Expert](https://Detect.Expert)
+- [Venatorbrowser](https://t.me/venatorbrowser)
+- [dnstwist](https://github.com/elceef/dnstwist)
+- [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
+
+**Awesome articles (external):**
+
+- [Uncovering Hidden Connections: Using Maltego Holehe to Map Out a Person’s Digital Footprint](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
+- [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
+- [Using AI to Develop Realistic Sock Puppet Accounts](https://www.raebaker.net/blog/using-ai-to-develop-realistic-sock-puppet-accounts)
+- [ARCHIVING & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)
+
+# Support Project
+
+Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
+
+If you want to support my work, please consider donating me to the address:
+
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
+
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
+
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
+
+You can also send me a donation to the address from [this repository](https://github.com/OffcierCia/support)!
+
+**Check out as well:**
+
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+
+### Thank you! 🙏
+
+#
 
