@@ -95,7 +95,9 @@ Didn't everyone make cheat sheets at school? It's time to do it again, because i
 
 # Immersive & Gamified Learning: Tricks (a)
 
-I can also recommend that you turn to an interesting subculture that is suitable for introverts! I am sure that everyone is interested in various strange phenomena in one way or another. Immerse yourself in a net-stalking environment! Sometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).
+I can also recommend that you turn to an interesting subculture that is suitable for introverts! I am sure that everyone is interested in various strange phenomena in one way or another. Immerse yourself in a net-stalking environment! 
+
+Sometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).
 
 - [What is Netstalking?](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
@@ -192,7 +194,9 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 # Choosing a Pathway to Follow...
 
-Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment. 
+Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. 
+
+Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment...
 
 - [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
 
