@@ -214,7 +214,7 @@ Join communities, of course and chat, chat! Above I've only mentioned English-sp
 
 - [Sourcing.games](https://sourcing.games/)
 - [osint.games](https://www.osint.games/)
-- [spyingchallenge.com](http://spyingchallenge.com/))
+- [spyingchallenge.com](http://spyingchallenge.com/)
 - [10 Beginner OSINT CTF Solutions](https://geckosint.medium.com/10-beginner-osint-ctf-solutions-ae89e557a4b)
 - [More OSINT CTFs](https://warnerchad.medium.com/osint-ctfs-9993129c10c7)
 - [OSINT Challenges List - Reddit](https://www.reddit.com/r/OSINT/comments/vu9i43/looking_for_osint_challenges_ctfs/)
