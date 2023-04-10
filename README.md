@@ -262,6 +262,34 @@ Carefully study these resources and come back to them as you journey through the
 - [Intelligent evidence: Using open source intelligence (OSINT) in criminal proceedings](https://www.researchgate.net/publication/309015913_Intelligent_evidence_Using_open_source_intelligence_OSINT_in_criminal_proceedings)
 - [The Intelligence Cycle: Generating OSINT from OSINF](https://www.skopenow.com/news/the-intelligence-cycle-creating-osint-from-osinf)
 
+Since this is an atypical guide, I think it's worthwhile to offer you a list of TV shows and movies that I think involve OSINT in one way or another:
+
+- [SEARCHING](https://youtu.be/3Ro9ebQxEOY)
+- [The Most Hated Man on the Internet](https://youtu.be/ySFpxEdKxMw)
+- [Why Did You Kill Me?](https://youtu.be/QEXV8Rif8Vc)
+- [Web of Make Believe: Death, Lies and the Internet](https://youtu.be/Z_l702HNPAA)
+- [Don't F**k With Cats: Hunting an Internet Killer](https://youtu.be/x41SMm-9-i4)
+- [Reddit Ruined Their Lives: The Innocent Victims Of Internet Justice](https://youtu.be/hi14dP5Rdm0)
+- [Cyber Hell: Exposing an Internet Horror](https://youtu.be/hpceNxQASKw)
+- [Who Am I - Kein System ist sicher](https://www.imdb.com/title/tt3042408/)
+- [The History of Analog Horror](https://youtu.be/-I_4ph-L19U)
+- [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/)
+- [Movie 43 (LOL)](https://youtu.be/A9fBCkwDW8c)
+- [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+
+**References:**
+
+- [Any cool movies related to OSINT?](https://www.reddit.com/r/OSINT/comments/owxp7r/any_cool_movies_related_to_osint/)
+- [OSINT Movies List](https://twitter.com/AllForOsint/status/1581244439271350272)
+- [OSINT Movie Time for the Holidays](https://medium.com/@sector035/osint-movie-time-for-the-holidays-7a5f74f18f44)
+- [The best films about OSINT](https://medium.com/@ibederov_en/the-best-films-about-osint-5c3ab580f56)
+- [Intelligence Television and Movies About Spies, Spying, Intelligence and Espionage](https://www.intelligence101.com/my-favourite-intelligence-television-and-movies-about-spies-spying-intelligence-and-espionage/)
+- [DOD film list – spreadsheet version](https://www.spyculture.com/dod-film-list-spreadsheet-version/)
+- [Week in OSINT 2020-12](https://sector035.nl/articles/2020-12)
+- [ARG SubReddit](https://www.reddit.com/r/ARG/)
+- [OSINT SubReddit](https://www.reddit.com/r/OSINT/)
+
+
 # Work: A-Z
 
 I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets!
@@ -293,6 +321,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [dnstwist](https://github.com/elceef/dnstwist)
 - [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
+
+**Specific (to be updated):**
+
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [tgscanrobot](https://t.me/tgscanrobot)
@@ -316,6 +347,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [DarkNet OSINT Guide](https://medium.com/the-sleuth-sheet/darknet-osint-guide-984f68fb7ab3)
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+
+**In-Depth (external):**
+
 - [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 - [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
 - [OSINT: FOUNDATIONS](https://i-intelligence.eu/courses/osint-foundations)
@@ -325,6 +359,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Are you leaking information on the web? Use these tools to find out](https://www.tech.gov.sg/media/technews/are-you-leaking-information-on-the-web)
 - [OSINT: Data Leaks and Data Breaches](https://www.osintguru.com/blog/osint-data-leaks-and-data-breaches)
 - [OSINT with gOSINT](https://brandefense.io/blog/osint-with-gosint/)
+- [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md)
 - [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
 - [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
