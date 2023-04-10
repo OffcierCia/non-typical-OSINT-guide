@@ -2,6 +2,19 @@
 
 #### The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 
+
+| Section                                   | Link                                                                                                   |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Introduction: Civil OSINT                 | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#introduction-civil-osint)              |
+| Immersive & Gamified Learning: Tricks (a) | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-tricks-a) |
+| Training & Practicing                     | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#training--practicing)                  |
+| Choosing a Pathway to Follow...           | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#choosing-a-pathway-to-follow)          |
+| Immersive & Gamified Learning: Games (b)  | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#immersive--gamified-learning-games-b)  |
+| Work (A-Z)                                | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#work-a-z)                              |
+| External Data                             | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#external-data)                         |
+| Support Project                           | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#support-project)                       |
+
+
 # Disclaimer
 
 **Check out:**
