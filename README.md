@@ -59,6 +59,7 @@ I would like to give you the first lesson, all resources which I will advise you
 - [So You Think You Can Google? - Workshop With Henk van Ess](https://youtu.be/uyqXS5lL-mc)
 - [OSINT Origins #1 - Jean-Marc Manach/@manhack](https://youtu.be/XrTFzZ77eEI)
 - [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
+- [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 
 # Mind-Mapping
 
@@ -264,6 +265,12 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [dnstwist](https://github.com/elceef/dnstwist)
 - [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
+- [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
+- [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
+- [tgscanrobot](https://t.me/tgscanrobot)
+- [maigret_osint_bot](https://t.me/maigret_osint_bot)
+- [telesint_bot](https://telesint_bot)
+- [Twitter to TG bot](https://TwttrToTG_Bot)
 
 **Awesome articles (external):**
 
@@ -271,6 +278,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
 - [Using AI to Develop Realistic Sock Puppet Accounts](https://www.raebaker.net/blog/using-ai-to-develop-realistic-sock-puppet-accounts)
 - [ARCHIVING & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 
 # Support Project
 
