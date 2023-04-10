@@ -35,6 +35,8 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 
 # Introduction: Civil OSINT
 
+![StockRoom](./DYbq3kgV4AAAqlK.jpeg) 
+
 To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...
 
 - [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
