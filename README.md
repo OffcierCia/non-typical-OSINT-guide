@@ -348,6 +348,21 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 
+**Some outstanding tools:**
+
+- [datashare.icij.org](https://datashare.icij.org)
+- [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
+- [dtsearch.com](https://www.dtsearch.com/)
+- [Venator](https://t.me/venatorbrowser)
+- [Start.me](https://about.start.me/)
+- [dorksearch.com](https://dorksearch.com)
+- [Advangle](http://advangle.com)
+- [obsidian.md](https://obsidian.md/)
+- [dorkgenius.com](https://dorkgenius.com)
+- [canarytokens.org](https://canarytokens.org/generate)
+- [iplogger.org](https://iplogger.org)
+- [Universal Search](https://t.me/UniversalSearchRobot)
+
 **In-Depth (external):**
 
 - [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
@@ -360,6 +375,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT: Data Leaks and Data Breaches](https://www.osintguru.com/blog/osint-data-leaks-and-data-breaches)
 - [OSINT with gOSINT](https://brandefense.io/blog/osint-with-gosint/)
 - [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md)
+- [How to find - Robot](https://t.me/HowToFind)
 - [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
 - [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
