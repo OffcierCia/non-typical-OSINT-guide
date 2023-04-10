@@ -31,7 +31,7 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
 
-**May the Force be with you!**
+### **May the Force be with you!**
 
 # Introduction: Civil OSINT
 
