@@ -106,6 +106,9 @@ I can also recommend that you turn to an interesting subculture that is suitable
 - [Alternate Reality Game](http://en.wikipedia.org/wiki/Alternate_reality_game)
 - [reddit.com/r/ARG](http://reddit.com/r/ARG)
 - [Net.art](https://officercia.mirror.xyz/VD9IDI8b4jVBHbr5uaGcI_ev6NEKZUuuOhL9IpEfpZs)
+- [Applied Anthropology Research Methods](https://en.wikipedia.org/wiki/Applied_Anthropology_Research_Methods)
+- [Reflections on Becoming an Applied Anthropologist](https://www.jstor.org/stable/25605413)
+- [Applied Anthopology (really, study it!)](https://oxfordre.com/anthropology/browse;jsessionid=469E22D5E27E148C59A31BA5715AD18D?page=3&pageSize=20&sort=titlesort&subSite=anthropology&t0=ORE_ANT%3AREFANT001)
 
 The main thing to remember is your health, it is above all, do not let your principles be shaken by what you see. You are an observer! Here well helps to understand the psychology of [SCP researchers](https://scp-wiki.wikidot.com/) (when nothing is clear, but the scientific method helps to put everything in its place).
 
