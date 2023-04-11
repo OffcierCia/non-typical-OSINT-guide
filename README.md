@@ -15,7 +15,7 @@
 | Support Project                           | [Explore](https://github.com/OffcierCia/non-typical-OSINT-guide#support-project)                       |
 
 
-# Disclaimer
+# Start Here
 
 **Check out:**
 
