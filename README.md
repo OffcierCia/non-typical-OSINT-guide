@@ -19,7 +19,7 @@
 
 **Check out:**
 
-- [Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Navigation (my articles)](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 
 Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. 
@@ -404,6 +404,11 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
 - [Channels about OSINT, Hacking, Security and so on](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
+
+**Check out:**
+
+- [Navigation (my articles)](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 
 # Support Project
 
