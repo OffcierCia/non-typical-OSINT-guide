@@ -72,6 +72,7 @@ All of what I said above you can develop in yourself, but the essence of all dir
 - [Examples of opsec and privacy fails when doing OSINT](https://www.osintme.com/index.php/2022/01/17/examples-of-opsec-and-privacy-fails-when-doing-osint/)
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
 - [Basic OPSEC Tips & Tricks for OSINT researchers](https://web.archive.org/web/20221108024236/https://osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/amp/)
+- [The Osint Me ultimate guide to Telegram OSINT and privacy](https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/)
 
 I would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:
 
