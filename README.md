@@ -337,6 +337,10 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [7 OSINT Books Every Analyst Should Read](https://www.liferaftinc.com/blog/7-osint-books-every-analyst-should-read?hs_amp=true)
 - [Books by Michael Bazzell](https://inteltechniques.com/book1.html)
 - [What to read to understand intelligence and espionage](https://www.wgu.edu/career-guide/information-technology/osint-career.html#openSubscriberModal)
+- [The Official CIA Manual of Trickery and Deception — H. Keith Melton, Robert Wallace (2009)](https://www.bokus.com/bok/9780061943331/official-cia-manual-of-trickery-and-deception/) & [Link](https://www.google.se/books/edition/The_Official_CIA_Manual_of_Trickery_and/LbrzMtkyCGUC?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover) & [Link2](https://www.bokus.com/bok/9780061943331/official-cia-manual-of-trickery-and-deception/)
+- [Spycraft](https://books.google.se/books/about/Spycraft.html?id=eJg0WV6sGlEC&redir_esc=y) & [Link](https://www.google.se/books/edition/Spycraft/RHWH7gVIO9cC?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
+- [Ultimate Spy](https://www.google.se/books/edition/Ultimate_Spy/EObtBgAAQBAJ?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
+- [Bestselling Books by Kevin Mitnick](https://www.mitnicksecurity.com/bestselling-books-by-kevin-mitnick)
 
 # Work: A-Z
 
