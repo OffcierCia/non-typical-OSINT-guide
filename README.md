@@ -128,6 +128,7 @@ The main thing to remember is your health, it is above all, do not let your prin
 Keep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!
 
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
+- [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
 
 **Science + OSINT:**
 
