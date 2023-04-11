@@ -21,6 +21,7 @@
 
 - [Navigation (my articles)](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
+- [Also posted here!](https://officercia.medium.com/the-atypical-osint-guide-2023-276a8d00959)
 
 Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. 
 
