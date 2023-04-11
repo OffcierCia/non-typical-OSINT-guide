@@ -27,6 +27,7 @@ Today I would like to talk about how to become a good OSINT investigator, but to
 This essay is intended to be instructional! Consider your actions carefully or you will be prosecuted or worse! Always keep in mind Ethics & related Laws - like GDPR, etc… You should not romanticize OSINT and on-chain investigations in the same manner that individuals often romanticize hacking and warfare, I highly encourage you!
 
 - [Boston bombing: How internet detectives got it very wrong](https://www.bbc.com/news/technology-22214511)
+- [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf)
 
 It is also crucial to note that OSINT is merely another means to learn about the world around you and is not a way to "get paid instantly." Always take a break to recharge! Your health & mind are important! Read:
 
@@ -196,11 +197,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 # Choosing a Pathway to Follow...
 
-Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. 
-
-Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment...
-
-- [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
+Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or, let's say, [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment...
 
 [Read my channel if you like this topic](https://t.me/officer_cia)... Or someone can even get into [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925) which is growing day-by-day right now. For GEOINT skills training I suggest checking [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
 
@@ -213,10 +210,13 @@ Or [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for examp
 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 - [This page is for anyone who loves open source investigating](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 - [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
+- [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://youtu.be/qwA6MmbeGNo)
+- [Follow!](https://twitter.com/Sector035)
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
 - [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en)
+- [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
 
 I'll highlight some basic advice for you - evaluate information according to different criteria, always know your "base settings" - it's good for the mental health, the things you find shouldn't ruin your foundations! Practice it, do it in your daily life, apply OSINT where it seems un-obvious like mentioned below:
 
@@ -382,6 +382,24 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
 - [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
 - [SOCMINT – or rather OSINT of social media](https://research.securitum.com/socmint-or-rather-osint-of-social-media/)
+
+**More specific resources (external):**
+
+- [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
+- [OSINT - HUMINT](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
+- [Ultimate OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [OSINT List](https://start.me/p/ZME8nR/osint)
+- [Curated OSINT List](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
+- [OSINT Inception](https://start.me/p/Pwy0X4/osint-inception)
+- [Yet another awesome OSINT list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+- [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency)
+- [Awesome On-Chain Investigations HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
+- [Investigator tools](https://start.me/p/gyaOJz/investigator-tools)
+- [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
+- [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/tools.html#title-tools-osint)
+- [OSINT-TOOLS-CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
+- [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
+- [Channels about OSINT, Hacking, Security and so on](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 
 # Support Project
 
