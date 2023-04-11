@@ -242,6 +242,8 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 - [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
 - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://youtu.be/qwA6MmbeGNo)
 - [Follow!](https://twitter.com/Sector035)
+- [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster’s Typosquatting monitoring](https://securityboulevard.com/2022/02/comparing-osint-typosquatting-tools-like-dnstwist-dnsrazzle-against-bolsters-typosquatting-monitoring/)
+- [* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
@@ -252,6 +254,10 @@ I'll highlight some basic advice for you - evaluate information according to dif
 
 - [5 Ways OSINT Can Help Your Career! - Knowmad OSINT](https://knowmad-osint.com/5-ways-osint-can-help-your-career/)
 - [The Art of Attack](https://books.google.nl/books?id=j583EAAAQBAJ&pg=PT10&lpg=PT10&dq=how+to+think+like+an+osint+mindset&source=bl&ots=JeHrgDkP0q&sig=ACfU3U0UC_u94QQs3wdSXmIt2VsZcJNcyw&hl=en&sa=X&ved=2ahUKEwjIvNrwlcj3AhXD0qQKHZfUA50Q6AF6BAgiEAM#v=onepage&q=how%20to%20think%20like%20an%20osint%20mindset&f=false)
+- [Ontology Population for Open-Source Intelligence](https://ceur-ws.org/Vol-2161/paper27.pdf)
+- [Cryptography & OSINT - The fundamentals](https://www.dutchosintguy.com/post/cryptography-osint-the-fundamentals)
+- [Use Zero-Width Characters to Hide Secret Messages in Text (& Even Reveal Leaks)](https://null-byte.wonderhowto.com/how-to/use-zero-width-characters-hide-secret-messages-text-even-reveal-leaks-0198692/)
+- [All About Web Recon & OSINT](https://github.com/pr0xh4ck/web-recon)
 
 # Immersive & Gamified Learning: Games (b)
 
