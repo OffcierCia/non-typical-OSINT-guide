@@ -39,6 +39,8 @@ It is also crucial to note that OSINT is merely another means to learn about the
 This information does not make you better or worse. Humanity as a species has a proclivity to adapt to its surroundings, which, as we all know, begins with knowledge, observations, and methodology. Take care of yourself, consider the consequences of your actions, and respect the privacy of others. Do not cross red lines!
 
 - [Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
+- [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
 
 Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on **civilian** applications. That is my vision, which I hope you will embrace...
 
@@ -54,6 +56,7 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...
 
 - [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
+- [Cognitive Bias and Critical Thinking in Open Source Intelligence (OSINT)](https://deepsec.net/docs/Slides/2014/Cognitive_Bias_and_Critical_Thinking_in_Open_Source_Intelligence_(OSINT)_-_Benjamin_Brown.pdf)
 
 ...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.
 
@@ -104,6 +107,7 @@ Sometimes ordinary people were able to solve crimes which the police could not s
 - [What is Netstalking?](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - [SunCalc Calculator](http://suncalc.net/)
+- [Mind Hacks – Psychological profiling, and mental health in OSINT investigations](https://youtu.be/104WpJm_eGk)
 
 **Also check out:**
 
@@ -125,24 +129,49 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
 
+**Science + OSINT:**
+
+- [Peering into the Mind: Psychological Profiling Through AI and Large Language Models..](https://www.linkedin.com/pulse/peering-mind-psychological-profiling-through-ai-large-smith)
+- [Occam’s razor](https://www.britannica.com/topic/Occams-razor)
+- [How Occam's Razor Works](https://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
+- [Occam's Razor as a Scientific Principle](https://study.com/learn/lesson/occams-razor-scientific-principle.html#:~:text=Occam's%20Razor%20is%20a%20principle%20which%20states%20that%20plurality%20should,used%20a%20little%20more%20loosely.)
+- [CASE STUDY: Personality Profiling and the Power of OSINT](https://brightplanet.com/2016/11/09/case-study-receptiviti-power-osint/)
+
 So, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device. Study:
 
 - [Intuition Is More Than Just A Hunch, Says New Research](https://www.sciencedaily.com/releases/2008/03/080305144210.htm)
 - [Intuition as Emergence: Bridging Psychology, Philosophy and Organizational Science](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787428/full)
 - [Intelligence Analysis: Structured Methods or Intuition?](https://www.academia.edu/4259879/Intelligence_Analysis_Structured_Methods_or_Intuition)
 - [The Potential of Integrating Intelligence and Intuition](https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition)
+- [Social Engineering and the Protection of High-Value Targets](https://www.hensoldt-analytics.com/2023/01/23/social-engineering-osint/)
 
 **Also:**
 
 - [The Power of Shutting Down Your Senses: How to Boost Your Creativity and Have a Clear Mind](https://buffer.com/resources/the-power-of-shutting-down-your-senses-how-to-boost-your-creativity-and-have-a-clear-mind/amp/)
 - [Training Yourself to be an Analytical Thinker](https://wondersmithrae.medium.com/training-yourself-to-be-an-analytical-thinker-476bdb7e7c99)
 - [Using the OSINT Mind-State for Better Online Investigations](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/)
+- [Latest Trends in SOCMINT, OSINT & Cyber-Psychology](https://www.toddington.com/wp-content/uploads/1Day_OSINT_Masterclass-1-1.pdf)
+- [5 Cognitive Biases That Could Affect Your OSINT Investigations](https://www.liferaftinc.com/blog/5-cognitive-biases-that-could-affect-your-osint-investigations)
+- [Citizen OSINT Analysts: Motivations of Open-Source Intelligence Volunteers](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1670900&dswid=-6049)
 
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
 
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [Traps used by cyber detectives…](https://medium.com/@ibederov_en/traps-used-by-cyber-detectives-c778b4853f1a)
 - [MAC Address Investigation](https://t.me/ibederov_en/18)
+
+**Also check out:**
+
+- [Criminals Language from a Psycholinguistics point of view](https://www.paperdue.com/essay/criminals-language-from-a-psycholinguistics-1851)
+- [USING LANGUAGE ANALYSIS FOR IDENTIFYING AND ASSESSING OFFENDERS](https://www.researchgate.net/publication/340985509_FORENSIC_PSYCHOLINGUISTICS_USING_LANGUAGE_ANALYSIS_FOR_IDENTIFYING_AND_ASSESSING_OFFENDERS)
+- [Forensic Psycholinguistics Using Language Analysis for Identifying and Assessing](https://criminalprofiling.com/forensic-psycholinguistics-using-language-analysis-for-identifying-and-assessing/)
+- [The Ultimate Guide to Human Intelligence (HUMINT)](https://www.intelligence101.com/the-ultimate-guide-to-human-intelligence-humint/)
+- [Undermining social engineering using open source intelligence gathering](https://www.researchgate.net/publication/283250856_Undermining_social_engineering_using_open_source_intelligence_gathering)
+- [Signal OSINT - SIGINT](https://worldwidescience.org/topicpages/o/osint+signals+intelligence.html)
+- [E-Discovery, Forensics, and Open Source Intelligence in Legal Research](https://4discovery.com/2019/09/10/litigating-in-an-e-world-e-discovery-forensics-and-open-source-intelligence-in-legal-research/)
+- [From Dissent to OSINT? Understanding, Influencing, and Protecting Roles, Reputation, and Revenue](https://complexdiscovery.com/from-dissent-to-osint-understanding-influencing-and-protecting-roles-reputation-and-revenue/)
+- [The Basics: What is e-Discovery?](https://cdslegal.com/knowledge/the-basics-what-is-e-discovery/)
+- [A system for organizing, collecting, and presenting open-source intelligence](https://link.springer.com/article/10.1007/s42488-022-00068-4)
 
 # Training & Practicing
 
