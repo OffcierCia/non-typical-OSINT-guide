@@ -308,6 +308,8 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/)
 - [Movie 43 (LOL)](https://youtu.be/A9fBCkwDW8c)
 - [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [Open Windows](https://m.imdb.com/title/tt2409818/)
+- [Män som hatar kvinnor](https://m.imdb.com/title/tt1132620/)
 
 **References:**
 
@@ -321,12 +323,20 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [ARG SubReddit](https://www.reddit.com/r/ARG/)
 - [OSINT SubReddit](https://www.reddit.com/r/OSINT/)
 
+**OSINT Bookshelf:**
+
+- [My recently read OSINT & security books – recommendations](https://www.osintme.com/index.php/2021/04/30/my-recently-read-osint-security-books-recommendations/)
+- [The Open Source Intelligence Analysis Bookshelf](https://medium.com/the-sleuth-sheet/the-open-source-intelligence-analysis-bookshelf-942dc05a16bd)
+- [7 OSINT Books Every Analyst Should Read](https://www.liferaftinc.com/blog/7-osint-books-every-analyst-should-read?hs_amp=true)
+- [Books by Michael Bazzell](https://inteltechniques.com/book1.html)
+- [What to read to understand intelligence and espionage](https://www.wgu.edu/career-guide/information-technology/osint-career.html#openSubscriberModal)
 
 # Work: A-Z
 
 I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets!
 
 - ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
+- [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
 
 **Work:**
 
@@ -364,6 +374,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Twitter to TG bot](https://TwttrToTG_Bot)
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
+- [Awesome TG channel](https://t.me/osintil)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 - [EOG](https://t.me/eyeofgod)
 - [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools)
@@ -412,6 +423,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT: Data Leaks and Data Breaches](https://www.osintguru.com/blog/osint-data-leaks-and-data-breaches)
 - [OSINT with gOSINT](https://brandefense.io/blog/osint-with-gosint/)
 - [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md)
+- [An OSINT/SOCMINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
 - [How to find - Robot](https://t.me/HowToFind)
 - [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
@@ -445,6 +457,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT Discord resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
 - [Discord & Telegram OSINT references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
+- [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
 - [Darvester](https://github.com/darvester/darvester)
 - [Telegram & Discord OpSec](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 - [Discord OpSec for servers](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
