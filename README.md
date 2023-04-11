@@ -438,6 +438,19 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Channels about OSINT, Hacking, Security and so on](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
+**Telegram + Discord: Security, OSINT, SOCMINT:**
+
+- [osint-mindset.gitbook.io](https://osint-mindset.gitbook.io) | Tip: Use [deepl.com](https://www.deepl.com/translator)!
+- [Discord OSINT Toolset](https://telegra.ph/Discord-OSINT-Toolset-04-11)
+- [DiscordOSINT](https://github.com/AtonceInventions/DiscordOSINT)
+- [OSINT Discord resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+- [Discord & Telegram OSINT references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
+- [Awesome Discord](https://github.com/jacc/awesome-discord)
+- [Darvester](https://github.com/darvester/darvester)
+- [Telegram & Discord OpSec](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
+- [Discord OpSec for servers](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
+- [If you have been scammed…](https://officercia.mirror.xyz/X5Q0uPwvlgZ6BrvCmyqXlXHFgLAWrMtzAHSvjzrDS7c)
+
 **Check out:**
 
 - [Navigation (my articles)](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
