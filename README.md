@@ -381,6 +381,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [DarkNet OSINT Guide](https://medium.com/the-sleuth-sheet/darknet-osint-guide-984f68fb7ab3)
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK 2020](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+- [Information Operations Recognition: from Nonlinear Analysis to Decision-making](https://arxiv.org/pdf/1901.10876.pdf)
+- [OSINT Analysis of the TOR Foundation](https://arxiv.org/pdf/1803.05201.pdf)
+- [Top 10 OSINT Tools for Nickname Investigation](https://medium.com/@ibederov_en/my-top-10-osint-tools-for-nickname-investigation-40e292fa5c84)
 
 **Some outstanding tools:**
 
