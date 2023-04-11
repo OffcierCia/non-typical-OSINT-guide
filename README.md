@@ -76,6 +76,7 @@ I would like to give you the first lesson, all resources which I will advise you
 - [OSINT Origins #1 - Jean-Marc Manach/@manhack](https://youtu.be/XrTFzZ77eEI)
 - [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
 - [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
+- [A definitive guide to generating usernames for OSINT purposes](https://github.com/soxoj/username-generation-guide)
 
 # Mind-Mapping
 
@@ -336,6 +337,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 - [EOG](https://t.me/eyeofgod)
+- [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools)
+- [Template for new OSINT command-line tools](https://github.com/soxoj/osint-cli-tool-skeleton)
 
 **Awesome articles (external):**
 
@@ -400,6 +403,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT-TOOLS-CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
 - [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
 - [Channels about OSINT, Hacking, Security and so on](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
+- [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 # Support Project
 
