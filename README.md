@@ -116,6 +116,8 @@ Sometimes ordinary people were able to solve crimes which the police could not s
 - [GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - [SunCalc Calculator](http://suncalc.net/)
 - [Mind Hacks – Psychological profiling, and mental health in OSINT investigations](https://youtu.be/104WpJm_eGk)
+- [A Method for Teaching Open Source Intelligence (OSINT) Using Personalised Cloud-based Exercises](https://www.researchgate.net/publication/340023320_A_Method_for_Teaching_Open_Source_Intelligence_OSINT_Using_Personalised_Cloud-based_Exercises)
+- [Attack Simulations Method: Example](https://istrosec.com/service/attack-simulations/)
 
 **Also check out:**
 
