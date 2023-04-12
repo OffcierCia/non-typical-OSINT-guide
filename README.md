@@ -95,6 +95,9 @@ Didn't everyone make cheat sheets at school? It's time to do it again, because i
 - [Top OSINT & Infosec Resources for You and Your Team (2022 Edition): 100+ Blogs, Podcasts, YouTube, Books, and more!](https://www.maltego.com/blog/top-osint-infosec-resources-for-you-and-your-team/)
 - [A Beginner’s Guide to OSINT Investigation with Maltego](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 - [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://youtu.be/46st98FUf8s)
+- [Free Digital Badges for learning / developing OSINT Skills](https://www.reddit.com/r/OSINT/comments/kgew5d/free_digital_badges_for_learning_developing_osint/)
+- [Tips To Encourage Your Child To Participate In Extracurricular Activities](https://talentgum.com/blog/tips-to-encourage-your-child-to-participate-in-extracurricular-activities)
+- [What skills do you need to be good at chess + how to improve it.](https://skillspointer.com/skills-for-chess/)
 
 > A tiny tip - perform [power-searching](https://www.edx.org/course/power-searching-with-google) with using different IPs, over different time ranges and via different [search engines](https://github.com/tasos-py/Search-Engines-Scraper). 
 
