@@ -387,6 +387,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [dnstwist](https://github.com/elceef/dnstwist)
 - [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
+- [OSINT+ChatGPT PDF](https://t.me/osintil/332)
+- [GVision](https://github.com/GONZOsint/gvision?s=35)
 
 **Specific (to be updated):**
 
@@ -402,6 +404,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 - [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools)
 - [Template for new OSINT command-line tools](https://github.com/soxoj/osint-cli-tool-skeleton)
+- [Top OSINT sources and vishing pretexts from DEF CON’s social engineering competition](https://medium.com/@chris.kirsch/top-osint-sources-and-vishing-pretexts-from-def-cons-social-engineering-competition-8e08de4c8ea8)
 
 **Awesome articles (external):**
 
