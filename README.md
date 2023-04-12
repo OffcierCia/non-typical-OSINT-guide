@@ -148,6 +148,7 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 - [Intelligence Analysis: Structured Methods or Intuition?](https://www.academia.edu/4259879/Intelligence_Analysis_Structured_Methods_or_Intuition)
 - [The Potential of Integrating Intelligence and Intuition](https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition)
 - [Social Engineering and the Protection of High-Value Targets](https://www.hensoldt-analytics.com/2023/01/23/social-engineering-osint/)
+- [Trace My Shadow Game](https://myshadow.org/trace-my-shadow)
 
 **Also:**
 
@@ -218,6 +219,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html)
 - [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical/dp/B096TJMV7J)
 - [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)
+- [osintnewsletter.com](https://osintnewsletter.com/)
 
 **Tools:**
 
@@ -424,6 +426,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [canarytokens.org](https://canarytokens.org/generate)
 - [iplogger.org](https://iplogger.org)
 - [Universal Search](https://t.me/UniversalSearchRobot)
+- [Intercepter-NG](http://sniff.su/)
 
 **In-Depth (external):**
 
