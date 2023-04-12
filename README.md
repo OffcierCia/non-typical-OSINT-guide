@@ -228,6 +228,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
 - [OSINT - SAN](https://github.com/Bafomet666/OSINT-SAN)
 - [OSINT Buddy](https://github.com/jerlendds/osintbuddy)
+- [Do not treat a tool like a silver buller for all task!](https://osintessentials.medium.com/the-one-osint-tool-you-must-have-to-supercharge-your-investigations-94f5015b6318)
 
 # Choosing a Pathway to Follow...
 
