@@ -367,11 +367,13 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 **Work:**
 
 - [anonfriendly.com](http://anonfriendly.com/)
-- [osintjobs](https://twitter.com/osintjobs)
+- [osintjobs](https://twitter.com/osintjobs) 
+- [osintjobs.sociallinks.io](https://osintjobs.sociallinks.io/)
 - [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [How to find a job in Web3?](web.archive.org/web/20220618210743/https://twitter.com/_prestwich/status/1538267150917308416)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz/) & try [HR games](https://sourcing.games/)!
 - Due Diligence
+- [Join an already existing crew...](https://osintfr.com/en/our-osinters-are-talented/)
 - Journalism
 - SMM
 - [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
