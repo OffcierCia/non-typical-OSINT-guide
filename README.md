@@ -42,11 +42,14 @@ This information does not make you better or worse. Humanity as a species has a 
 - [Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
 - [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
+- [The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends](https://www.researchgate.net/publication/338495014_The_Not_Yet_Exploited_Goldmine_of_OSINT_Opportunities_Open_Challenges_and_Future_Trends)
 
 Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on **civilian** applications. That is my vision, which I hope you will embrace...
 
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
+- [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
+- [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 
 ### **May the Force be with you!**
 
@@ -56,6 +59,8 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 
 - [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
 - [Cognitive Bias and Critical Thinking in Open Source Intelligence (OSINT)](https://deepsec.net/docs/Slides/2014/Cognitive_Bias_and_Critical_Thinking_in_Open_Source_Intelligence_(OSINT)_-_Benjamin_Brown.pdf)
+- [A Brief History of Open Source Intelligence](https://www.bellingcat.com/resources/articles/2016/07/14/a-brief-history-of-open-source-intelligence/)
+- [How OSINT powered the largest criminal investigation in US history](https://www.isdglobal.org/digital_dispatches/jan-6-series-how-osint-powered-the-largest-criminal-investigation-in-us-history/)
 
 ...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.
 
