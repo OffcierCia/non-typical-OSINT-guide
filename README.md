@@ -350,7 +350,9 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 # Work: A-Z
 
-I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets!
+I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets! 
+
+> Keep in mind that OSINT is NOT a "sort of a [front-running/tailgating](https://www.investopedia.com/terms/f/frontrunning.asp) or scalping but in real life"!
 
 - ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
 - [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
