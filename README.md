@@ -391,7 +391,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Awesome TG channel](https://t.me/osintil)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
-- [EOG](https://t.me/eyeofgod)
 - [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools)
 - [Template for new OSINT command-line tools](https://github.com/soxoj/osint-cli-tool-skeleton)
 
