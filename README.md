@@ -273,6 +273,7 @@ You may even want to de-anonymize telegram users ([read this channel](https://t.
 
 - [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en)
 - [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
+- [From oblivion to illumination. Part 1 | On the line of creativity and defense](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/Ra_UVvUwOrO5W56k2QpP4jKhYAGMhsNnfvwrdKWQ1EI)
 
 I'll highlight some basic advice for you - evaluate information according to different criteria, always know your "base settings" - it's good for the mental health, the things you find shouldn't ruin your foundations! Practice it, do it in your daily life, apply OSINT where it seems un-obvious like mentioned below:
 
