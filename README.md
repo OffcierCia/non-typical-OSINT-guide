@@ -76,6 +76,7 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 - [Special «Blockchain Investigations» Compilation](https://t.me/officer_cia/236)
 - [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [The Beginner’s Guide to Open-Source Intelligence (OSINT): Techniques and Tools](https://medium.com/@mohitdeswal_35470/the-beginners-guide-to-open-source-intelligence-osint-techniques-and-tools-6a91b9c37ee1)
 
 All of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.
 
@@ -93,6 +94,7 @@ I would like to give you the first lesson, all resources which I will advise you
 - [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
 - [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 - [A definitive guide to generating usernames for OSINT purposes](https://github.com/soxoj/username-generation-guide)
+- [Resisting Deterministic Thinking](https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c)
 
 # Mind-Mapping
 
