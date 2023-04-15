@@ -160,6 +160,12 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [An Enriched Threat Intelligence Platform for improving OSINT correlation, analysis, visualization and sharing capabilities](https://www.sciencedirect.com/science/article/abs/pii/S2214212620308589)
 - [Privacy Concerns and Acceptance Factors of OSINT for Cybersecurity: A Representative Survey](https://petsymposium.org/popets/2023/popets-2023-0028.pdf)
 - [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
+- [Call of PSYOPS](https://steemit.com/news/@rusticus/call-of-psyops-video-games-as-psychological-warfare-in-the-21st-century)
+- [OSINT Trends for 2023 and Beyond](https://blog.sociallinks.io/osint-trends-for-2023-and-beyond/)
+- [The Wide-Ranging Uses of OSINT in Military Intelligence](https://blog.sociallinks.io/uses-of-osint-in-military-intelligence/)
+- [Publicly Available Information (PAI) Explained](https://www.babelstreet.com/blog/pai-explained)
+- [Publicly Available information: The Digital Battlefield](https://censa.net/publications/publicly-available-information-the-digital-battlefield/)
+- [Better Utilizing Publicly Available Information](https://www.jstor.org/stable/pdf/resrep20002.7.pdf)
 
 **Cognitive bias mitigation & decision-making when doing OSINT:**
 
@@ -186,6 +192,8 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 - [The Potential of Integrating Intelligence and Intuition](https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition)
 - [Social Engineering and the Protection of High-Value Targets](https://www.hensoldt-analytics.com/2023/01/23/social-engineering-osint/)
 - [Trace My Shadow Game](https://myshadow.org/trace-my-shadow)
+- [What we talk about when we talk about OSINT](https://www.authentic8.com/blog/definition-of-osint)
+- [Publicly Available Information: The Secret to Unclassified Data, Part I](https://overthehorizonmdos.wpcomstaging.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/) & [Copy](https://web.archive.org/web/20191117062938/https://othjournal.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/)
 
 **Also:**
 
