@@ -157,6 +157,26 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [How Occam's Razor Works](https://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
 - [Occam's Razor as a Scientific Principle](https://study.com/learn/lesson/occams-razor-scientific-principle.html#:~:text=Occam's%20Razor%20is%20a%20principle%20which%20states%20that%20plurality%20should,used%20a%20little%20more%20loosely.)
 - [CASE STUDY: Personality Profiling and the Power of OSINT](https://brightplanet.com/2016/11/09/case-study-receptiviti-power-osint/)
+- [An Enriched Threat Intelligence Platform for improving OSINT correlation, analysis, visualization and sharing capabilities](https://www.sciencedirect.com/science/article/abs/pii/S2214212620308589)
+- [Privacy Concerns and Acceptance Factors of OSINT for Cybersecurity: A Representative Survey](https://petsymposium.org/popets/2023/popets-2023-0028.pdf)
+- [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
+
+**Cognitive bias mitigation & decision-making when doing OSINT:**
+
+- [Cognitive Bias Mitigation](https://www.researchgate.net/publication/317702457_Cognitive_Bias_Mitigation)
+- [Cognitive bias mitigation - Wiki](https://en.m.wikipedia.org/wiki/Cognitive_bias_mitigation)
+- [Recognizing and Mitigating Cognitive Biases: A Threat to Objectivity](https://www.theiia.org/en/content/communications/press-releases/2022/may/new-recognizing-and-mitigating-cognitive-biases-a-threat-to-objectivity/)
+- [Cognitive Bias Mitigation: How to Make Decision-Making Rational?](https://ideas.repec.org/p/fau/wpaper/wp2020_01.html)
+- [The Impact of Cognitive Biases on Professionals’ Decision-Making: A Review of Four Occupational Areas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763848/)
+- [HARKing: hypothesizing after the results are known](https://pubmed.ncbi.nlm.nih.gov/15647155/)
+- [Hypothesizing after the results are known (HARKing)](https://embassy.science/wiki/Theme:Cc742a7b-826d-4201-b33e-457f2ef79fb9) & [Paper](https://www2.psych.ubc.ca/~schaller/528Readings/Kerr1998.pdf)
+- [Cognitive vulnerability](https://en.m.wikipedia.org/wiki/Cognitive_vulnerability)
+- [Why do we focus on one characteristic to compare when choosing between alternatives?](https://thedecisionlab.com/biases/take-the-best-heuristic) & [More](https://fourweekmba.com/take-the-best-heuristic/)
+- [IARPA's plan to hack the brains of hackers](https://fcw.com/security/2023/04/iarpas-plan-hack-brains-hackers/385123/)
+- [Are Cyber Attackers Thinking Fast and Slow?](https://journals.sagepub.com/doi/pdf/10.1177/1071181319631096)
+- [DMBOK2](https://www.dama.org/cpages/body-of-knowledge)
+- [US Comission Report - 2005](https://govinfo.library.unt.edu/wmd/about.html)
+- [5 Cognitive Biases could affect your OSINT investigations](https://www.linkedin.com/pulse/5-cognitive-biases-could-affect-your-osint-investigations-?utm_source=share&utm_medium=guest_mobile_web&utm_campaign=copy)
 
 So, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device. Study:
 
@@ -181,6 +201,12 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [Traps used by cyber detectives…](https://medium.com/@ibederov_en/traps-used-by-cyber-detectives-c778b4853f1a)
 - [MAC Address Investigation](https://t.me/ibederov_en/18)
+- [The ULTIMATE Guide to Writing Intelligence Reports…](https://www.intelligence101.com/the-ultimate-guide-to-writing-intelligence-reports-complete-with-templates-examples/)
+- [Business Resilience Resources](https://start.me/p/wMgzM5/business-resilience)
+- [Person OSINT investigation workflow from a privacy perspective](https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/)
+- [Setting Your Moral Compass: A Workbook for Applied Ethics in OSINT](https://ethicaljournalismnetwork.org/setting-your-moral-compass-a-workbook-for-applied-ethics-in-osint)
+- [The Dark Arts of OSINT](https://av.tib.eu/en/media/38959)
+- [OSINT Wiki](https://www.reddit.com/r/OSINT/wiki/index/)
 
 **Also check out:**
 
@@ -449,6 +475,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Venator](https://t.me/venatorbrowser)
 - [Start.me](https://about.start.me/)
 - [dorksearch.com](https://dorksearch.com)
+- [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT)
 - [Advangle](http://advangle.com)
 - [obsidian.md](https://obsidian.md/)
 - [dorkgenius.com](https://dorkgenius.com)
