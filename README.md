@@ -240,6 +240,9 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Somesint](https://tryhackme.com/room/somesint)
 - [osintframework.com](https://osintframework.com)
 - [OSINT At Home YouTube Playlist](https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
+- [myosint.training](https://www.myosint.training/)
+- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
+- [Awesome Maps](https://github.com/simsieg/awesome-maps)
 
 Here is a very good brain-stretching game will help to train associative thinking - a very important skill for anyone in [OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click):
 
