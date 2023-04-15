@@ -251,7 +251,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 # Choosing a Pathway to Follow...
 
-Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or, let's say, [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment...
+Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or, let's say, [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment... Or [searching for rare stories](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) even!
 
 [Read my channel if you like this topic](https://t.me/officer_cia)... Or someone can even get into [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925) which is growing day-by-day right now. For GEOINT skills training I suggest checking [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
 
@@ -286,7 +286,7 @@ I'll highlight some basic advice for you - evaluate information according to dif
 
 # Immersive & Gamified Learning: Games (b)
 
-Join communities, of course and chat, chat! Above I've only mentioned English-speaking communities but there are also local ones, do some research on your own. I’m 100% sure in you! You will succeed! Do you like to hang out with friends? If so, then try playing Dozor or Encounter (or any NightGame based on codebreaking or geolocation or Escapology or Lock-Picking) together! 
+Join communities, of course and chat, chat! Below I've only mentioned English-speaking communities but there are also local ones, do some research on your own. I’m 100% sure in you! You will succeed! Do you like to hang out with friends? If so, then try playing Dozor or Encounter (or any NightGame based on codebreaking or geolocation or Escapology or Lock-Picking) together! 
 
 - [DozoR Team Night Game](https://en.wikipedia.org/wiki/Dozor)
 - [Codebreaking](https://en.m.wikipedia.org/wiki/Codebreaking)
@@ -368,7 +368,7 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 # Work: A-Z
 
-I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Usually know how to write articles, work with an audience, or be a lawyer. Different approaches require different skills and mind-sets! 
+I would see it as learning a foreign language. Okay, you have learned it and come to a country where it is spoken to live. But everyone there knows this language... So it's important to know something else in addition. Typically, it is necessary to have writing skills, interact well with people, or be a lawyer. With all said, different approaches require different skills and mind-sets!
 
 > Keep in mind that OSINT is NOT a "sort of a [front-running/tailgating](https://www.investopedia.com/terms/f/frontrunning.asp) or scalping but in real life"!
 
@@ -412,6 +412,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [tgscanrobot](https://t.me/tgscanrobot)
 - [maigret_osint_bot](https://t.me/maigret_osint_bot)
 - [telesint_bot](https://telesint_bot)
+- [seekr tool](https://github.com/seekr-osint/seekr)
+- [Data Journalism Resources](https://github.com/r3mlab/datajournalism-resources)
+- [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
 - [Twitter to TG bot](https://TwttrToTG_Bot)
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
@@ -429,6 +432,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [ARCHIVING & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+- [Visualizing Darknet](https://medium.com/@cosmograph.app/visualizing-darknet-6846dec7f1d7)
 - [Open Source Intelligence: The Beginners’ Guide to OSINT](https://www.liferaftinc.com/blog/the-beginners-guide-to-osint)
 - [DarkNet OSINT Guide](https://medium.com/the-sleuth-sheet/darknet-osint-guide-984f68fb7ab3)
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
