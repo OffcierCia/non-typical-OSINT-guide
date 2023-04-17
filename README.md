@@ -171,6 +171,7 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 **Cognitive bias mitigation & decision-making when doing OSINT:**
 
+- [Cognitive vulnerabilities of the practitioner-analyst](https://telegra.ph/Cognitive-vulnerabilities-of-the-practitioner-analyst-04-17)
 - [Cognitive Bias Mitigation](https://www.researchgate.net/publication/317702457_Cognitive_Bias_Mitigation)
 - [Cognitive bias mitigation - Wiki](https://en.m.wikipedia.org/wiki/Cognitive_bias_mitigation)
 - [Recognizing and Mitigating Cognitive Biases: A Threat to Objectivity](https://www.theiia.org/en/content/communications/press-releases/2022/may/new-recognizing-and-mitigating-cognitive-biases-a-threat-to-objectivity/)
