@@ -148,7 +148,6 @@ The main thing to remember is your health, it is above all, do not let your prin
 Keep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!
 
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
-- [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
 
 **Science + OSINT:**
 
@@ -274,17 +273,29 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical/dp/B096TJMV7J)
 - [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)
 - [osintnewsletter.com](https://osintnewsletter.com/)
+- [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT)
+- [Yet another awesome OSINT book](https://t.me/osintkanal/2049)
+- [Social Media OSINT](https://github.com/cqcore/Social-Media-OSINT)
+- [Fascinating Search Engines That Search for Faces](https://www.makeuseof.com/tag/3-fascinating-search-engines-search-faces/)
+- [OSINT Tools MegaList](https://pastebin.com/z0FUgiGb)
+- [Future of OSINT: People Searching with ChatGPT](https://dorksearch.com/blog/future-of-osint-people-searching/)
+- [Geolocation: At The Retail Park](https://nixintel.info/osint/geolocation-at-the-retail-park/)
 
-**Tools:**
+**Tools (AI, ChatGPT, ML, Others):**
 
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [ChatGeoPT](https://github.com/earth-genome/ChatGeoPT)
+- [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
 - [Emoji OSINT](https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji)
 - [Advangle](http://advangle.com/)
 - [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
 - [OSINT - SAN](https://github.com/Bafomet666/OSINT-SAN)
 - [OSINT Buddy](https://github.com/jerlendds/osintbuddy)
 - [Do not treat a tool like a silver buller for all task!](https://osintessentials.medium.com/the-one-osint-tool-you-must-have-to-supercharge-your-investigations-94f5015b6318)
+- [The New OSINT Cheat Code: ChatGPT](https://medium.com/the-sleuth-sheet/the-new-osint-cheat-code-chatgpt-cd54c190fa11)
+- [Harnessing the Power of ChatGPT for OSINT: A Practical Guide to Your AI OSINT Assistant](https://hackernoon.com/harnessing-the-power-of-chatgpt-for-osint-a-practical-guide-to-your-ai-osint-assistant)
+- [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)
+- [Offensive AI](https://github.com/jiep/offensive-ai-compilation)
 
 # Choosing a Pathway to Follow...
 
