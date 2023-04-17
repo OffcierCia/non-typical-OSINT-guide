@@ -165,6 +165,9 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [Publicly Available Information (PAI) Explained](https://www.babelstreet.com/blog/pai-explained)
 - [Publicly Available information: The Digital Battlefield](https://censa.net/publications/publicly-available-information-the-digital-battlefield/)
 - [Better Utilizing Publicly Available Information](https://www.jstor.org/stable/pdf/resrep20002.7.pdf)
+- [Practices of Science: False Positives and False Negatives](https://manoa.hawaii.edu/exploringourfluidearth/chemical/matter/properties-matter/practices-science-false-positives-and-false-negatives)
+- [False Positives and False Negatives in Information Security](https://www.guardrails.io/blog/false-positives-and-false-negatives-in-information-security/)
+- [Minimize False Positives in Your OSINT Investigations](https://mediasonar.com/reports/minimize-false-positives-osint-investigations/)
 
 **Cognitive bias mitigation & decision-making when doing OSINT:**
 
