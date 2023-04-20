@@ -83,6 +83,7 @@ All of what I said above you can develop in yourself, but the essence of all dir
 - [SERM](https://thebusinessprofessor.com/seo-social-media-direct-marketing/search-engine-reputation-management-definition)
 - [ORM](https://medium.com/elfsight-blog/introduction-to-search-engine-reputation-management-serm-44467c891c0b)
 - [Examples of opsec and privacy fails when doing OSINT](https://www.osintme.com/index.php/2022/01/17/examples-of-opsec-and-privacy-fails-when-doing-osint/)
+- [WhatBreach](https://github.com/Ekultek/WhatBreach)
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
 - [Basic OPSEC Tips & Tricks for OSINT researchers](https://web.archive.org/web/20221108024236/https://osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/amp/)
 - [The Osint Me ultimate guide to Telegram OSINT and privacy](https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/)
@@ -266,6 +267,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [twitter.com/OsintJobs](https://twitter.com/OsintJobs) - jobs in OSINT
 - [www.reddit.com/r/OSINT](https://www.reddit.com/r/OSINT) - the biggest thematic subReddit
 - [Channels about OSINT, Hacking, Security and so on](https://telegra.ph/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
+- [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT)
+- [15 tools you should know as a security analyst](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
 
  **More Resources:**
  
@@ -509,6 +512,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [iplogger.org](https://iplogger.org)
 - [Universal Search](https://t.me/UniversalSearchRobot)
 - [Intercepter-NG](http://sniff.su/)
+- [metadata2go.com](https://www.metadata2go.com)
+- [suip.biz](https://suip.biz/)
 
 **In-Depth (external):**
 
