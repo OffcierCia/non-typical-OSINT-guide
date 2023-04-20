@@ -357,6 +357,7 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 
 **OSINT-Games:**
 
+- [kasescenarios.com](https://kasescenarios.com/)
 - [Sourcing.games](https://sourcing.games/)
 - [osint.games](https://www.osint.games/)
 - [spyingchallenge.com](http://spyingchallenge.com/)
