@@ -148,6 +148,7 @@ The main thing to remember is your health, it is above all, do not let your prin
 
 Keep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!
 
+- [Act like a Lion 🦁](https://twitter.com/jpurd17/status/1648669362910552067?s=20)
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
 
 **Science + OSINT:**
@@ -217,6 +218,7 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Business Resilience Resources](https://start.me/p/wMgzM5/business-resilience)
 - [Person OSINT investigation workflow from a privacy perspective](https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/)
 - [Setting Your Moral Compass: A Workbook for Applied Ethics in OSINT](https://ethicaljournalismnetwork.org/setting-your-moral-compass-a-workbook-for-applied-ethics-in-osint)
+- [Reddit Bureau of Investigation](https://www.reddit.com/r/RBI/)
 - [The Dark Arts of OSINT](https://av.tib.eu/en/media/38959)
 - [OSINT Wiki](https://www.reddit.com/r/OSINT/wiki/index/)
 
@@ -290,6 +292,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 **Tools (AI, ChatGPT, ML, Others):**
 
+- [OSINT Tools Map](https://metaosint.github.io/chart)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [ChatGeoPT](https://github.com/earth-genome/ChatGeoPT)
 - [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
