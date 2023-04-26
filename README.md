@@ -160,12 +160,18 @@ I can also recommend that you turn to an interesting subculture that is suitable
 
 Sometimes ordinary people were able to solve crimes which the police could not solve for years with OSINT and GEOINT alone (I could put in here links to subreddits, movies and news but since you and I are now doing OSINT I advise you to find it on your own).
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [What is Netstalking?](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - [SunCalc Calculator](http://suncalc.net/)
 - [Mind Hacks – Psychological profiling, and mental health in OSINT investigations](https://youtu.be/104WpJm_eGk)
 - [A Method for Teaching Open Source Intelligence (OSINT) Using Personalised Cloud-based Exercises](https://www.researchgate.net/publication/340023320_A_Method_for_Teaching_Open_Source_Intelligence_OSINT_Using_Personalised_Cloud-based_Exercises)
 - [Attack Simulations Method: Example](https://istrosec.com/service/attack-simulations/)
+
+</details>
 
 **Also check out:**
 
@@ -178,10 +184,16 @@ Sometimes ordinary people were able to solve crimes which the police could not s
 
 The main thing to remember is your health, it is above all, do not let your principles be shaken by what you see. You are an observer! Here well helps to understand the psychology of [SCP researchers](https://scp-wiki.wikidot.com/) (when nothing is clear, but the scientific method helps to put everything in its place).
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Netstalking: In-Depth](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [How I found early Solana ecosystem Developers using OSINT tactics](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 - [The Hitchhiker’s Guide to Online Anonymity](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
 - [OpSec researches and data terminals - contributions are welcome.](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+
+</details>
 
 Keep in mind that in this part of the Global Internet (I mean OSINT in general, not only the Net-stalking), the percentage of people who are actively looking for problems or need to express their emotions is no different from other places!
 
@@ -248,6 +260,10 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Beginners Field Guide: Where & How to Learn OSINT](https://medium.com/the-sleuth-sheet/beginners-field-guide-where-how-to-learn-osint-bd2e11469f31)
 - [Traps used by cyber detectives…](https://medium.com/@ibederov_en/traps-used-by-cyber-detectives-c778b4853f1a)
 - [MAC Address Investigation](https://t.me/ibederov_en/18)
@@ -258,6 +274,8 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Reddit Bureau of Investigation](https://www.reddit.com/r/RBI/)
 - [The Dark Arts of OSINT](https://av.tib.eu/en/media/38959)
 - [OSINT Wiki](https://www.reddit.com/r/OSINT/wiki/index/)
+
+</details>
 
 **Also check out:**
 
@@ -366,9 +384,15 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en)
 - [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
 - [From oblivion to illumination. Part 1 | On the line of creativity and defense](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/Ra_UVvUwOrO5W56k2QpP4jKhYAGMhsNnfvwrdKWQ1EI)
+
+</details>
 
 I'll highlight some basic advice for you - evaluate information according to different criteria, always know your "base settings" - it's good for the mental health, the things you find shouldn't ruin your foundations! Practice it, do it in your daily life, apply OSINT where it seems un-obvious like mentioned below:
 
@@ -414,12 +438,18 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 
 Carefully study these resources and come back to them as you journey through the world of the hornets, don't forget the roots. This article does not answer questions, but rather raises some rhetorical questions to encourage you to think about something!
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [Comprehensive Counter OSINT](https://github.com/soxoj/counter-osint-guide-en)
 - [Counter OSINT](https://github.com/CScorza/OSINTAnonymous)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 - [Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT)](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002585)
 - [Intelligent evidence: Using open source intelligence (OSINT) in criminal proceedings](https://www.researchgate.net/publication/309015913_Intelligent_evidence_Using_open_source_intelligence_OSINT_in_criminal_proceedings)
 - [The Intelligence Cycle: Generating OSINT from OSINF](https://www.skopenow.com/news/the-intelligence-cycle-creating-osint-from-osinf)
+
+</details>
 
 Since this is an atypical guide, I think it's worthwhile to offer you a list of TV shows and movies that I think involve OSINT in one way or another:
 
@@ -469,9 +499,15 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > Keep in mind that OSINT is NOT a "sort of a [front-running/tailgating](https://www.investopedia.com/terms/f/frontrunning.asp) or scalping but in real life"!
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
 - [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
 - [Actually a great book about attacks & defenses](https://www.amazon.com/Network-Attacks-Defenses-Hands-Approach-ebook/dp/B00A8SN8WQ)
+
+</details>
 
 **Work:**
 
