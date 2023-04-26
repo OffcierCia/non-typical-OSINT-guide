@@ -38,26 +38,45 @@ This essay is intended to be instructional! Consider your actions carefully or y
 - [Boston bombing: How internet detectives got it very wrong](https://www.bbc.com/news/technology-22214511)
 - [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf)
 
-It is also crucial to note that OSINT is merely another means to learn about the world around you and is not a way to "get paid instantly." Always take a break to recharge! Your health & mind are important! Read:
+It is also crucial to note that OSINT is merely another means to learn about the world around you and is not a way to "get paid instantly." Always take a break to recharge! Your health & mind are important!
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [How to know when to stop](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop)
 - [How to Become a 1000 Year Old Vampire](https://www.lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
 - [How To Learn Fast](https://degatchi.com/articles/how-to-learn-fast/)
 - [How to Use Mind Maps to Unleash Your Brain's Creativity and Potential](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
 
+</details>
+
 This information does not make you better or worse. Humanity as a species has a proclivity to adapt to its surroundings, which, as we all know, begins with knowledge, observations, and methodology. Take care of yourself, consider the consequences of your actions, and respect the privacy of others. Do not cross red lines!
 
+<details>
+<summary>Expand</summary>
+<br />
+
+- [OSINT + Crypto](https://www.forensicxs.com/blockchain-osint-decentraland/)
 - [Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
 - [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
 - [The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends](https://www.researchgate.net/publication/338495014_The_Not_Yet_Exploited_Goldmine_of_OSINT_Opportunities_Open_Challenges_and_Future_Trends)
 
+</details>
+
 Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on **civilian** applications. That is my vision, which I hope you will embrace...
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
 - [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
+
+</details>
 
 ### **May the Force be with you!**
 
@@ -65,12 +84,22 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 
 To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...
 
+<details>
+<summary>Expand</summary>
+<br />
+
 - [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
 - [Cognitive Bias and Critical Thinking in Open Source Intelligence (OSINT)](https://deepsec.net/docs/Slides/2014/Cognitive_Bias_and_Critical_Thinking_in_Open_Source_Intelligence_(OSINT)_-_Benjamin_Brown.pdf)
 - [A Brief History of Open Source Intelligence](https://www.bellingcat.com/resources/articles/2016/07/14/a-brief-history-of-open-source-intelligence/)
 - [How OSINT powered the largest criminal investigation in US history](https://www.isdglobal.org/digital_dispatches/jan-6-series-how-osint-powered-the-largest-criminal-investigation-in-us-history/)
 
+</details>
+
 ...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [Meet the Blockchain Detectives Who Track Crypto’s Hackers and Scammers](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
 - [Special «Blockchain Investigations» Compilation](https://t.me/officer_cia/236)
@@ -78,7 +107,13 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 - [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [The Beginner’s Guide to Open-Source Intelligence (OSINT): Techniques and Tools](https://medium.com/@mohitdeswal_35470/the-beginners-guide-to-open-source-intelligence-osint-techniques-and-tools-6a91b9c37ee1)
 
+</details>
+
 All of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.
+
+<details>
+<summary>Expand</summary>
+<br />
 
 - [SERM](https://thebusinessprofessor.com/seo-social-media-direct-marketing/search-engine-reputation-management-definition)
 - [ORM](https://medium.com/elfsight-blog/introduction-to-search-engine-reputation-management-serm-44467c891c0b)
@@ -87,6 +122,8 @@ All of what I said above you can develop in yourself, but the essence of all dir
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
 - [Basic OPSEC Tips & Tricks for OSINT researchers](https://web.archive.org/web/20221108024236/https://osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/amp/)
 - [The Osint Me ultimate guide to Telegram OSINT and privacy](https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/)
+
+</details>
 
 I would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:
 
@@ -412,6 +449,7 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [Week in OSINT 2020-12](https://sector035.nl/articles/2020-12)
 - [ARG SubReddit](https://www.reddit.com/r/ARG/)
 - [OSINT SubReddit](https://www.reddit.com/r/OSINT/)
+- [Blockchain OSINT](https://www.forensicxs.com/blockchain-osint-decentraland/)
 
 **OSINT Bookshelf:**
 
@@ -433,6 +471,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 - ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
 - [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
+- [Actually a great book about attacks & defenses](https://www.amazon.com/Network-Attacks-Defenses-Hands-Approach-ebook/dp/B00A8SN8WQ)
 
 **Work:**
 
@@ -459,6 +498,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [osintui](https://github.com/wssheldon/osintui)
 - [Detect.Expert](https://Detect.Expert)
 - [Venatorbrowser](https://t.me/venatorbrowser)
+- [app.shadowmap.org](https://app.shadowmap.org/)
 - [dnstwist](https://github.com/elceef/dnstwist)
 - [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
 - [OSINT+ChatGPT PDF](https://t.me/osintil/332)
@@ -478,6 +518,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Awesome TG channel](https://t.me/osintil)
+- [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
+- [metaosint.github.io](https://metaosint.github.io/chart)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
 - [OSINT open-source tools catalogue](https://github.com/HowToFind-bot/osint-tools)
 - [Template for new OSINT command-line tools](https://github.com/soxoj/osint-cli-tool-skeleton)
@@ -485,6 +527,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Awesome articles (external):**
 
+- [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
+- [cybdetective.substack.com](https://cybdetective.substack.com)
 - [Uncovering Hidden Connections: Using Maltego Holehe to Map Out a Person’s Digital Footprint](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
 - [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
 - [Using AI to Develop Realistic Sock Puppet Accounts](https://www.raebaker.net/blog/using-ai-to-develop-realistic-sock-puppet-accounts)
