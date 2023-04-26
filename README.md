@@ -40,16 +40,10 @@ This essay is intended to be instructional! Consider your actions carefully or y
 
 It is also crucial to note that OSINT is merely another means to learn about the world around you and is not a way to "get paid instantly." Always take a break to recharge! Your health & mind are important!
 
-<details>
-<summary>Expand</summary>
-<br />
-
 - [How to know when to stop](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop)
 - [How to Become a 1000 Year Old Vampire](https://www.lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
 - [How To Learn Fast](https://degatchi.com/articles/how-to-learn-fast/)
 - [How to Use Mind Maps to Unleash Your Brain's Creativity and Potential](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
-
-</details>
 
 This information does not make you better or worse. Humanity as a species has a proclivity to adapt to its surroundings, which, as we all know, begins with knowledge, observations, and methodology. Take care of yourself, consider the consequences of your actions, and respect the privacy of others. Do not cross red lines!
 
@@ -67,16 +61,10 @@ This information does not make you better or worse. Humanity as a species has a 
 
 Always think twice before acting, follow the law, and follow the OpSec rules. If you want to help or conduct social investigations but lack experience, please reach out to more experienced people so that you do not harm the victims or those attempting to save them. In my articles, on the other hand, I reveal a different application of OSINT, inspired by due diligence and civil financial intelligence, with a focus on **civilian** applications. That is my vision, which I hope you will embrace...
 
-<details>
-<summary>Expand</summary>
-<br />
-
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
 - [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
-
-</details>
 
 ### **May the Force be with you!**
 
@@ -84,16 +72,10 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 
 To begin with, I want to say that I will consider OSINT as a set of skills or a mindset, because it can be directly related to doxing, military GEO-INT performed by a security company employee or just media OSINT performed by a VC fund employee in order to find new projects for investment, taking the theory of handshakes as a basis...
 
-<details>
-<summary>Expand</summary>
-<br />
-
 - [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
 - [Cognitive Bias and Critical Thinking in Open Source Intelligence (OSINT)](https://deepsec.net/docs/Slides/2014/Cognitive_Bias_and_Critical_Thinking_in_Open_Source_Intelligence_(OSINT)_-_Benjamin_Brown.pdf)
 - [A Brief History of Open Source Intelligence](https://www.bellingcat.com/resources/articles/2016/07/14/a-brief-history-of-open-source-intelligence/)
 - [How OSINT powered the largest criminal investigation in US history](https://www.isdglobal.org/digital_dispatches/jan-6-series-how-osint-powered-the-largest-criminal-investigation-in-us-history/)
-
-</details>
 
 ...Or even a crypto-forensics specialist investigating a major Web3.0 hack case. In other words, it can be used in all spheres of life because it is only a method of working with, assessing and ranking information - do not ever forget that we are all living in the Information Era.
 
@@ -111,10 +93,6 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 
 All of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.
 
-<details>
-<summary>Expand</summary>
-<br />
-
 - [SERM](https://thebusinessprofessor.com/seo-social-media-direct-marketing/search-engine-reputation-management-definition)
 - [ORM](https://medium.com/elfsight-blog/introduction-to-search-engine-reputation-management-serm-44467c891c0b)
 - [Examples of opsec and privacy fails when doing OSINT](https://www.osintme.com/index.php/2022/01/17/examples-of-opsec-and-privacy-fails-when-doing-osint/)
@@ -122,8 +100,6 @@ All of what I said above you can develop in yourself, but the essence of all dir
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
 - [Basic OPSEC Tips & Tricks for OSINT researchers](https://web.archive.org/web/20221108024236/https://osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/amp/)
 - [The Osint Me ultimate guide to Telegram OSINT and privacy](https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/)
-
-</details>
 
 I would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:
 
