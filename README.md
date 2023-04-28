@@ -498,7 +498,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - Journalism
 - SMM
 - [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
-- [Scamfari](https://osint.scamfari.com/)
+- [strategytribe.io](https://strategytribe.io)
+- [Scamfari](https://telegra.ph/Scamfari-04-28)
 
 # External Data
 
