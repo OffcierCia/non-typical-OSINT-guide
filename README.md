@@ -482,6 +482,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - ["There's No Such Thing As Open Source Intelligence"](https://threadreaderapp.com/thread/1633909123988242438.html)
 - [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
 - [Actually a great book about attacks & defenses](https://www.amazon.com/Network-Attacks-Defenses-Hands-Approach-ebook/dp/B00A8SN8WQ)
+- [OSINT Guide – Open Source Intelligence](https://www.osintguide.com/2023/01/04/start-a-consulting-business-as-an-osint-expert/)
 
 </details>
 
@@ -510,6 +511,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [lampyre.io](https://lampyre.io/)
 - [osintui](https://github.com/wssheldon/osintui)
 - [Detect.Expert](https://Detect.Expert)
+- [cylect.io](https://cylect.io/)
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [app.shadowmap.org](https://app.shadowmap.org/)
 - [dnstwist](https://github.com/elceef/dnstwist)
@@ -619,6 +621,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [osint-mindset.gitbook.io](https://osint-mindset.gitbook.io) | Tip: Use [deepl.com](https://www.deepl.com/translator)!
 - [Discord OSINT Toolset](https://telegra.ph/Discord-OSINT-Toolset-04-11)
 - [DiscordOSINT](https://github.com/AtonceInventions/DiscordOSINT)
+- [Telegram OSINT](https://github.com/cqcore/Telegram-OSINT)
 - [OSINT Discord resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
 - [Discord & Telegram OSINT references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
