@@ -44,6 +44,8 @@ It is also crucial to note that OSINT is merely another means to learn about the
 - [How to Become a 1000 Year Old Vampire](https://www.lesswrong.com/posts/5QpufhoH2ASnppsjs/how-to-become-a-1000-year-old-vampire)
 - [How To Learn Fast](https://degatchi.com/articles/how-to-learn-fast/)
 - [How to Use Mind Maps to Unleash Your Brain's Creativity and Potential](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
+- [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
+- [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
 
 This information does not make you better or worse. Humanity as a species has a proclivity to adapt to its surroundings, which, as we all know, begins with knowledge, observations, and methodology. Take care of yourself, consider the consequences of your actions, and respect the privacy of others. Do not cross red lines!
 
@@ -52,9 +54,8 @@ This information does not make you better or worse. Humanity as a species has a 
 <br />
 
 - [OSINT + Crypto](https://www.forensicxs.com/blockchain-osint-decentraland/)
-- [Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
-- [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
-- [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
+- [Here we discuss how one can investigate crypto hacks and security incidents!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [osint.sh All in One OSINT Tools List](https://osint.sh/)
 - [The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends](https://www.researchgate.net/publication/338495014_The_Not_Yet_Exploited_Goldmine_of_OSINT_Opportunities_Open_Challenges_and_Future_Trends)
 
 </details>
@@ -63,6 +64,7 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
+- [inteltechniques.com](https://inteltechniques.com)
 - [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 
@@ -483,6 +485,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [How to Become an Open-Source Intelligence (OSINT) Investigator](https://www.wgu.edu/career-guide/information-technology/osint-career.html#close)
 - [Actually a great book about attacks & defenses](https://www.amazon.com/Network-Attacks-Defenses-Hands-Approach-ebook/dp/B00A8SN8WQ)
 - [OSINT Guide – Open Source Intelligence](https://www.osintguide.com/2023/01/04/start-a-consulting-business-as-an-osint-expert/)
+- [The Art of Proactive Defense: Mastering Threat Hunting with OSINT Tools](https://medium.com/@mohitdeswal_35470/the-art-of-proactive-defense-mastering-threat-hunting-with-osint-tools-336683d6d53b)
 
 </details>
 
@@ -512,6 +515,9 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [osintui](https://github.com/wssheldon/osintui)
 - [Detect.Expert](https://Detect.Expert)
 - [cylect.io](https://cylect.io/)
+- [tazeros.com/webanalytics](https://tazeros.com/webanalytics)
+- [dorkgenius.com](https://dorkgenius.com)
+- [meta-webtools.com](https://meta-webtools.com/)
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [app.shadowmap.org](https://app.shadowmap.org/)
 - [dnstwist](https://github.com/elceef/dnstwist)
