@@ -272,6 +272,7 @@ Once you can distinguish the information, sort it out then the next thing you ca
 
 **Good training materials:**
 
+- [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days)
 - [Googledorking](https://tryhackme.com/room/googledorking)
 - [Searchlightosint](https://tryhackme.com/room/searchlightosint)
 - [Shodan](https://tryhackme.com/room/shodan)
@@ -493,6 +494,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 - [anonfriendly.com](http://anonfriendly.com/)
 - [osintjobs](https://twitter.com/osintjobs) 
+- [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days)
 - [osintjobs.sociallinks.io](https://osintjobs.sociallinks.io/)
 - [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [How to find a job in Web3?](web.archive.org/web/20220618210743/https://twitter.com/_prestwich/status/1538267150917308416)
@@ -551,6 +553,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
 - [cybdetective.substack.com](https://cybdetective.substack.com)
 - [Uncovering Hidden Connections: Using Maltego Holehe to Map Out a Person’s Digital Footprint](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
+- [Espionage PDF](https://t.me/irozysk/9243)
+- [Hacktoria — Human Traffickers](https://medium.com/@wirec47/hacktoria-human-traffickers-b9bb00638c6a)
 - [Password OSINT](https://viruszzwarning.medium.com/password-osint-fc4fd750ea8c)
 - [Using AI to Develop Realistic Sock Puppet Accounts](https://www.raebaker.net/blog/using-ai-to-develop-realistic-sock-puppet-accounts)
 - [ARCHIVING & OSINT](https://latenightafa.noblogs.org/archiving-and-osint/)
@@ -575,6 +579,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [dorksearch.com](https://dorksearch.com)
 - [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT)
 - [Advangle](http://advangle.com)
+- [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [obsidian.md](https://obsidian.md/)
 - [dorkgenius.com](https://dorkgenius.com)
 - [canarytokens.org](https://canarytokens.org/generate)
