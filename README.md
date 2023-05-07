@@ -314,6 +314,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
  **More Resources:**
  
 - [Awesome OSINT + Crypto](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
+- [Google Hacking](https://seckrd.com/google-hacking)
 - [GOSI: GIAC Open Source Intelligence](https://www.giac.org/certification/open-source-intelligence-gosi)
 - [SEC487: Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
 - [Inteltechniques.net](https://www.inteltechniques.net/)
