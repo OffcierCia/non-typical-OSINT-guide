@@ -282,6 +282,7 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Searchlightosint](https://tryhackme.com/room/searchlightosint)
 - [Shodan](https://tryhackme.com/room/shodan)
 - [Geolocatingimages](https://tryhackme.com/room/geolocatingimages)
+- [Instruments-on-the-radio-waves](https://telegra.ph/Instruments-on-the-radio-waves-02-01) + [websdr.org](https://websdr.org) + [try 😅](http://websdr.ewi.utwente.nl:8901/?tune=4625)
 - [Somesint](https://tryhackme.com/room/somesint)
 - [osintframework.com](https://osintframework.com)
 - [OSINT At Home YouTube Playlist](https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy)
