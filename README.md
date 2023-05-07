@@ -525,8 +525,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 - [mullvad.net/en/browser](https://mullvad.net/en/browser)
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck)
-- [lampyre.io](https://lampyre.io/) #BacarefullwhatyouOSINTWith
-- [Illicit Services](https://search.illicit.services/) #BacarefullwhatyouOSINTWith
+- [lampyre.io](https://lampyre.io/)
 - [osintui](https://github.com/wssheldon/osintui)
 - [Detect.Expert](https://Detect.Expert)
 - [cylect.io](https://cylect.io/)
@@ -695,5 +694,3 @@ You can also send me a donation to the address from [this repository](https://gi
 ### Thank you! 🙏
 
 ---
-*#BacarefullwhatyouOSINTWith Use it with caution! Don't use for sensitive information or without a proper opsec posture.*
-  
