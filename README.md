@@ -31,12 +31,14 @@
 - [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Also posted here!](https://officercia.medium.com/the-atypical-osint-guide-2023-276a8d00959)
 
-Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. 
+Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. This manual is the culmination of years of work by OSINT professionals. Consider this guidebook to be a compilation of advice and routes!
 
-This essay is intended to be instructional! Consider your actions carefully or you will be prosecuted or worse! Always keep in mind Ethics & related Laws - like GDPR, etc… You should not romanticize OSINT and on-chain investigations in the same manner that individuals often romanticize hacking and warfare, I highly encourage you!
+Keep in mind, this essay is intended to be instructional! Consider your actions carefully or you will be prosecuted or worse! Always keep in mind Ethics & related Laws - like GDPR, etc… You should not romanticize OSINT and on-chain investigations in the same manner that individuals often romanticize hacking and warfare, I highly encourage you!
 
 - [Boston bombing: How internet detectives got it very wrong](https://www.bbc.com/news/technology-22214511)
 - [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf)
+
+> Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! OSINT professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.
 
 It is also crucial to note that OSINT is merely another means to learn about the world around you and is not a way to "get paid instantly." Always take a break to recharge! Your health & mind are important!
 
