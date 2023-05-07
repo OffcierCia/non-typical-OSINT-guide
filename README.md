@@ -186,6 +186,9 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [Occam's Razor as a Scientific Principle](https://study.com/learn/lesson/occams-razor-scientific-principle.html#:~:text=Occam's%20Razor%20is%20a%20principle%20which%20states%20that%20plurality%20should,used%20a%20little%20more%20loosely.)
 - [CASE STUDY: Personality Profiling and the Power of OSINT](https://brightplanet.com/2016/11/09/case-study-receptiviti-power-osint/)
 - [An Enriched Threat Intelligence Platform for improving OSINT correlation, analysis, visualization and sharing capabilities](https://www.sciencedirect.com/science/article/abs/pii/S2214212620308589)
+
+**Practising:**
+
 - [Privacy Concerns and Acceptance Factors of OSINT for Cybersecurity: A Representative Survey](https://petsymposium.org/popets/2023/popets-2023-0028.pdf)
 - [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
 - [Call of PSYOPS](https://steemit.com/news/@rusticus/call-of-psyops-video-games-as-psychological-warfare-in-the-21st-century)
@@ -312,6 +315,12 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [GOSI: GIAC Open Source Intelligence](https://www.giac.org/certification/open-source-intelligence-gosi)
 - [SEC487: Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
 - [Inteltechniques.net](https://www.inteltechniques.net/)
+- [IT security lecture](https://github.com/bkimminich/it-security-lecture/)
+- [r4ven Tool](https://github.com/spyboy-productions/r4ven)
+- [Unredacter](https://github.com/BishopFox/unredacter)
+- [forensicdots.de](https://www.forensicdots.de/)
+- [Meta-secret App](https://github.com/meta-secret)
+- [Portable Secret App](https://mprimi.github.io/portable-secret/)
 - [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html)
 - [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical/dp/B096TJMV7J)
 - [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)
@@ -332,6 +341,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
 - [Emoji OSINT](https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji)
 - [Advangle](http://advangle.com/)
+- [dorkgpt.com](https://www.dorkgpt.com/)
 - [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
 - [OSINT - SAN](https://github.com/Bafomet666/OSINT-SAN)
 - [OSINT Buddy](https://github.com/jerlendds/osintbuddy)
