@@ -330,6 +330,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)
 - [osintnewsletter.com](https://osintnewsletter.com/)
 - [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT)
+- [geodetective.io](https://geodetective.io/)
 - [Yet another awesome OSINT book](https://t.me/osintkanal/2049)
 - [Social Media OSINT](https://github.com/cqcore/Social-Media-OSINT)
 - [Fascinating Search Engines That Search for Faces](https://www.makeuseof.com/tag/3-fascinating-search-engines-search-faces/)
