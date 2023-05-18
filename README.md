@@ -257,6 +257,7 @@ Once you can distinguish the information, sort it out then the next thing you ca
 - [Reddit Bureau of Investigation](https://www.reddit.com/r/RBI/)
 - [The Dark Arts of OSINT](https://av.tib.eu/en/media/38959)
 - [OSINT Wiki](https://www.reddit.com/r/OSINT/wiki/index/)
+- [OSINT Map](https://cipher387.github.io/osintmap)
 
 </details>
 
@@ -347,9 +348,11 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Emoji OSINT](https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji)
 - [Advangle](http://advangle.com/)
 - [dorkgpt.com](https://www.dorkgpt.com/)
+- [OSINT & ChatGPT: 103 Ideas](https://t.me/irozysk/9377)
 - [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
 - [OSINT - SAN](https://github.com/Bafomet666/OSINT-SAN)
 - [OSINT Buddy](https://github.com/jerlendds/osintbuddy)
+- [ChatGPT: The AI-Powered Secret Weapon for OSINT](https://blog.gopenai.com/chatgpt-the-ai-powered-secret-weapon-for-osint-133a68d8302e)
 - [Do not treat a tool like a silver buller for all task!](https://osintessentials.medium.com/the-one-osint-tool-you-must-have-to-supercharge-your-investigations-94f5015b6318)
 - [The New OSINT Cheat Code: ChatGPT](https://medium.com/the-sleuth-sheet/the-new-osint-cheat-code-chatgpt-cd54c190fa11)
 - [Harnessing the Power of ChatGPT for OSINT: A Practical Guide to Your AI OSINT Assistant](https://hackernoon.com/harnessing-the-power-of-chatgpt-for-osint-a-practical-guide-to-your-ai-osint-assistant)
@@ -375,6 +378,7 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 - [Follow!](https://twitter.com/Sector035)
 - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster’s Typosquatting monitoring](https://securityboulevard.com/2022/02/comparing-osint-typosquatting-tools-like-dnstwist-dnsrazzle-against-bolsters-typosquatting-monitoring/)
 - [* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
+- [OSINT Cheatsheet](https://thekaiz3n.com/cheatsheet/2022/01/12/osint.html)
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
@@ -412,6 +416,7 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 - [Ingress](https://www.ingress.com/)
 - [Geocaching](https://education.nationalgeographic.org/resource/geocaching/)
 - [Escapology](https://www.escapology.com/en)
+- [Best Tool For Information Gathering 🔎](https://github.com/Moham3dRiahi/Th3inspector)
 
 **OSINT-Games:**
 
@@ -440,6 +445,7 @@ Carefully study these resources and come back to them as you journey through the
 - [Counter OSINT](https://github.com/CScorza/OSINTAnonymous)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 - [Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT)](https://www.sciencedirect.com/science/article/abs/pii/S0747563211002585)
+- [A Guide to Open-Source Intelligence (OSINT)](https://greydynamics.com/a-guide-to-open-source-intelligence-osint/)
 - [Intelligent evidence: Using open source intelligence (OSINT) in criminal proceedings](https://www.researchgate.net/publication/309015913_Intelligent_evidence_Using_open_source_intelligence_OSINT_in_criminal_proceedings)
 - [The Intelligence Cycle: Generating OSINT from OSINF](https://www.skopenow.com/news/the-intelligence-cycle-creating-osint-from-osinf)
 
@@ -531,6 +537,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [lampyre.io](https://lampyre.io/)
 - [osintui](https://github.com/wssheldon/osintui)
 - [Detect.Expert](https://Detect.Expert)
+- [OSINT-Browser-Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [cylect.io](https://cylect.io/)
 - [tazeros.com/webanalytics](https://tazeros.com/webanalytics)
 - [dorkgenius.com](https://dorkgenius.com)
@@ -590,6 +597,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
 - [dtsearch.com](https://www.dtsearch.com/)
 - [Venator](https://t.me/venatorbrowser)
+- [A next-generation crawling and spidering framework](https://github.com/projectdiscovery/katana)
 - [Start.me](https://about.start.me/)
 - [dorksearch.com](https://dorksearch.com)
 - [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT)
@@ -631,6 +639,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT List](https://start.me/p/ZME8nR/osint)
 - [Curated OSINT List](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 - [OSINT Inception](https://start.me/p/Pwy0X4/osint-inception)
+- [Geolocation-OSINT](https://github.com/cqcore/Geolocation-OSINT)
+- [botster.io/bots Crawling](https://botster.io/bots)
 - [Yet another awesome OSINT list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
 - [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency)
 - [Awesome On-Chain Investigations HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
@@ -652,6 +662,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [DiscordOSINT](https://github.com/AtonceInventions/DiscordOSINT)
 - [Telegram OSINT](https://github.com/cqcore/Telegram-OSINT)
 - [OSINT Discord resources](https://github.com/Dutchosintguy/OSINT-Discord-resources)
+- [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy)
 - [Discord & Telegram OSINT references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
 - [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
