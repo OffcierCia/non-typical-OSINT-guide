@@ -240,6 +240,10 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 - [Latest Trends in SOCMINT, OSINT & Cyber-Psychology](https://www.toddington.com/wp-content/uploads/1Day_OSINT_Masterclass-1-1.pdf)
 - [5 Cognitive Biases That Could Affect Your OSINT Investigations](https://www.liferaftinc.com/blog/5-cognitive-biases-that-could-affect-your-osint-investigations)
 - [Citizen OSINT Analysts: Motivations of Open-Source Intelligence Volunteers](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1670900&dswid=-6049)
+- [New guide on investigating and mapping perpetrators in open-source investigations](https://piac.asn.au/2023/03/29/new-guide-on-investigating-and-mapping-perpetrators-in-open-source-investigations/)
+- [An Overseas Businessman Died and Left Me $4.6M, So I Used OSINT & Social Engineering to Scam a Scammer](https://hatless1der.com/an-overseas-businessman-died-and-left-me-4-6m-so-i-used-osint-social-engineering-to-scam-a-scammer/)
+- [Cchatgpt-unlock-geolocation-data](https://www.digitaldigging.org/p/4-chatgpt-unlock-geolocation-data)
+- [Telegram-osint-vm-part-2](https://www.cqcore.uk/telegram-osint-vm-part-2/)
 
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
 
@@ -492,6 +496,15 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [Spycraft](https://books.google.se/books/about/Spycraft.html?id=eJg0WV6sGlEC&redir_esc=y) & [Link](https://www.google.se/books/edition/Spycraft/RHWH7gVIO9cC?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
 - [Ultimate Spy](https://www.google.se/books/edition/Ultimate_Spy/EObtBgAAQBAJ?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
 - [Bestselling Books by Kevin Mitnick](https://www.mitnicksecurity.com/bestselling-books-by-kevin-mitnick)
+
+**Zettelkasten Method:**
+
+- [Zettelkasten Method With Obsidian- How to Take Smart Notes](https://beingpax.medium.com/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd)
+- [Setting Up a Zettelkasten in Obsidian: More Than a Note-Taking App](https://facedragons.com/productivity/setting-up-a-zettelkasten-in-obsidian/)
+- [obsidian-zettelkasten](https://mattgiaro.com/obsidian-zettelkasten/)
+- [Getting started with Zettelkasten](https://obsidian.rocks/getting-started-with-zettelkasten-in-obsidian/)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [OSINT Guide](https://github.com/drull1000/OSINT-guide)
 
 # Work: A-Z
 
