@@ -172,6 +172,7 @@ The main thing to remember is your health, it is above all, do not let your prin
 - [How I found early Solana ecosystem Developers using OSINT tactics](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 - [The Hitchhiker’s Guide to Online Anonymity](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
 - [OpSec researches and data terminals - contributions are welcome.](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Dork Yourself Before Someone Does!](https://yvesei.medium.com/dork-yourself-before-someone-does-aa49d0c1929f)
 
 </details>
 
@@ -347,10 +348,12 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 - [OSINT Tools Map](https://metaosint.github.io/chart)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
+- [gpt.censys.io](https://gpt.censys.io/)
 - [ChatGeoPT](https://github.com/earth-genome/ChatGeoPT)
 - [ChatGPT for OSINT: Example](https://t.me/osintkanal/2009) | Tip: Use [deepl.com](https://www.deepl.com/translator)
 - [Emoji OSINT](https://www.dutchosintguy.com/post/cryptography-osint-can-you-read-emoji)
 - [Advangle](http://advangle.com/)
+- [searchcode.com](https://searchcode.com/)
 - [dorkgpt.com](https://www.dorkgpt.com/)
 - [OSINT & ChatGPT: 103 Ideas](https://t.me/irozysk/9377)
 - [OSINT + AI](https://github.com/jiep/offensive-ai-compilation)
@@ -362,6 +365,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Harnessing the Power of ChatGPT for OSINT: A Practical Guide to Your AI OSINT Assistant](https://hackernoon.com/harnessing-the-power-of-chatgpt-for-osint-a-practical-guide-to-your-ai-osint-assistant)
 - [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [Offensive AI](https://github.com/jiep/offensive-ai-compilation)
+- [Bitcoin Investigation Manual AML](https://www.amazon.com/Bitcoin-Investigation-Manual-AML-Money-Laundering/dp/1077484070)
 
 # Choosing a Pathway to Follow...
 
@@ -380,6 +384,7 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 - [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
 - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://youtu.be/qwA6MmbeGNo)
 - [Follow!](https://twitter.com/Sector035)
+- [myosint.training/courses/](https://myosint.training/courses/)
 - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster’s Typosquatting monitoring](https://securityboulevard.com/2022/02/comparing-osint-typosquatting-tools-like-dnstwist-dnsrazzle-against-bolsters-typosquatting-monitoring/)
 - [* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
 - [OSINT Cheatsheet](https://thekaiz3n.com/cheatsheet/2022/01/12/osint.html)
@@ -393,6 +398,7 @@ You may even want to de-anonymize telegram users ([read this channel](https://t.
 - [Counter OSINT Guide](https://github.com/soxoj/counter-osint-guide-en)
 - [HUMINT VS Social Engineering Resources](https://telegra.ph/HUMINT-VS-Social-Engineering-Resources-03-24)
 - [From oblivion to illumination. Part 1 | On the line of creativity and defense](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/Ra_UVvUwOrO5W56k2QpP4jKhYAGMhsNnfvwrdKWQ1EI)
+- [How to learn anything.](https://twitter.com/sahilbloom/status/1662453471608446976)
 
 </details>
 
@@ -403,6 +409,8 @@ I'll highlight some basic advice for you - evaluate information according to dif
 - [Ontology Population for Open-Source Intelligence](https://ceur-ws.org/Vol-2161/paper27.pdf)
 - [Cryptography & OSINT - The fundamentals](https://www.dutchosintguy.com/post/cryptography-osint-the-fundamentals)
 - [Use Zero-Width Characters to Hide Secret Messages in Text (& Even Reveal Leaks)](https://null-byte.wonderhowto.com/how-to/use-zero-width-characters-hide-secret-messages-text-even-reveal-leaks-0198692/)
+- [OSINT: username search tool](https://www.secjuice.com/osint-username-search-tool/)
+- [Geolocation Challenge Writeup](https://osintteam.blog/geolocation-challenge-writeup-1cd5d5aa299f)
 - [All About Web Recon & OSINT](https://github.com/pr0xh4ck/web-recon)
 
 # Immersive & Gamified Learning: Games (b)
@@ -421,6 +429,7 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 - [Geocaching](https://education.nationalgeographic.org/resource/geocaching/)
 - [Escapology](https://www.escapology.com/en)
 - [Best Tool For Information Gathering 🔎](https://github.com/Moham3dRiahi/Th3inspector)
+- [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 
 **OSINT-Games:**
 
@@ -488,11 +497,13 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 **OSINT Bookshelf:**
 
 - [My recently read OSINT & security books – recommendations](https://www.osintme.com/index.php/2021/04/30/my-recently-read-osint-security-books-recommendations/)
+- [geodetective.io Training](https://geodetective.io/)
 - [The Open Source Intelligence Analysis Bookshelf](https://medium.com/the-sleuth-sheet/the-open-source-intelligence-analysis-bookshelf-942dc05a16bd)
 - [7 OSINT Books Every Analyst Should Read](https://www.liferaftinc.com/blog/7-osint-books-every-analyst-should-read?hs_amp=true)
 - [Books by Michael Bazzell](https://inteltechniques.com/book1.html)
 - [What to read to understand intelligence and espionage](https://www.wgu.edu/career-guide/information-technology/osint-career.html#openSubscriberModal)
 - [The Official CIA Manual of Trickery and Deception — H. Keith Melton, Robert Wallace (2009)](https://www.bokus.com/bok/9780061943331/official-cia-manual-of-trickery-and-deception/) & [Link](https://www.google.se/books/edition/The_Official_CIA_Manual_of_Trickery_and/LbrzMtkyCGUC?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover) & [Link2](https://www.bokus.com/bok/9780061943331/official-cia-manual-of-trickery-and-deception/)
+- [Offensive OSINT Tools](https://github.com/wddadk/Offensive-OSINT-Tools)
 - [Spycraft](https://books.google.se/books/about/Spycraft.html?id=eJg0WV6sGlEC&redir_esc=y) & [Link](https://www.google.se/books/edition/Spycraft/RHWH7gVIO9cC?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
 - [Ultimate Spy](https://www.google.se/books/edition/Ultimate_Spy/EObtBgAAQBAJ?hl=ru&gbpv=1&dq=inauthor:%22H.+Keith+Melton%22&printsec=frontcover)
 - [Bestselling Books by Kevin Mitnick](https://www.mitnicksecurity.com/bestselling-books-by-kevin-mitnick)
@@ -521,13 +532,17 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Actually a great book about attacks & defenses](https://www.amazon.com/Network-Attacks-Defenses-Hands-Approach-ebook/dp/B00A8SN8WQ)
 - [OSINT Guide – Open Source Intelligence](https://www.osintguide.com/2023/01/04/start-a-consulting-business-as-an-osint-expert/)
 - [The Art of Proactive Defense: Mastering Threat Hunting with OSINT Tools](https://medium.com/@mohitdeswal_35470/the-art-of-proactive-defense-mastering-threat-hunting-with-osint-tools-336683d6d53b)
+- [The Missing Semester of Your OSINT Education](https://medium.com/the-sleuth-sheet/the-missing-semester-of-your-osint-education-60b7bd48b7e9)
+- [OSINT For Searching People](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
+- [AaronCTI's OSINT Resource Collection](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/htmlview)
 
 </details>
 
 **Work:**
 
 - [anonfriendly.com](http://anonfriendly.com/)
-- [osintjobs](https://twitter.com/osintjobs) 
+- [osintjobs](https://twitter.com/osintjobs)
+- [I'll show you how to make money using OSINT](https://0xtechrock.gumroad.com/)
 - [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days)
 - [osintjobs.sociallinks.io](https://osintjobs.sociallinks.io/)
 - [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
@@ -554,6 +569,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [cylect.io](https://cylect.io/)
 - [tazeros.com/webanalytics](https://tazeros.com/webanalytics)
 - [dorkgenius.com](https://dorkgenius.com)
+- [X-osint](https://github.com/TermuxHackz/X-osint)
 - [meta-webtools.com](https://meta-webtools.com/)
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [app.shadowmap.org](https://app.shadowmap.org/)
@@ -567,12 +583,14 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [tgscanrobot](https://t.me/tgscanrobot)
+- [velociraptor.app](https://docs.velociraptor.app)
 - [maigret_osint_bot](https://t.me/maigret_osint_bot)
 - [telesint_bot](https://telesint_bot)
 - [seekr tool](https://github.com/seekr-osint/seekr)
 - [Data Journalism Resources](https://github.com/r3mlab/datajournalism-resources)
 - [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
 - [Twitter to TG bot](https://TwttrToTG_Bot)
+- [Bellingcat hackathon - stratosphere Project](https://github.com/elehcimd/stratosphere)
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [Awesome TG channel](https://t.me/osintil)
