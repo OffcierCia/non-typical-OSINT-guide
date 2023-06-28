@@ -308,6 +308,10 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy) - famous specialist, speaker
 - [twitter.com/jakecreps](https://twitter.com/jakecreps) - posts awesome tools every Thursday
 - [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques) - follow the Digital Bread Crumbs
+- [The Sleuth Sheet](https://medium.com/the-sleuth-sheet)
+- [OSINT Essentials](https://osintessentials.medium.com/)
+- [Sector035](https://medium.com/@sector035) - Week in OSINT
+- [Igor S. Bederov](https://medium.com/@ibederov_en) - Sherlock Holmes of the digital age…
 - [twitter.com/OSINTHK](https://twitter.com/OSINTHK) - volunteers using OSINT
 - [A global OSINT Community](https://osintfr.com/en/home/) - OSINT Community from France
 - [twitter.com/OSINT_Research](https://twitter.com/OSINT_Research) - tools and awesome data
@@ -315,8 +319,6 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [twitter.com/OsintJobs](https://twitter.com/OsintJobs) - jobs in OSINT
 - [www.reddit.com/r/OSINT](https://www.reddit.com/r/OSINT) - the biggest thematic subReddit
 - [Channels about OSINT, Hacking, Security and so on](https://telegra.ph/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
-- [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT)
-- [15 tools you should know as a security analyst](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
 
  **More Resources:**
  
@@ -330,6 +332,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Unredacter](https://github.com/BishopFox/unredacter)
 - [forensicdots.de](https://www.forensicdots.de/)
 - [Meta-secret App](https://github.com/meta-secret)
+- [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT)
+- [15 tools you should know as a security analyst](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
 - [Portable Secret App](https://mprimi.github.io/portable-secret/)
 - [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html)
 - [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical/dp/B096TJMV7J)
