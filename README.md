@@ -274,7 +274,9 @@ Cognitive vulnerabilities (in the established understanding) are exposures and/o
 - [US Comission Report - 2005](https://govinfo.library.unt.edu/wmd/about.html)
 - [5 Cognitive Biases could affect your OSINT investigations](https://www.linkedin.com/pulse/5-cognitive-biases-could-affect-your-osint-investigations-?utm_source=share&utm_medium=guest_mobile_web&utm_campaign=copy)
 
-Most of us experience 'gut feelings' we can't explain, such as instantly loving (or hating) a new property when we're househunting or the snap judgments we make on meeting new people. Now researchers say these feelings (or intuitions) - are real and we should take our hunches seriously. Don't limit yourself to one approach; don't be afraid to try experiments, but keep in mind that the outcomes of such approaches should always be **double-checked**. They serve more as learning tools than as actual advice for investigators. Visit the following websites:
+Most of us experience 'gut feelings' we can't explain, such as instantly loving (or hating) a new property when we're househunting or the snap judgments we make on meeting new people. Now researchers say these feelings (or intuitions) - are real and we should take our hunches seriously. 
+
+Don't limit yourself to one approach; don't be afraid to try experiments, but keep in mind that the outcomes of such approaches should always be **double-checked**. They serve more as learning tools than as actual advice for investigators. Visit the following websites:
 
 - [Intuition Is More Than Just A Hunch, Says New Research](https://www.sciencedaily.com/releases/2008/03/080305144210.htm)
 - [Intuition as Emergence: Bridging Psychology, Philosophy and Organizational Science](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787428/full)
@@ -383,6 +385,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Channels about OSINT, Hacking, Security and so on](https://telegra.ph/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 
  **More Resources:**
+
+[In addition to its traditional function of enabling less miscalculated decisions,](https://www.researchgate.net/publication/331073990_Digital_Open_Source_Intelligence_and_International_Security_A_Primer) the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.
  
 - [Awesome OSINT + Crypto](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [Google Hacking](https://seckrd.com/google-hacking)
@@ -411,6 +415,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Geolocation: At The Retail Park](https://nixintel.info/osint/geolocation-at-the-retail-park/)
 
 **Tools (AI, ChatGPT, ML, Others):**
+
+[In recent years, public interest in open-source intelligence gathering and analysis](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/) has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The "OSINT state of mind" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!
 
 - [OSINT Tools Map](https://metaosint.github.io/chart)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
@@ -549,6 +555,8 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 **References:**
 
+[Open Source Intelligence, commonly referred to as OSINT,](https://www.skopenow.com/news/osintforgood-the-philanthropic-application-of-osint) is the collection, collation, and analysis of publicly available information. OSINT is a tradecraft developed in the national security sector that has now expanded through a range of sectors, including law enforcement, journalism, corporate security, academic research, and the legal sector. OSINT can also be used to support charitable causes!
+
 - [Any cool movies related to OSINT?](https://www.reddit.com/r/OSINT/comments/owxp7r/any_cool_movies_related_to_osint/)
 - [OSINT Movies List](https://twitter.com/AllForOsint/status/1581244439271350272)
 - [OSINT Movie Time for the Holidays](https://medium.com/@sector035/osint-movie-time-for-the-holidays-7a5f74f18f44)
@@ -675,7 +683,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Awesome articles (external):**
 
-[As practice shows](https://medium.com/@ibederov_en/military-intelligence-using-osint-methods-4aae1df2d812), modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.
+> [As practice shows](https://medium.com/@ibederov_en/military-intelligence-using-osint-methods-4aae1df2d812), modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.
 
 - [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
 - [cybdetective.substack.com](https://cybdetective.substack.com)
@@ -721,7 +729,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings.
 
-While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: Planning, Gathering, Analyzing, Dissemination, and Feedback.
+While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: **Planning, Gathering, Analyzing, Dissemination, and Feedback.**
 
 - [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 - [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
