@@ -132,7 +132,49 @@ Didn't everyone make cheat sheets at school? It's time to do it again, because i
 - [Tips To Encourage Your Child To Participate In Extracurricular Activities](https://talentgum.com/blog/tips-to-encourage-your-child-to-participate-in-extracurricular-activities)
 - [What skills do you need to be good at chess + how to improve it.](https://skillspointer.com/skills-for-chess/)
 
-> A tiny tip - perform [power-searching](https://www.edx.org/course/power-searching-with-google) with using different IPs, over different time ranges and via different [search engines](https://github.com/tasos-py/Search-Engines-Scraper). 
+> A tiny tip - perform [power-searching](https://www.edx.org/course/power-searching-with-google) with using different IPs, over different time ranges and via different [search engines](https://github.com/tasos-py/Search-Engines-Scraper).
+
+## Understanding OSINT Fundamentals, accoding to [VEEXH](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc):
+
+- a. Grasp the concept of OSINT and its significance in intelligence gathering.
+- b. Familiarize yourself with the types of OSINT sources (e.g., social media, public records, online forums, news outlets).
+- c. Learn the ethical and legal considerations when collecting OSINT.
+
+**Developing Technical Skills:**
+
+- a. Acquire proficiency in basic computer and internet usage.
+- b. Learn advanced search techniques using search engines and operators.
+- c. Understand the importance of anonymity and acquire skills in using VPNs, proxies, and the Tor network.
+- d. Familiarize yourself with essential OSINT tools, such as Maltego, Shodan, and Google Dorks.
+
+**Mastering OSINT Collection:**
+
+- a. Learn how to identify and prioritize intelligence requirements.
+- b. Develop a systematic approach to collecting data from various sources.
+- c. Hone your skills in social engineering, passive reconnaissance, and online reconnaissance.
+- d. Acquire expertise in geolocation, imagery analysis, and tracking down information on individuals and organizations.
+
+**OSINT Analysis and Evaluation:**
+
+- a. Learn various analysis techniques, such as link analysis, timeline analysis, and sentiment analysis.
+- b. Develop critical thinking and cognitive bias awareness.
+- c. Understand the significance of the intelligence cycle and apply it to OSINT analysis.
+- d. Evaluate the credibility and reliability of sources and information.
+
+**OSINT Dissemination and Reporting:**
+
+- a. Familiarize yourself with the principles of effective communication.
+- b. Learn how to create intelligence reports, briefs, and visualizations.
+- c. Understand the importance of tailoring your reporting to different audiences.
+- d. Develop the ability to present findings in a clear, concise, and actionable manner.
+
+**Continuous Improvement and Networking:**
+
+- a. Stay updated on the latest OSINT trends, tools, and techniques.
+- b. Participate in relevant online communities, forums, and social media groups.
+- c. Attend OSINT conferences, workshops, and webinars.
+
+By following this framework, beginners can systematically develop their OSINT skills and become proficient in open source intelligence collection, analysis, and dissemination. OSINT (Open-source Intelligence) is also a crucial stage of the penetration testing process. A thorough examination of publicly available information can increase the chances of finding a vulnerable system, gaining valid credentials through password spraying, or gaining a foothold via social engineering.
 
 # Immersive & Gamified Learning: Tricks (a)
 
