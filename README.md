@@ -123,7 +123,11 @@ First, let's break down such a concept as mind-mapping. It is very important to 
 - [First Steps to Getting Started in Open Source Research](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/)
 - [Everything about Open Source Intelligence and OSINT Investigations](https://www.maltego.com/blog/what-is-open-source-intelligence-and-how-to-conduct-osint-investigations/)
 
-Didn't everyone make cheat sheets at school? It's time to do it again, because in the future it should evolve into a Maltego skill!
+**[What is Maltego and why use it for OSINT?](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)** Maltego is a data mining tool that mines a variety of open-source data resources and uses that data to create graphs for analyzing connections. The graphs allow you to easily make connections between information such as name, email organizational structure, domains, documents, etc. Maltego uses Java so it can run on Windows, Mac, and Linux and is available in many OSINT Linux distros like Buscador or Kali. 
+
+Basically, it will parse a large amount of information and search various open-source websites for you and then toss out a pretty looking graph that will help you put the pieces together. Maltego can be used as a resource at any point during the investigation however if your target is a domain it makes sense to start mapping the network with Maltego from the start.
+
+#### Didn't everyone make cheat sheets at school? It's time to do it again, because in the future it should evolve into a Maltego skill!
 
 - [Top OSINT & Infosec Resources for You and Your Team (2022 Edition): 100+ Blogs, Podcasts, YouTube, Books, and more!](https://www.maltego.com/blog/top-osint-infosec-resources-for-you-and-your-team/)
 - [A Beginner’s Guide to OSINT Investigation with Maltego](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
@@ -234,6 +238,8 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 **Practising:**
 
+> So, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device.
+
 - [Privacy Concerns and Acceptance Factors of OSINT for Cybersecurity: A Representative Survey](https://petsymposium.org/popets/2023/popets-2023-0028.pdf)
 - [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
 - [Call of PSYOPS](https://steemit.com/news/@rusticus/call-of-psyops-video-games-as-psychological-warfare-in-the-21st-century)
@@ -247,6 +253,10 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [Minimize False Positives in Your OSINT Investigations](https://mediasonar.com/reports/minimize-false-positives-osint-investigations/)
 
 **Cognitive bias mitigation & decision-making when doing OSINT:**
+
+There are no perfect practitioners-analysts, everyone makes mistakes and gets into difficult ambiguous situations (at least once in their life), all the more in conditions of acutely intensive and chronic work overload. And it is absolutely necessary for a practitioner-analyst to know and understand such situations. 
+
+Cognitive vulnerabilities (in the established understanding) are exposures and/or tendencies to defects in thinking: significant cognitive distortions, erroneous beliefs, cognitive biases (biases), or stereotyped patterns of thinking that create the basis for a person's predisposition to cognitive failures and lead to distortions and dysfunctions of [thought processes](https://telegra.ph/Cognitive-vulnerabilities-of-the-practitioner-analyst-04-17).
 
 - [Cognitive vulnerabilities of the practitioner-analyst](https://telegra.ph/Cognitive-vulnerabilities-of-the-practitioner-analyst-04-17)
 - [Cognitive Bias Mitigation](https://www.researchgate.net/publication/317702457_Cognitive_Bias_Mitigation)
@@ -264,7 +274,7 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [US Comission Report - 2005](https://govinfo.library.unt.edu/wmd/about.html)
 - [5 Cognitive Biases could affect your OSINT investigations](https://www.linkedin.com/pulse/5-cognitive-biases-could-affect-your-osint-investigations-?utm_source=share&utm_medium=guest_mobile_web&utm_campaign=copy)
 
-So, follow OpSec rules and don't make too many mistakes. Conduct your activities from a separate, isolated device. Study:
+Most of us experience 'gut feelings' we can't explain, such as instantly loving (or hating) a new property when we're househunting or the snap judgments we make on meeting new people. Now researchers say these feelings (or intuitions) - are real and we should take our hunches seriously. Don't limit yourself to one approach; don't be afraid to try experiments, but keep in mind that the outcomes of such approaches should always be **double-checked**. They serve more as learning tools than as actual advice for investigators. Visit the following websites:
 
 - [Intuition Is More Than Just A Hunch, Says New Research](https://www.sciencedaily.com/releases/2008/03/080305144210.htm)
 - [Intuition as Emergence: Bridging Psychology, Philosophy and Organizational Science](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787428/full)
@@ -277,6 +287,12 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 
 **Also:**
 
+**According to [wondersmith_rae](https://wondersmithrae.medium.com/training-yourself-to-be-an-analytical-thinker-476bdb7e7c99)**: In classical rhetoric, the “elements of circumstance” created by Aristotle have been used to analyze rhetorical questions for ages. They also apply to modern-day analysis and can be used as a foundation for an investigation. **(Who, what, when, where, why, in what way, by what means)**
+
+A condensed yet equally valuable version of the elements is called the “5W’s and an H” or Who, What, When, Where, Why, and How. These questions have been used in rhetoric, religious study, police investigations, journalism, and by lawyers since ancient Greece. It is said that an investigation can not be truly complete until all of the Ws and the H can be answered. 
+
+Applying the same elements to our OSINT investigations we can ask and answer similar questions. By answering the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole. 
+
 - [The Power of Shutting Down Your Senses: How to Boost Your Creativity and Have a Clear Mind](https://buffer.com/resources/the-power-of-shutting-down-your-senses-how-to-boost-your-creativity-and-have-a-clear-mind/amp/)
 - [Training Yourself to be an Analytical Thinker](https://wondersmithrae.medium.com/training-yourself-to-be-an-analytical-thinker-476bdb7e7c99)
 - [Using the OSINT Mind-State for Better Online Investigations](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/)
@@ -288,7 +304,7 @@ So, follow OpSec rules and don't make too many mistakes. Conduct your activities
 - [Cchatgpt-unlock-geolocation-data](https://www.digitaldigging.org/p/4-chatgpt-unlock-geolocation-data)
 - [Telegram-osint-vm-part-2](https://www.cqcore.uk/telegram-osint-vm-part-2/)
 
-Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**!
+Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**! You only need to know one thing: people think that intelligence is fixed — but it isn’t. Your brain is like a muscle; the more you use it, the more it grows. Education is no longer a one-time event, but a lifelong experience.
 
 <details>
 <summary>Expand</summary>
@@ -309,6 +325,10 @@ Once you can distinguish the information, sort it out then the next thing you ca
 </details>
 
 **Also check out:**
+
+> [Recent surveys show](https://4discovery.com/2019/09/10/litigating-in-an-e-world-e-discovery-forensics-and-open-source-intelligence-in-legal-research/) that over 97% of businesses store data in the Cloud. Learn how to identify potential sources of Cloud data, issue  discovery requests, and implement litigation holds, as well as how to preserve, collect, filter, review, and produce Cloud data.
+
+> [Information relevant](https://4discovery.com/2019/09/10/litigating-in-an-e-world-e-discovery-forensics-and-open-source-intelligence-in-legal-research/) to your case is on the Internet, usually hiding in plain sight. Business records, domain name registrations, websites, online user identities, social media posts, photos, and videos are only a search query away. Do you know how to find it? Learn how open source information can impact a broad range of matters and how to effectively identify sources of information and search for open source data.
 
 - [Criminals Language from a Psycholinguistics point of view](https://www.paperdue.com/essay/criminals-language-from-a-psycholinguistics-1851)
 - [USING LANGUAGE ANALYSIS FOR IDENTIFYING AND ASSESSING OFFENDERS](https://www.researchgate.net/publication/340985509_FORENSIC_PSYCHOLINGUISTICS_USING_LANGUAGE_ANALYSIS_FOR_IDENTIFYING_AND_ASSESSING_OFFENDERS)
@@ -539,6 +559,12 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 - [ARG SubReddit](https://www.reddit.com/r/ARG/)
 - [OSINT SubReddit](https://www.reddit.com/r/OSINT/)
 - [Blockchain OSINT](https://www.forensicxs.com/blockchain-osint-decentraland/)
+- [John Doe Strikes Again](https://hamzaharooon.medium.com/john-doe-strikes-again-n00bzctf-osint-d2122d54c508)
+- [Measurement and Signature Intelligence (MASINT)](https://irp.fas.org/program/masint.htm)
+- [One Search To Rule Them All – Boolean Searches For Images](https://nixintel.info/osint/one-search-to-rule-them-all-boolean-searches-for-images/)
+- [SOC Puppet Creation Guide](https://medium.com/the-sleuth-sheet/soc-puppet-creation-guide-888768dce96e)
+- [The Three Types of Intelligence for Threat Intelligence: A Comprehensive Guide](https://medium.com/the-sleuth-sheet/the-three-types-of-intelligence-for-threat-intelligence-a-comprehensive-guide-e8bbf1f26164)
+- [Unmasking OSINT: A Data Aggregation Journey](https://medium.com/@VEEXH/unmasking-osint-a-data-aggregation-journey-14bea88eb045)
 
 **OSINT Bookshelf:**
 
