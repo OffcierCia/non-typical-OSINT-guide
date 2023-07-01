@@ -675,6 +675,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Awesome articles (external):**
 
+[As practice shows](https://medium.com/@ibederov_en/military-intelligence-using-osint-methods-4aae1df2d812), modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.
+
 - [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
 - [cybdetective.substack.com](https://cybdetective.substack.com)
 - [Uncovering Hidden Connections: Using Maltego Holehe to Map Out a Person’s Digital Footprint](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
@@ -717,6 +719,10 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **In-Depth (external):**
 
+**According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings.
+
+While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: Planning, Gathering, Analyzing, Dissemination, and Feedback.
+
 - [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 - [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
 - [OSINT: FOUNDATIONS](https://i-intelligence.eu/courses/osint-foundations)
@@ -735,6 +741,10 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [SOCMINT – or rather OSINT of social media](https://research.securitum.com/socmint-or-rather-osint-of-social-media/)
 
 **More specific resources (external):**
+
+**According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** A term you may come across in the realm of OSINT is ‘grey literature.’ These are internal documents not intended for public use, but unfortunately, they can easily end up in places where they are searchable. Examples include technical reports, newsletters, invoices, business proposals, or requests for proposals.
+
+Understanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.
 
 - [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
 - [OSINT - HUMINT](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
