@@ -138,7 +138,7 @@ Basically, it will parse a large amount of information and search various open-s
 
 > A tiny tip - perform [power-searching](https://www.edx.org/course/power-searching-with-google) with using different IPs, over different time ranges and via different [search engines](https://github.com/tasos-py/Search-Engines-Scraper).
 
-## Understanding OSINT Fundamentals, accoding to [VEEXH](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc):
+## Understanding OSINT Fundamentals, according to [VEEXH](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc):
 
 - a. Grasp the concept of OSINT and its significance in intelligence gathering.
 - b. Familiarize yourself with the types of OSINT sources (e.g., social media, public records, online forums, news outlets).
@@ -178,7 +178,9 @@ Basically, it will parse a large amount of information and search various open-s
 - b. Participate in relevant online communities, forums, and social media groups.
 - c. Attend OSINT conferences, workshops, and webinars.
 
-By following this framework, beginners can systematically develop their OSINT skills and become proficient in open source intelligence collection, analysis, and dissemination. OSINT (Open-source Intelligence) is also a crucial stage of the penetration testing process. A thorough examination of publicly available information can increase the chances of finding a vulnerable system, gaining valid credentials through password spraying, or gaining a foothold via social engineering.
+By following this framework, beginners can systematically develop their OSINT skills and become proficient in open source intelligence collection, analysis, and dissemination. OSINT (Open-source Intelligence) is also a crucial stage of the penetration testing process. 
+
+A thorough examination of publicly available information can increase the chances of finding a vulnerable system, gaining valid credentials through password spraying, or gaining a foothold via social engineering.
 
 # Immersive & Gamified Learning: Tricks (a)
 
