@@ -69,6 +69,7 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 - [inteltechniques.com](https://inteltechniques.com)
 - [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
+- [Rverse Image Search](https://www.numlookup.com/reverse-image-search)
 
 ### **May the Force be with you!**
 
@@ -92,6 +93,7 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 - [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [The Beginner’s Guide to Open-Source Intelligence (OSINT): Techniques and Tools](https://medium.com/@mohitdeswal_35470/the-beginners-guide-to-open-source-intelligence-osint-techniques-and-tools-6a91b9c37ee1)
+- [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
 
 </details>
 
@@ -104,6 +106,7 @@ All of what I said above you can develop in yourself, but the essence of all dir
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
 - [Basic OPSEC Tips & Tricks for OSINT researchers](https://web.archive.org/web/20221108024236/https://osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/amp/)
 - [The Osint Me ultimate guide to Telegram OSINT and privacy](https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/)
+- [Dork yourself before “someone” does](https://osintteam.blog/dork-yourself-before-someone-does-aa49d0c1929f)
 
 I would like to give you the first lesson, all resources which I will advise you - I studied by myself earlier:
 
@@ -228,6 +231,7 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 - [Act like a Lion 🦁](https://twitter.com/jpurd17/status/1648669362910552067?s=20)
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
+- [OSINT Browser Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
 
 **Science + OSINT:**
 
@@ -453,6 +457,7 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 
 **Explore data terminals:**
 
+- [Open-Source Intelligence (OSINT) Reconnaissance](https://z3r0trust.medium.com/open-source-intelligence-osint-reconnaissance-9f0bafd672b2)
 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 - [This page is for anyone who loves open source investigating](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 - [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
@@ -662,6 +667,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Specific (to be updated):**
 
+- [ChatGPT + OSINT](https://m.youtube.com/watch?v=L5OlYdCWzRs&feature=youtu.be)
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [tgscanrobot](https://t.me/tgscanrobot)
@@ -754,6 +760,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > Understanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.
 
+- [OrienterNet Visual Localization in 2D Public Maps with Neural Matching](https://github.com/facebookresearch/OrienterNet)
 - [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
 - [OSINT - HUMINT](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
 - [Ultimate OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -761,6 +768,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Curated OSINT List](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 - [OSINT Inception](https://start.me/p/Pwy0X4/osint-inception)
 - [Geolocation-OSINT](https://github.com/cqcore/Geolocation-OSINT)
+- [researchaide.org](https://www.researchaide.org/)
 - [botster.io/bots Crawling](https://botster.io/bots)
 - [Yet another awesome OSINT list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
 - [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency)
