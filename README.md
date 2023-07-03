@@ -386,9 +386,9 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [www.reddit.com/r/OSINT](https://www.reddit.com/r/OSINT) - the biggest thematic subReddit
 - [Channels about OSINT, Hacking, Security and so on](https://telegra.ph/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 
- **More Resources:**
+**More Resources:**
 
-[In addition to its traditional function of enabling less miscalculated decisions,](https://www.researchgate.net/publication/331073990_Digital_Open_Source_Intelligence_and_International_Security_A_Primer) the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.
+> [In addition to its traditional function of enabling less miscalculated decisions,](https://www.researchgate.net/publication/331073990_Digital_Open_Source_Intelligence_and_International_Security_A_Primer) the audience of modern intelligence is growing beyond state or corporation leadership, and is expanding to the public. It is no longer a mere warning mechanism, but also a know-how reservoir and improvisation pool to resolve matters in times of unexpected crises.
  
 - [Awesome OSINT + Crypto](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [Google Hacking](https://seckrd.com/google-hacking)
@@ -418,7 +418,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 **Tools (AI, ChatGPT, ML, Others):**
 
-[In recent years, public interest in open-source intelligence gathering and analysis](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/) has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The "OSINT state of mind" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!
+> [In recent years, public interest in open-source intelligence gathering and analysis](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/) has increased exponentially. As this interest has grown, more and more OSINT investigations have been relying on tools and automation, leaving the analysis process behind. You should consider OSINT a thought process. The "OSINT state of mind" is key for keeping track of your investigative steps, picking the right tools and sources, analyzing the data, and reporting to generate actionable intelligence!
 
 - [OSINT Tools Map](https://metaosint.github.io/chart)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
@@ -557,7 +557,7 @@ Since this is an atypical guide, I think it's worthwhile to offer you a list of 
 
 **References:**
 
-[Open Source Intelligence, commonly referred to as OSINT,](https://www.skopenow.com/news/osintforgood-the-philanthropic-application-of-osint) is the collection, collation, and analysis of publicly available information. OSINT is a tradecraft developed in the national security sector that has now expanded through a range of sectors, including law enforcement, journalism, corporate security, academic research, and the legal sector. OSINT can also be used to support charitable causes!
+> [Open Source Intelligence, commonly referred to as OSINT,](https://www.skopenow.com/news/osintforgood-the-philanthropic-application-of-osint) is the collection, collation, and analysis of publicly available information. OSINT is a tradecraft developed in the national security sector that has now expanded through a range of sectors, including law enforcement, journalism, corporate security, academic research, and the legal sector. OSINT can also be used to support charitable causes!
 
 - [Any cool movies related to OSINT?](https://www.reddit.com/r/OSINT/comments/owxp7r/any_cool_movies_related_to_osint/)
 - [OSINT Movies List](https://twitter.com/AllForOsint/status/1581244439271350272)
@@ -729,9 +729,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **In-Depth (external):**
 
-**According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings.
-
-While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: **Planning, Gathering, Analyzing, Dissemination, and Feedback.**
+> **According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** The intelligence cycle represents the process of developing raw information into actionable intelligence. This process can enable decision-makers to take appropriate actions based on their findings. While different organisations use variations on different intelligence cycles, a popular one is a five-step cycle: **Planning, Gathering, Analyzing, Dissemination, and Feedback.**
 
 - [OSINT: How to find information on anyone](https://osintteam.blog/osint-how-to-find-information-on-anyone-5029a3c7fd56)
 - [OSINT — Beginner’s Guide (Part 1)](https://medium.com/@Aardwarewolf/what-is-osint-part-1-91aaa3890643)
@@ -752,9 +750,9 @@ While different organisations use variations on different intelligence cycles, a
 
 **More specific resources (external):**
 
-**According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** A term you may come across in the realm of OSINT is ‘grey literature.’ These are internal documents not intended for public use, but unfortunately, they can easily end up in places where they are searchable. Examples include technical reports, newsletters, invoices, business proposals, or requests for proposals.
+> **According to [Alessandra Adina](https://medium.com/@alessandraadina/how-to-do-cyber-reconnaissance-a-guide-to-osint-for-non-tech-professionals-da6c7db48699):** A term you may come across in the realm of OSINT is ‘grey literature.’ These are internal documents not intended for public use, but unfortunately, they can easily end up in places where they are searchable. Examples include technical reports, newsletters, invoices, business proposals, or requests for proposals.
 
-Understanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.
+> Understanding the value of your organisation’s information, potential attack vectors, and who might be targeted in phishing attacks or other types of social engineering is essential. OSINT can aid you in assessing these risks and planning appropriate defences.
 
 - [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
 - [OSINT - HUMINT](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
@@ -780,6 +778,7 @@ Understanding the value of your organisation’s information, potential attack v
 
 **Telegram + Discord: Security, OSINT, SOCMINT:**
 
+- [How to find the exact location of phone, tablet or PC](https://medium.com/@ibederov_en/how-to-find-the-exact-location-of-phone-tablet-or-pc-b953a60421a9)
 - [osint-mindset.gitbook.io](https://osint-mindset.gitbook.io) | Tip: Use [deepl.com](https://www.deepl.com/translator)!
 - [Discord OSINT Toolset](https://telegra.ph/Discord-OSINT-Toolset-04-11)
 - [DiscordOSINT](https://github.com/AtonceInventions/DiscordOSINT)
