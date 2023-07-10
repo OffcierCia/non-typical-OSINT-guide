@@ -514,6 +514,7 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 
 - [kasescenarios.com](https://kasescenarios.com/)
 - [Sourcing.games](https://sourcing.games/)
+- [OSINT Exercise #018](https://gralhix.com/list-of-osint-exercises/osint-exercise-018/)
 - [osint.games](https://www.osint.games/)
 - [spyingchallenge.com](http://spyingchallenge.com/)
 - [10 Beginner OSINT CTF Solutions](https://geckosint.medium.com/10-beginner-osint-ctf-solutions-ae89e557a4b)
@@ -672,6 +673,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [tgscanrobot](https://t.me/tgscanrobot)
 - [velociraptor.app](https://docs.velociraptor.app)
+- [Web3/NFT OSINT](https://twitter.com/fuzzinglabs/status/1676226856553521153)
 - [maigret_osint_bot](https://t.me/maigret_osint_bot)
 - [telesint_bot](https://t.me/telesint_bot)
 - [seekr tool](https://github.com/seekr-osint/seekr)
@@ -714,6 +716,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Some outstanding tools:**
 
+ > [Remember, Your task for this](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2) final step is to make a plan for maintaining and improving your OSINT skills. Choose some resources for continuous learning, find some challenges to participate in, and consider joining an OSINT community. Lastly, review your ethical guidelines to ensure you are always working responsibly and respectfully. - [Ron Kaminsky](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2)
+
 - [datashare.icij.org](https://datashare.icij.org)
 - [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
 - [dtsearch.com](https://www.dtsearch.com/)
@@ -749,6 +753,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md)
 - [An OSINT/SOCMINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
 - [How to find - Robot](https://t.me/HowToFind)
+- [Password Game](https://neal.fun/password-game/)
 - [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
 - [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
@@ -778,6 +783,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/tools.html#title-tools-osint)
 - [OSINT-TOOLS-CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
 - [Geoestimation](https://labs.tib.eu/geoestimation/)
+- [Using OSINT Search Engines To Collect Cyber Threat Intelligence](https://osintteam.blog/using-osint-search-engines-to-collect-cyber-threat-intelligence-3e9ace82eb64)
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
