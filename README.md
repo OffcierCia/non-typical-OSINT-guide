@@ -311,6 +311,9 @@ Applying the same elements to our OSINT investigations we can ask and answer sim
 - [An Overseas Businessman Died and Left Me $4.6M, So I Used OSINT & Social Engineering to Scam a Scammer](https://hatless1der.com/an-overseas-businessman-died-and-left-me-4-6m-so-i-used-osint-social-engineering-to-scam-a-scammer/)
 - [Cchatgpt-unlock-geolocation-data](https://www.digitaldigging.org/p/4-chatgpt-unlock-geolocation-data)
 - [Telegram-osint-vm-part-2](https://www.cqcore.uk/telegram-osint-vm-part-2/)
+- [Studies in Intelligence](https://t.me/devil_may_spy/160)
+- [Safeguarding OSINTers: Shielding Against Disinformation Manipulation](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08)
+- [Unveiling the Digital Detective: Essential OSINT Tools and Techniques for Investigators.](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd)
 
 Once you can distinguish the information, sort it out then the next thing you can do is start practicing. As you know, **good practice requires good motivation**! You only need to know one thing: people think that intelligence is fixed — but it isn’t. Your brain is like a muscle; the more you use it, the more it grows. Education is no longer a one-time event, but a lifelong experience.
 
@@ -668,6 +671,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Specific (to be updated):**
 
+> **According to [GoldenOwl](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08):** As the battle against disinformation intensifies, OSINT practitioners must be vigilant in protecting themselves from manipulation. By adopting a critical mindset, diversifying information sources, verifying social media information, utilizing fact-checking tools, staying updated on disinformation techniques, collaborating with trusted communities, educating others, [maintaining ethical standards](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08), and cross-checking information, OSINTers can fortify themselves against manipulation and uphold the integrity of their research. 
+
 - [ChatGPT + OSINT](https://m.youtube.com/watch?v=L5OlYdCWzRs&feature=youtu.be)
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
@@ -791,6 +796,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Security, OSINT, SOCMINT:**
+
+ > According to [Ron Kaminsky](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd): OSINT has revolutionized the world of investigations, empowering individuals and organizations to uncover valuable information, solve complex problems, and make informed decisions. [The ability to harness](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd) the vast amount of data available in open sources has opened up new possibilities and transformed the investigative landscape. By utilizing OSINT tools effectively, investigators can save time, gather comprehensive information, and uncover connections that may have otherwise remained hidden. The techniques and methodologies explored in this guide provide a roadmap for conducting thorough and successful OSINT investigations.
 
 - [How to find the exact location of phone, tablet or PC](https://medium.com/@ibederov_en/how-to-find-the-exact-location-of-phone-tablet-or-pc-b953a60421a9)
 - [osint-mindset.gitbook.io](https://osint-mindset.gitbook.io) | Tip: Use [deepl.com](https://www.deepl.com/translator)!
