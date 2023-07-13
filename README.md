@@ -241,6 +241,10 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [Occam's Razor as a Scientific Principle](https://study.com/learn/lesson/occams-razor-scientific-principle.html#:~:text=Occam's%20Razor%20is%20a%20principle%20which%20states%20that%20plurality%20should,used%20a%20little%20more%20loosely.)
 - [CASE STUDY: Personality Profiling and the Power of OSINT](https://brightplanet.com/2016/11/09/case-study-receptiviti-power-osint/)
 - [An Enriched Threat Intelligence Platform for improving OSINT correlation, analysis, visualization and sharing capabilities](https://www.sciencedirect.com/science/article/abs/pii/S2214212620308589)
+- ['Deduction' vs. 'Induction' vs. 'Abduction'](https://www.merriam-webster.com/words-at-play/deduction-vs-induction-vs-abduction)
+- [The Difference Between Deductive and Inductive Reasoning](https://danielmiessler.com/p/the-difference-between-deductive-and-inductive-reasoning/)
+- [Induction Rhetoric](https://www.studysmarter.co.uk/explanations/english/rhetoric/induction-rhetoric/)
+- [Deductive and Inductive Reasoning: Definition, Differences & Examples](https://mundanopedia.com/economics/microeconomics/deductive-and-inductive-reasoning-methods/)
 
 **Practising:**
 
