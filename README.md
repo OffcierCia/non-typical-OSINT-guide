@@ -474,6 +474,10 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster’s Typosquatting monitoring](https://securityboulevard.com/2022/02/comparing-osint-typosquatting-tools-like-dnstwist-dnsrazzle-against-bolsters-typosquatting-monitoring/)
 - [* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
 - [OSINT Cheatsheet](https://thekaiz3n.com/cheatsheet/2022/01/12/osint.html)
+- [The Application of Abductive and Retroductive Inference for the Design and Analysis of Theory-Driven Sociological Research](https://journals.sagepub.com/doi/10.5153/sro.2819)
+- [Abduction as an Aspect of Retroduction](http://www.commens.org/encyclopedia/article/chiasson-phyllis-abduction-aspect-retroduction)
+- [Abduction as an Aspect of Retroduction - 2](https://www.degruyter.com/document/doi/10.1515/semi.2005.2005.153-1-4.223/html?lang=en)
+- [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
