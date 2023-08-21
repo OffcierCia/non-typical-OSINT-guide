@@ -502,6 +502,9 @@ I'll highlight some basic advice for you - evaluate information according to dif
 - [OSINT: username search tool](https://www.secjuice.com/osint-username-search-tool/)
 - [Geolocation Challenge Writeup](https://osintteam.blog/geolocation-challenge-writeup-1cd5d5aa299f)
 - [All About Web Recon & OSINT](https://github.com/pr0xh4ck/web-recon)
+- [PainlessPeek Tool - GEOINT](https://github.com/adacable/painlessPeek)
+- [ChatGPT-osint Tool](https://github.com/gigz/gpt-osint)
+- [Querytool](https://github.com/oryon-osint/querytool)
 
 # Immersive & Gamified Learning: Games (b)
 
@@ -557,6 +560,7 @@ Carefully study these resources and come back to them as you journey through the
 
 Since this is an atypical guide, I think it's worthwhile to offer you a list of TV shows and movies that I think involve OSINT in one way or another:
 
+- [OSINT Films List](https://www.aware-online.com/en/osint-films/)
 - [SEARCHING](https://youtu.be/3Ro9ebQxEOY)
 - [The Most Hated Man on the Internet](https://youtu.be/ySFpxEdKxMw)
 - [Why Did You Kill Me?](https://youtu.be/QEXV8Rif8Vc)
@@ -654,6 +658,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [strategytribe.io](https://strategytribe.io)
 - [Part-time tasks](https://telegra.ph/Scamfari-04-28)
+- [Detect Personal Information Leakage With OSINT Attack Surface Management](https://osintteam.blog/detect-personal-information-leakage-with-osint-attack-surface-management-4a46923dd2fd)
 
 # External Data
 
@@ -676,6 +681,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Automated Website Takedown](https://bolster.ai/automated-website-takedown)
 - [OSINT+ChatGPT PDF](https://t.me/osintil/332)
 - [GVision](https://github.com/GONZOsint/gvision?s=35)
+- [geohints.com](https://geohints.com/)
+- [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection)
 
 **Specific (to be updated):**
 
@@ -708,6 +715,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 > [As practice shows](https://medium.com/@ibederov_en/military-intelligence-using-osint-methods-4aae1df2d812), modern armed conflicts require new approaches to organizing the collection and analysis of open data, which we operate within the framework of OSINT. Be careful with it and think twice before acting.
 
+- [Human Touch in Digital Defense: Virtual HUMINT’s Battle Against Cyber Threats](https://osintteam.blog/human-touch-in-digital-defense-virtual-humints-battle-against-cyber-threats-33b81b3be53b)
+- [From Zero to Google Dorking Hero: Enhancing Your OSINT Arsenal](https://osintteam.blog/mastering-osint-the-art-of-google-dorking-for-investigators-e0a908055873)
 - [Using ddg.gg for OSINT](https://www.ghacks.net/2023/04/24/duckduckgo-disables-most-search-filters-from-search/?amp)
 - [cybdetective.substack.com](https://cybdetective.substack.com)
 - [Uncovering Hidden Connections: Using Maltego Holehe to Map Out a Person’s Digital Footprint](https://medium.com/@philipbcase/uncovering-hidden-connections-using-maltego-holehe-to-map-out-a-persons-digital-footprint-90914d6bcbff)
@@ -749,6 +758,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Intercepter-NG](http://sniff.su/)
 - [metadata2go.com](https://www.metadata2go.com)
 - [suip.biz](https://suip.biz/)
+- [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 
 **In-Depth (external):**
 
