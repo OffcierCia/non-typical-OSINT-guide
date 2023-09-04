@@ -359,6 +359,7 @@ Once you can distinguish the information, sort it out then the next thing you ca
 
 **Good training materials:**
 
+- [New-Generation OSINT Framework](https://github.com/gowthamaraj/OSINT-Explorer)
 - [Python for OSINT 21 days](https://github.com/cipher387/python-for-OSINT-21-days)
 - [Googledorking](https://tryhackme.com/room/googledorking) + [dorksearch.com](https://dorksearch.com/)
 - [Searchlightosint](https://tryhackme.com/room/searchlightosint)
