@@ -523,6 +523,7 @@ Join communities, of course and chat, chat! Below I've only mentioned English-sp
 - [Escapology](https://www.escapology.com/en)
 - [Best Tool For Information Gathering 🔎](https://github.com/Moham3dRiahi/Th3inspector)
 - [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
+- [Security Tips & Devices for Digital Nomads](https://officercia.mirror.xyz/GX0LvoKDcC12ACXzhT3F_3PVRSfEyhE8cJYMZnoia9U)
 
 **OSINT-Games:**
 
