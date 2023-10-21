@@ -231,6 +231,7 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [Act like a Lion 🦁](https://twitter.com/jpurd17/status/1648669362910552067?s=20)
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
 - [OSINT Browser Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
+- [Improve Fast Reaction: Techniques to Enhance Your Reflexes](https://medium.com/@joaoaniceto.webdeveloper/improve-fast-reaction-techniques-to-enhance-your-reflexes-fe052a8f2459)
 
 **Science + OSINT:**
 
