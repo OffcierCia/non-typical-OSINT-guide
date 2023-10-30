@@ -232,6 +232,7 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 - [obsidian.md OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
 - [OSINT Browser Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [Improve Fast Reaction: Techniques to Enhance Your Reflexes](https://medium.com/@joaoaniceto.webdeveloper/improve-fast-reaction-techniques-to-enhance-your-reflexes-fe052a8f2459)
+- [The most skilled analysts in Open-Source Intelligence (OSINT) can make mistakes, but it is important to anticipate and revisit these in order to avoid them!](https://cybernitewatch.com/2023/06/11/10-mistakes-osint-analysts-make-the-importance-of-accuracy-and-integrity/)
 
 **Science + OSINT:**
 
