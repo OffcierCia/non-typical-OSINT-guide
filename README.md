@@ -121,6 +121,7 @@ I would like to give you the first lesson, all resources which I will advise you
 First, let's break down such a concept as mind-mapping. It is very important to teach how to sort information according to different criteria, I believe you can practice sorting absolutely any information you’d like!
 
 - [Mind-map](https://en.wikipedia.org/wiki/Mind_map)
+- [Gitmind Tool](http://gitmind.com/)
 - [What do you need to become an intermediate OSINTer? How can Shodan contribute to OSINT investigations?](https://podtail.com/en/podcast/osintcurious/episode-51-what-do-you-need-to-become-an-intermedi/)
 - [First Steps to Getting Started in Open Source Research](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/)
 - [Everything about Open Source Intelligence and OSINT Investigations](https://www.maltego.com/blog/what-is-open-source-intelligence-and-how-to-conduct-osint-investigations/)
