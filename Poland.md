@@ -441,8 +441,6 @@ Kiedy byłem mały, graliśmy w "5 kroków do Ragnarok" - celem było znalezieni
 
 # Wybór ścieżki do naśladowania...
 
-Niektórym spodoba się [analizowanie obrazów](https://29a.ch/photo-forensics/#forensic-magnifier), [zdjęcia satelitarne](https://spectator.earth/), obliczanie czasu i miejsca na podstawie [kąta cienia na zdjęciu](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3) lub mierzenie [wielkości szczytu](https://www.peakfinder.org/) w celu prowadzenia prywatnych dochodzeń detektywistycznych. Lub, powiedzmy, [robienie OSINT w kryptowalutach](https://graph.org/TX-Analysis-tools-04-19), na przykład, w którym to przypadku twoją motywacją będą pieniądze i samorealizacja... Albo [szukanie rzadkich historii](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) nawet!
-
 [Czytaj mój kanał, jeśli lubisz ten temat](https://t.me/officer_cia)... Albo ktoś może nawet dostać się do [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925), który obecnie rośnie z dnia na dzień. W przypadku szkolenia umiejętności GEOINT sugeruję sprawdzenie [geoguessr.com](https://geoguessr.com/) i [whereami.io](https://whereami.io/).
 
 **Wystarczy spojrzeć na tę niesamowitą mapę myśli:**.
@@ -797,7 +795,6 @@ Widziałbym to jako naukę języka obcego. Ok, nauczyłeś się go i przyjechał
 - GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - Oficer_CIA X MaxWayld: Przegląd zawartości](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Kanały o OSINT, hakowaniu, bezpieczeństwie i tak dalej](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Exploring the Dark Side: Narzędzia i techniki OSINT do demaskowania operacji Dark Web](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Bezpieczeństwo, OSINT, SOCMINT:**.
