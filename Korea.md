@@ -441,8 +441,6 @@ OSINT 조사에도 동일한 요소를 적용하면 비슷한 질문을 하고 �
 
 # 따라갈 경로 선택하기...
 
-어떤 사람들은 [이미지 분석](https://29a.ch/photo-forensics/#forensic-magnifier), [위성 이미지](https://spectator.earth/), [사진의 그림자 각도](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3)로 시간과 장소를 계산하거나 산의 [봉우리 크기](https://www.peakfinder.org/)를 측정하여 사립 탐정을 조사하는 것을 즐길 것입니다. 또는, 예를 들어 [암호 화폐로 OSINT](https://graph.org/TX-Analysis-tools-04-19)를 하는 경우, 돈과 자기 성취감이 동기가 될 것입니다... 또는 [희귀한 이야기 찾기](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp)도 가능합니다!
-
 [이 주제가 마음에 들면 내 채널 읽기](https://t.me/officer_cia)... 또는 누군가가 지금 날마다 성장하고있는 [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925)에 들어갈 수도 있습니다. GEOINT 기술 교육을 받으려면 [geoguessr.com](https://geoguessr.com/) 및 [whereami.io](https://whereami.io/)를 확인하는 것이 좋습니다.
 
 **이 멋진 마인드맵을 한번 보세요.
@@ -797,7 +795,6 @@ OSINT 조사에도 동일한 요소를 적용하면 비슷한 질문을 하고 �
 - [그래프센스 말테고 트랜스폼](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - Officer_CIA X MaxWorld: 콘텐츠 개요](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- OSINT, 해킹, 보안 등에 관한 채널](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [다크 사이드 탐험: 다크 웹 운영의 마스크를 벗기기 위한 OSINT 도구 및 기법](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **텔레그램 + 디스코드: 보안, OSINT, SOCMINT:**
