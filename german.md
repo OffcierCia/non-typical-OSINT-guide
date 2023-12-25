@@ -440,7 +440,7 @@ Als ich jung war, spielten wir "5 Schritte bis Ragnarok" - das Ziel war es, die 
 
 # Einen Weg wählen, dem man folgen kann...
 
-Einige werden Spaß daran haben, [Bilder zu analysieren](https://29a.ch/photo-forensics/#forensic-magnifier), [Satellitenbilder](https://spectator.earth/), Zeit und Ort aus [dem Winkel der Schatten auf einem Foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3) zu berechnen oder die Größe von Berggipfeln zu messen(https://www.peakfinder.org/), um private detektivische Ermittlungen durchzuführen. Oder, sagen wir, [OSINT in der Kryptowirtschaft](https://graph.org/TX-Analysis-tools-04-19), zum Beispiel, in diesem Fall wird Ihre Motivation Geld und Selbstverwirklichung sein... Oder [die Suche nach seltenen Geschichten](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) sogar!
+Einige werden Spaß daran haben, [Bilder zu analysieren](https://29a.ch/photo-forensics/#forensic-magnifier), [Satellitenbilder](https://spectator.earth/), Zeit und Ort aus [dem Winkel der Schatten auf einem Foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3) zu berechnen oder die Größe von Berggipfeln zu messen(https://www.peakfinder.org/), um private detektivische Ermittlungen durchzuführen. Oder, sagen wir, OSINT in der Kryptowirtschaft, zum Beispiel, in diesem Fall wird Ihre Motivation Geld und Selbstverwirklichung sein... Oder [die Suche nach seltenen Geschichten](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) sogar!
 
 [Lies meinen Kanal, wenn du dieses Thema magst](https://t.me/officer_cia)... Oder jemand kann sogar in [AD-INT](https://medium.com/@ibederov_de/mac-address-osint-e539504ae925) einsteigen, das im Moment Tag für Tag wächst. Für das Training von GEOINT-Fähigkeiten empfehle ich [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
 
@@ -796,7 +796,6 @@ Ich würde es wie das Erlernen einer Fremdsprache sehen. Okay, man hat sie geler
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld: Inhaltsübersicht](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Channels über OSINT, Hacking, Sicherheit und so weiter](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Die dunkle Seite erforschen: OSINT-Tools und -Techniken zur Enttarnung von Dark-Web-Operationen](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegramm + Discord: Sicherheit, OSINT, SOCMINT:**
@@ -825,13 +824,13 @@ Ich würde es wie das Erlernen einer Fremdsprache sehen. Okay, man hat sie geler
 - [OpSec Going Smart](https://officercia.mirror.xyz/fsRT9NC29GzeQAl-zvAMJ9L-hYUYvX1CPUkt97Vuuwo)
 - [OpSec Going Smarter](https://officercia.mirror.xyz/B9hBom4jGhkV0C-47E4YBz8tBJkb0a7zVwQR0jITIyM)
 - [OpSec Going Smarter: Sichere Smartphones](https://officercia.mirror.xyz/0tlSSF2LDTOnnMN41R5Uc1kTpo-G-kXljn8pT0a1YLY)
-- Die Wahl eines zuverlässigen VPN-Anbieters für Leben und Arbeit](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
+- [Die Wahl eines zuverlässigen VPN-Anbieters für Leben und Arbeit](https://officercia.mirror.xyz/x91hTIDFrAL0lgqICRgWU7fLouuCMgvopQ9ZRvRXCLg)
 - [Eine ultimative Liste von Regeln, die jeder On-Chain-Überlebende befolgen sollte, um sicher zu bleiben](https://officercia.mirror.xyz/_nD1Rtxe1PplK-NQzIq9sl-KNtajQG0aKqYsV36RTjA)
 - [QR-Code: Eine unterschätzte Gefahr](https://officercia.mirror.xyz/aN6giRkUsNd0o0bmjZVeZb2htkO_Ve16gMsARU6RBfM)
 - [Die wichtigsten Meilensteine in der Entwicklung der Kommunikation](https://officercia.mirror.xyz/G4782jMUpA_kkIpwakphbd6djX85cxRGS-pjBipc8Yk)
-- Wie Sie den Krieg gewinnen, den KGB austricksen und Ihre Krypto-Vermögenswerte vor Diebstahl durch Steganographie schützen](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA)
-- Angriffe über eine repräsentative Stichprobe: Mythen und Realität](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
-- Wie wird man ein Ein-Mann-Armee-OSINT-Spezialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
+- [Wie Sie den Krieg gewinnen, den KGB austricksen und Ihre Krypto-Vermögenswerte vor Diebstahl durch Steganographie schützen](https://officercia.mirror.xyz/8ecJG-s_5E6J1t-h8gUNGqV3hbX8If-E5NnrFrOJHUA)
+- [Angriffe über eine repräsentative Stichprobe: Mythen und Realität](https://officercia.mirror.xyz/WeAilwJ9V4GIVUkYa7WwBwV2II9dYwpdPTp3fNsPFjo)
+- [Wie wird man ein Ein-Mann-Armee-OSINT-Spezialist?](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
 - [Telegram & Discord Sicherheit Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 
 # Support-Projekt
