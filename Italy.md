@@ -181,7 +181,6 @@ A volte persone comuni sono state in grado di risolvere crimini che la polizia n
 <summary>Espandi</summary>
 <br />
 
-- [Cos'è il Netstalking?](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - [Calcolatrice SunCalc](http://suncalc.net/)
 - [Mind Hacks - Profilazione psicologica e salute mentale nelle indagini OSINT](https://youtu.be/104WpJm_eGk)
@@ -205,7 +204,6 @@ La cosa principale da ricordare è la vostra salute, è al di sopra di tutto, no
 <summary>Espandi</summary>
 <br />
 
-- [Netstalking: Approfondimento](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [Come ho trovato i primi sviluppatori dell'ecosistema Solana usando tattiche OSINT](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 - [Guida all'anonimato online per gli autostoppisti](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
 - [Ricerche OpSec e terminali di dati - i contributi sono benvenuti](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -440,7 +438,7 @@ Quando ero giovane giocavamo a "5 passi fino a Ragnarok" - lo scopo era quello d
 
 # Scegliere un percorso da seguire...
 
-Alcuni si divertiranno ad [analizzare immagini](https://29a.ch/photo-forensics/#forensic-magnifier), [immagini satellitari](https://spectator.earth/), a calcolare l'ora e il luogo da [l'angolo delle ombre di una foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), o a misurare le [dimensioni dei picchi](https://www.peakfinder.org/) delle montagne per svolgere indagini investigative private. Oppure, diciamo, [fare OSINT in crittografia](https://graph.org/TX-Analysis-tools-04-19), per esempio, nel qual caso la motivazione sarà il denaro e la realizzazione personale... Oppure [ricerca di storie rare](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp), addirittura!
+Alcuni si divertiranno ad [analizzare immagini](https://29a.ch/photo-forensics/#forensic-magnifier), [immagini satellitari](https://spectator.earth/), a calcolare l'ora e il luogo da [l'angolo delle ombre di una foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), o a misurare le [dimensioni dei picchi](https://www.peakfinder.org/) delle montagne per svolgere indagini investigative private. Oppure, diciamo, per esempio, nel qual caso la motivazione sarà il denaro e la realizzazione personale... Oppure [ricerca di storie rare](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp), addirittura!
 
 [Leggi il mio canale se ti piace questo argomento](https://t.me/officer_cia)... Oppure qualcuno può anche entrare in [AD-INT](https://medium.com/@ibederov_it/mac-address-osint-e539504ae925) che sta crescendo giorno dopo giorno. Per la formazione sulle competenze GEOINT suggerisco di consultare [geoguessr.com](https://geoguessr.com/) e [whereami.io](https://whereami.io/).
 
@@ -796,7 +794,6 @@ Lo vedrei come l'apprendimento di una lingua straniera. Ok, l'hai imparata e sei
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld: Panoramica dei contenuti](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Canali su OSINT, Hacking, Sicurezza e così via](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Esplorare il lato oscuro: Strumenti e tecniche OSINT per smascherare le operazioni del Dark Web](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegramma + Discord: Sicurezza, OSINT, SOCMINT:**
