@@ -182,7 +182,6 @@
 <summary>展开</summary
 <br />[Netstalking 是什么？
 
-- 什么是 Netstalking？](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - [geoguessr](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - [SunCalc 计算器](http://suncalc.net/)
 - 心灵黑客--心理侧写和 OSINT 调查中的心理健康](https://youtu.be/104WpJm_eGk)
@@ -206,8 +205,6 @@
 <summary>展开</summary
 <br /><br
 
-- Netstalking: In-Depth](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
-- 我如何利用 OSINT 战术找到早期 Solana 生态系统开发人员](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 - 网络匿名搭便车指南](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
 - [OpSec 研究与数据终端 - 欢迎投稿](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 - 比别人更傻](https://yvesei.medium.com/dork-yourself-before-someone-does-aa49d0c1929f)
@@ -441,7 +438,7 @@
 
 # 选择要走的道路...
 
-有些人会喜欢[分析图像](https://29a.ch/photo-forensics/#forensic-magnifier)、[卫星图像](https://spectator.earth/)、根据[照片阴影角度](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3)计算时间和地点，或者测量山峰[山峰大小](https://www.peakfinder.org/)，以便进行私家侦探调查。或者，比方说，[在加密货币中做 OSINT](https://graph.org/TX-Analysis-tools-04-19)，在这种情况下，你的动机将是金钱和自我实现...... 或者 [寻找罕见的故事](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) 甚至是！
+有些人会喜欢[分析图像](https://29a.ch/photo-forensics/#forensic-magnifier)、[卫星图像](https://spectator.earth/)、根据[照片阴影角度](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3)计算时间和地点，或者测量山峰[山峰大小](https://www.peakfinder.org/)，以便进行私家侦探调查。或者，比方说, 在这种情况下，你的动机将是金钱和自我实现...... 或者 [寻找罕见的故事](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) 甚至是！
 
 [如果你喜欢这个话题，请阅读我的频道](https://t.me/officer_cia)... 或者有人甚至可以进入[AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925)，现在这个行业正在与日俱增。关于 GEOINT 技能培训，我建议查看 [geoguessr.com](https://geoguessr.com/) 和 [whereami.io](https://whereami.io/)。
 
@@ -797,7 +794,6 @@
 - GraphSense Maltego 转换](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld：内容概述](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- 有关 OSINT、黑客、安全等的频道](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - 探索黑暗面： 揭露暗网行动的 OSINT 工具和技术](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **电报 + Discord： 安全、OSINT、SOCMINT：**
