@@ -441,8 +441,6 @@ OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click)に携わる人にと
 
 # 進むべき道を選ぶ...
 
-画像解析](https://29a.ch/photo-forensics/#forensic-magnifier)や[衛星画像](https://spectator.earth/)、[写真の影の角度](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3)から時間や場所を計算したり、山の[山頂の大きさ](https://www.peakfinder.org/)を計測したりして、私立探偵の調査を楽しむ人もいるだろう。あるいは、例えば[暗号でOSINTを行う](https://graph.org/TX-Analysis-tools-04-19)としよう。この場合、モチベーションはお金と自己実現になるだろう...。あるいは、[レアなネタを探す](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp)とか！
-
 [このトピックが好きなら私のチャンネルを読んでください](https://t.me/officer_cia)... あるいは、今、日に日に成長している[AD-INT](https://medium.com/@ibederov_ja/mac-address-osint-e539504ae925)にハマる人もいるでしょう。GEOINTスキルのトレーニングについては、[geoguessr.com](https://geoguessr.com/)と[whereami.io](https://whereami.io/)をチェックすることをお勧めします。
 
 **この素晴らしいマインドマップを見てください。
@@ -797,7 +795,6 @@ OSINT Bookshelf:** OSINT Bookshelf:**
 - GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - Officer_CIA X MaxWayld: コンテンツの概要](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- OSINT、ハッキング、セキュリティなどに関するチャンネル](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - ダークサイドを探る： OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **テレグラム＋ディスコード セキュリティ、OSINT、SOCMINT:**。
