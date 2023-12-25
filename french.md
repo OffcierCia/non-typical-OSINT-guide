@@ -440,7 +440,7 @@ Quand j'étais jeune, nous jouions à "5 steps till Ragnarok" - le but était de
 
 # Choisir une voie à suivre...
 
-Certains aimeront [analyser des images](https://29a.ch/photo-forensics/#forensic-magnifier), [des images satellites](https://spectator.earth/), calculer l'heure et le lieu à partir de [l'angle des ombres d'une photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), ou mesurer la [taille des sommets des montagnes](https://www.peakfinder.org/) afin de mener des enquêtes de détective privé. Ou, disons, [faire de l'OSINT en cryptographie](https://graph.org/TX-Analysis-tools-04-19), par exemple, auquel cas votre motivation sera l'argent et l'accomplissement personnel... Ou encore [rechercher des histoires rares](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) !
+Certains aimeront [analyser des images](https://29a.ch/photo-forensics/#forensic-magnifier), [des images satellites](https://spectator.earth/), calculer l'heure et le lieu à partir de [l'angle des ombres d'une photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), ou mesurer la [taille des sommets des montagnes](https://www.peakfinder.org/) afin de mener des enquêtes de détective privé. Ou, disons, faire de l'OSINT en cryptographie, par exemple, auquel cas votre motivation sera l'argent et l'accomplissement personnel... Ou encore [rechercher des histoires rares](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) !
 
 [Lisez ma chaîne si vous aimez ce sujet](https://t.me/officer_cia)... Ou encore [AD-INT](https://medium.com/@ibederov_fr/mac-address-osint-e539504ae925) qui se développe de jour en jour en ce moment. Pour la formation en GEOINT, je suggère de consulter [geoguessr.com](https://geoguessr.com/) et [whereami.io](https://whereami.io/).
 
@@ -795,7 +795,6 @@ Je vois cela comme l'apprentissage d'une langue étrangère. D'accord, vous l'av
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officier_CIA X MaxWayld : Aperçu du contenu](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Chaînes sur l'OSINT, le piratage, la sécurité, etc.](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Explorer le côté obscur : Outils et techniques OSINT pour démasquer les opérations du Dark Web](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord : Sécurité, OSINT, SOCMINT:**
