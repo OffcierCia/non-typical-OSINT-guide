@@ -457,7 +457,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 # Choosing a Pathway to Follow...
 
-Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or, let's say, [doing OSINT in crypto](https://graph.org/TX-Analysis-tools-04-19), for example, in which case your motivation will be money and self-fulfillment... Or [searching for rare stories](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) even!
+Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magnifier), [satellite images](https://spectator.earth/), calculating time and place from [the angle of shadows from a photo](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), or measuring mountain [peak size](https://www.peakfinder.org/) in order to perform private detective investigations. Or, let's say, doing OSINT in crypto, for example, in which case your motivation will be money and self-fulfillment... Or [searching for rare stories](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) even!
 
 [Read my channel if you like this topic](https://t.me/officer_cia)... Or someone can even get into [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925) which is growing day-by-day right now. For GEOINT skills training I suggest checking [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/).
 
@@ -814,7 +814,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Channels about OSINT, Hacking, Security and so on](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Security, OSINT, SOCMINT:**
