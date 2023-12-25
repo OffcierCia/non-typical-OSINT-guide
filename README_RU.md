@@ -440,7 +440,7 @@
 
 # Выбор пути...
 
-Кому-то понравится [анализировать изображения](https://29a.ch/photo-forensics/#forensic-magnifier), [спутниковые снимки](https://spectator.earth/), вычислять время и место по [углу тени от фотографии](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3) или измерять размеры горных [пиков](https://www.peakfinder.org/), чтобы проводить частные детективные расследования. Или, скажем, [заниматься OSINT в криптовалюте](https://graph.org/TX-Analysis-tools-04-19), например, в этом случае вашей мотивацией будут деньги и самореализация... Или [поиск редких историй](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) даже!
+Кому-то понравится [анализировать изображения](https://29a.ch/photo-forensics/#forensic-magnifier), [спутниковые снимки](https://spectator.earth/), вычислять время и место по [углу тени от фотографии](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3) или измерять размеры горных [пиков](https://www.peakfinder.org/), чтобы проводить частные детективные расследования. Или, скажем, заниматься OSINT в криптовалюте, например, в этом случае вашей мотивацией будут деньги и самореализация... Или [поиск редких историй](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) даже!
 
 [Читайте мой канал, если вам нравится эта тема](https://t.me/officer_cia)... А кто-то даже может попасть в [AD-INT](https://medium.com/@ibederov_en/mac-address-osint-e539504ae925), который сейчас развивается с каждым днем. Для обучения навыкам работы с GEOINT рекомендую обратить внимание на [geoguessr.com](https://geoguessr.com/) и [whereami.io](https://whereami.io/).
 
@@ -794,8 +794,6 @@
 - [Using OSINT Search Engines To Collect Cyber Threat Intelligence](https://osintteam.blog/using-osint-search-engines-to-collect-cyber-threat-intelligence-3e9ace82eb64)
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
-- [Офицер_ЦРУ X MaxWayld: обзор контента](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Каналы о OSINT, хакинге, безопасности и т.д.](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Security, OSINT, SOCMINT:**.
