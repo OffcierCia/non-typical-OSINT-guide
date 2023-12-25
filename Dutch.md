@@ -181,7 +181,6 @@ Soms waren gewone mensen in staat om misdaden op te lossen die de politie jarenl
 <summary>Uitbreiden</summary>
 <br />
 
-- Wat is Netstalking?](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - GEOGUESSR](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 - SunCalc rekenmachine](http://suncalc.net/)
 - Mind Hacks - Psychologische profilering en geestelijke gezondheid in OSINT-onderzoeken](https://youtu.be/104WpJm_eGk)
@@ -205,7 +204,6 @@ Het belangrijkste om te onthouden is je gezondheid, het is boven alles, laat je 
 <summary>Uitbreiden</summary>
 <br />
 
-- Netstalking: Diepgaand](https://graph.org/What-is-Netstalking-Netstalking-Information-Survivors-04-06)
 - Hoe ik vroege ontwikkelaars van het Solana ecosysteem vond met behulp van OSINT-tactieken](https://telegra.ph/How-I-found-early-Solana-ecosystem-Developers-using-OSINT-tactics-01-04)
 - De liftersgids voor online anonimiteit](https://web.archive.org/web/20220302223645/https://anonymousplanet.org/guide.html)
 - [OpSec onderzoeken en dataterminals - bijdragen zijn welkom](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
@@ -440,7 +438,7 @@ Toen ik jong was speelden we "5 stappen tot Ragnarok" - het doel was om de pagin
 
 # Een pad kiezen om te volgen...
 
-Sommigen zullen genieten van [het analyseren van afbeeldingen](https://29a.ch/photo-forensics/#forensic-magnifier), [satellietbeelden](https://spectator.earth/), het berekenen van tijd en plaats uit [de hoek van schaduwen van een foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), of het meten van berg [piekgrootte](https://www.peakfinder.org/) om privédetectiveonderzoek uit te voeren. Of, laten we zeggen, [OSINT doen in crypto](https://graph.org/TX-Analysis-tools-04-19), bijvoorbeeld, in welk geval je motivatie geld en zelfontplooiing zal zijn... Of [zoeken naar zeldzame verhalen](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) zelfs!
+Sommigen zullen genieten van [het analyseren van afbeeldingen](https://29a.ch/photo-forensics/#forensic-magnifier), [satellietbeelden](https://spectator.earth/), het berekenen van tijd en plaats uit [de hoek van schaduwen van een foto](https://www.suncalc.org/#/40.1789,-3.5156,3/2022.05.05/12:15/1/3), of het meten van berg [piekgrootte](https://www.peakfinder.org/) om privédetectiveonderzoek uit te voeren. Of, laten we zeggen, bijvoorbeeld, in welk geval je motivatie geld en zelfontplooiing zal zijn... Of [zoeken naar zeldzame verhalen](https://www.atlasobscura.com/articles/buying-volcanoes-robert-ripley-paricutin-whakaari.amp) zelfs!
 
 [Lees mijn kanaal als je dit onderwerp leuk vindt](https://t.me/officer_cia)... Of iemand kan zich zelfs gaan toeleggen op [AD-INT](https://medium.com/@ibederov_nl/mac-address-osint-e539504ae925), wat op dit moment met de dag groeit. Voor GEOINT-vaardigheidstraining raad ik aan om [geoguessr.com](https://geoguessr.com/) & [whereami.io](https://whereami.io/) te bekijken.
 
@@ -796,7 +794,6 @@ Ik zou het zien als het leren van een vreemde taal. Oké, je hebt het geleerd en
 - GraphSense Maltego Transformatie](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
 - [leakix.net](https://leakix.net/)
 - [Officer_CIA X MaxWayld: inhoudsoverzicht](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
-- [Kanalen over OSINT, hacken, beveiliging enzovoort](https://graph.org/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
 - De donkere kant verkennen: OSINT-tools en -technieken voor het ontmaskeren van Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Beveiliging, OSINT, SOCMINT:**
