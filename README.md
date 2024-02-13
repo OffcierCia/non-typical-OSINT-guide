@@ -298,6 +298,7 @@ Don't limit yourself to one approach; don't be afraid to try experiments, but ke
 - [Trace My Shadow Game](https://myshadow.org/trace-my-shadow)
 - [What we talk about when we talk about OSINT](https://www.authentic8.com/blog/definition-of-osint)
 - [Publicly Available Information: The Secret to Unclassified Data, Part I](https://overthehorizonmdos.wpcomstaging.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/) & [Copy](https://web.archive.org/web/20191117062938/https://othjournal.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/)
+- [Improve Your Memory With a Simple Diffuser From eBay](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1200448/full)
 
 **Also:**
 
