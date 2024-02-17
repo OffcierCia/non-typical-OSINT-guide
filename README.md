@@ -676,6 +676,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Detect.Expert](https://Detect.Expert)
 - [OSINT-Browser-Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [cylect.io](https://cylect.io/)
+- [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries)
 - [tazeros.com/webanalytics](https://tazeros.com/webanalytics)
 - [dorkgenius.com](https://dorkgenius.com)
 - [X-osint](https://github.com/TermuxHackz/X-osint)
