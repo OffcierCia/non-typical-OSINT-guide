@@ -201,6 +201,7 @@ Sometimes ordinary people were able to solve crimes which the police could not s
 - [Mind Hacks – Psychological profiling, and mental health in OSINT investigations](https://youtu.be/104WpJm_eGk)
 - [A Method for Teaching Open Source Intelligence (OSINT) Using Personalised Cloud-based Exercises](https://www.researchgate.net/publication/340023320_A_Method_for_Teaching_Open_Source_Intelligence_OSINT_Using_Personalised_Cloud-based_Exercises)
 - [Attack Simulations Method: Example](https://istrosec.com/service/attack-simulations/)
+- [The RIS Open Source Intelligence Cycle](https://rieas.gr/images/jmbi/ReuserArno.pdf)
 
 </details>
 
@@ -752,6 +753,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Venator](https://t.me/venatorbrowser)
 - [A next-generation crawling and spidering framework](https://github.com/projectdiscovery/katana)
 - [Start.me](https://about.start.me/)
+- [capacities.io](https://capacities.io/)
+- [reorproject.org](https://www.reorproject.org)
 - [dorksearch.com](https://dorksearch.com)
 - [E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT)
 - [Advangle](http://advangle.com)
