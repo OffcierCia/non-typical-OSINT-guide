@@ -36,6 +36,7 @@ Keep in mind, this essay is intended to be instructional! Consider your actions 
 
 - [Boston bombing: How internet detectives got it very wrong](https://www.bbc.com/news/technology-22214511)
 - [OSINT? WTF??](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf)
+- [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
 
 > Last but not least, everything you do is based on the outcomes you need to achieve! You should be able to select reliable and vetted sources instead of using all the tools and links. Through given routes, you ought to be able to construct your own journey! Following that, I will tell you about the ways that I deem safe and recommend to my clients! OSINT professionals have spent decades developing this manual, sharing their expertise in every word. Once again, consider this guidebook to be a compilation of advice and routes.
 
@@ -46,7 +47,6 @@ It is also crucial to note that OSINT is merely another means to learn about the
 - [How To Learn Fast](https://degatchi.com/articles/how-to-learn-fast/)
 - [How to Use Mind Maps to Unleash Your Brain's Creativity and Potential](https://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)
 - [Can everybody do OSINT?](https://medium.com/osintfun/can-everybody-do-osint-f5d5e6128445)
-- [Vicarious trauma](https://osintcurio.us/2020/06/08/vicarious-trauma-and-osint-a-practical-guide/)
 
 This information does not make you better or worse. Humanity as a species has a proclivity to adapt to its surroundings, which, as we all know, begins with knowledge, observations, and methodology. Take care of yourself, consider the consequences of your actions, and respect the privacy of others. Do not cross red lines!
 
@@ -55,7 +55,6 @@ This information does not make you better or worse. Humanity as a species has a 
 <br />
 
 - [OSINT + Crypto](https://www.forensicxs.com/blockchain-osint-decentraland/)
-- [Here we discuss how one can investigate crypto hacks and security incidents!](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [osint.sh All in One OSINT Tools List](https://osint.sh/)
 - [The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends](https://www.researchgate.net/publication/338495014_The_Not_Yet_Exploited_Goldmine_of_OSINT_Opportunities_Open_Challenges_and_Future_Trends)
 
@@ -65,7 +64,6 @@ Always think twice before acting, follow the law, and follow the OpSec rules. If
 
 - [Intelligence Studies: Types of Intelligence Collection](https://usnwc.libguides.com/c.php?g=494120&p=3381426)
 - [Understanding the Different Types of Intelligence Collection Disciplines](https://www.maltego.com/blog/understanding-the-different-types-of-intelligence-collection-disciplines/)
-- [inteltechniques.com](https://inteltechniques.com)
 - [A History of OSINT: From Informing Spies to Detecting Lies](https://www.skopenow.com/news/a-history-of-osint)
 - [Open Source Intelligence Investigation: From Strategy to Implementation](https://www.researchgate.net/publication/321531302_Open_Source_Intelligence_Investigation_From_Strategy_to_Implementation)
 - [Rverse Image Search](https://www.numlookup.com/reverse-image-search)
@@ -87,9 +85,6 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 <summary>Expand</summary>
 <br />
 
-- [Meet the Blockchain Detectives Who Track Crypto’s Hackers and Scammers](https://www.vice.com/en/article/xgd9zw/meet-the-blockchain-detectives-who-track-cryptos-hackers-and-scammers)
-- [Special «Blockchain Investigations» Compilation](https://t.me/officer_cia/236)
-- [How I investigate crypto hacks and security incidents: A-Z](https://officercia.mirror.xyz/BFzv17UwH6QG4q711NAljtSiP8eKR17daLjTdmAgbHw)
 - [On-Chain Investigations Handbook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [The Beginner’s Guide to Open-Source Intelligence (OSINT): Techniques and Tools](https://medium.com/@mohitdeswal_35470/the-beginners-guide-to-open-source-intelligence-osint-techniques-and-tools-6a91b9c37ee1)
 - [Awesome Intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
@@ -98,8 +93,6 @@ To begin with, I want to say that I will consider OSINT as a set of skills or a 
 
 All of what I said above you can develop in yourself, but the essence of all directions is the same - the ability to notice valuable information, anomalies, see the differences, carefully analyze the facts and build a logical chain - while being in the flow of information. Start up from checking out your own info and your own data: make an OSINT research against yourself. Collect all data, visualize it, then, erase - with using SERM/ORM techniques.
 
-- [SERM](https://thebusinessprofessor.com/seo-social-media-direct-marketing/search-engine-reputation-management-definition)
-- [ORM](https://medium.com/elfsight-blog/introduction-to-search-engine-reputation-management-serm-44467c891c0b)
 - [Examples of opsec and privacy fails when doing OSINT](https://www.osintme.com/index.php/2022/01/17/examples-of-opsec-and-privacy-fails-when-doing-osint/)
 - [WhatBreach](https://github.com/Ekultek/WhatBreach)
 - [More OpSec Studies](https://github.com/lawsecnet/OPSEC)
@@ -112,9 +105,7 @@ I would like to give you the first lesson, all resources which I will advise you
 - [So You Think You Can Google? - Workshop With Henk van Ess](https://youtu.be/uyqXS5lL-mc)
 - [OSINT Origins #1 - Jean-Marc Manach/@manhack](https://youtu.be/XrTFzZ77eEI)
 - [An Awesome OSINT Mind-map](http://files.mtg-bi.com/MindMap.jpg)
-- [Telegram & Discord Security Best Practices](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
 - [A definitive guide to generating usernames for OSINT purposes](https://github.com/soxoj/username-generation-guide)
-- [Resisting Deterministic Thinking](https://zephoria.medium.com/resisting-deterministic-thinking-52ef8d78248c)
 
 # Mind-Mapping
 
@@ -200,7 +191,6 @@ Sometimes ordinary people were able to solve crimes which the police could not s
 - [SunCalc Calculator](http://suncalc.net/)
 - [Mind Hacks – Psychological profiling, and mental health in OSINT investigations](https://youtu.be/104WpJm_eGk)
 - [A Method for Teaching Open Source Intelligence (OSINT) Using Personalised Cloud-based Exercises](https://www.researchgate.net/publication/340023320_A_Method_for_Teaching_Open_Source_Intelligence_OSINT_Using_Personalised_Cloud-based_Exercises)
-- [Attack Simulations Method: Example](https://istrosec.com/service/attack-simulations/)
 - [The RIS Open Source Intelligence Cycle](https://rieas.gr/images/jmbi/ReuserArno.pdf)
 
 </details>
@@ -238,8 +228,6 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 **Science + OSINT:**
 
-- [Peering into the Mind: Psychological Profiling Through AI and Large Language Models..](https://www.linkedin.com/pulse/peering-mind-psychological-profiling-through-ai-large-smith)
-- [Occam’s razor](https://www.britannica.com/topic/Occams-razor)
 - [How Occam's Razor Works](https://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm)
 - [Occam's Razor as a Scientific Principle](https://study.com/learn/lesson/occams-razor-scientific-principle.html#:~:text=Occam's%20Razor%20is%20a%20principle%20which%20states%20that%20plurality%20should,used%20a%20little%20more%20loosely.)
 - [CASE STUDY: Personality Profiling and the Power of OSINT](https://brightplanet.com/2016/11/09/case-study-receptiviti-power-osint/)
@@ -255,15 +243,17 @@ Keep in mind that in this part of the Global Internet (I mean OSINT in general, 
 
 - [Privacy Concerns and Acceptance Factors of OSINT for Cybersecurity: A Representative Survey](https://petsymposium.org/popets/2023/popets-2023-0028.pdf)
 - [What Are Heuristics?](https://www.verywellmind.com/what-is-a-heuristic-2795235)
-- [Call of PSYOPS](https://steemit.com/news/@rusticus/call-of-psyops-video-games-as-psychological-warfare-in-the-21st-century)
 - [OSINT Trends for 2023 and Beyond](https://blog.sociallinks.io/osint-trends-for-2023-and-beyond/)
 - [The Wide-Ranging Uses of OSINT in Military Intelligence](https://blog.sociallinks.io/uses-of-osint-in-military-intelligence/)
-- [Publicly Available Information (PAI) Explained](https://www.babelstreet.com/blog/pai-explained)
-- [Publicly Available information: The Digital Battlefield](https://censa.net/publications/publicly-available-information-the-digital-battlefield/)
 - [Better Utilizing Publicly Available Information](https://www.jstor.org/stable/pdf/resrep20002.7.pdf)
 - [Practices of Science: False Positives and False Negatives](https://manoa.hawaii.edu/exploringourfluidearth/chemical/matter/properties-matter/practices-science-false-positives-and-false-negatives)
 - [False Positives and False Negatives in Information Security](https://www.guardrails.io/blog/false-positives-and-false-negatives-in-information-security/)
 - [Minimize False Positives in Your OSINT Investigations](https://mediasonar.com/reports/minimize-false-positives-osint-investigations/)
+- [Social Engineering and the Protection of High-Value Targets](https://www.hensoldt-analytics.com/2023/01/23/social-engineering-osint/)
+- [Trace My Shadow Game](https://myshadow.org/trace-my-shadow)
+- [What we talk about when we talk about OSINT](https://www.authentic8.com/blog/definition-of-osint)
+- [Publicly Available Information: The Secret to Unclassified Data, Part I](https://overthehorizonmdos.wpcomstaging.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/) & [Copy](https://web.archive.org/web/20191117062938/https://othjournal.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/)
+- [Improve Your Memory With a Simple Diffuser From eBay](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1200448/full)
 
 **Cognitive bias mitigation & decision-making when doing OSINT:**
 
@@ -273,7 +263,6 @@ Cognitive vulnerabilities (in the established understanding) are exposures and/o
 
 - [Cognitive vulnerabilities of the practitioner-analyst](https://telegra.ph/Cognitive-vulnerabilities-of-the-practitioner-analyst-04-17)
 - [Cognitive Bias Mitigation](https://www.researchgate.net/publication/317702457_Cognitive_Bias_Mitigation)
-- [Cognitive bias mitigation - Wiki](https://en.m.wikipedia.org/wiki/Cognitive_bias_mitigation)
 - [Recognizing and Mitigating Cognitive Biases: A Threat to Objectivity](https://www.theiia.org/en/content/communications/press-releases/2022/may/new-recognizing-and-mitigating-cognitive-biases-a-threat-to-objectivity/)
 - [Cognitive Bias Mitigation: How to Make Decision-Making Rational?](https://ideas.repec.org/p/fau/wpaper/wp2020_01.html)
 - [The Impact of Cognitive Biases on Professionals’ Decision-Making: A Review of Four Occupational Areas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8763848/)
@@ -281,9 +270,7 @@ Cognitive vulnerabilities (in the established understanding) are exposures and/o
 - [Hypothesizing after the results are known (HARKing)](https://embassy.science/wiki/Theme:Cc742a7b-826d-4201-b33e-457f2ef79fb9) & [Paper](https://www2.psych.ubc.ca/~schaller/528Readings/Kerr1998.pdf)
 - [Cognitive vulnerability](https://en.m.wikipedia.org/wiki/Cognitive_vulnerability)
 - [Why do we focus on one characteristic to compare when choosing between alternatives?](https://thedecisionlab.com/biases/take-the-best-heuristic) & [More](https://fourweekmba.com/take-the-best-heuristic/)
-- [IARPA's plan to hack the brains of hackers](https://fcw.com/security/2023/04/iarpas-plan-hack-brains-hackers/385123/)
 - [Are Cyber Attackers Thinking Fast and Slow?](https://journals.sagepub.com/doi/pdf/10.1177/1071181319631096)
-- [DMBOK2](https://www.dama.org/cpages/body-of-knowledge)
 - [US Comission Report - 2005](https://govinfo.library.unt.edu/wmd/about.html)
 - [5 Cognitive Biases could affect your OSINT investigations](https://www.linkedin.com/pulse/5-cognitive-biases-could-affect-your-osint-investigations-?utm_source=share&utm_medium=guest_mobile_web&utm_campaign=copy)
 
@@ -295,11 +282,6 @@ Don't limit yourself to one approach; don't be afraid to try experiments, but ke
 - [Intuition as Emergence: Bridging Psychology, Philosophy and Organizational Science](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787428/full)
 - [Intelligence Analysis: Structured Methods or Intuition?](https://www.academia.edu/4259879/Intelligence_Analysis_Structured_Methods_or_Intuition)
 - [The Potential of Integrating Intelligence and Intuition](https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition)
-- [Social Engineering and the Protection of High-Value Targets](https://www.hensoldt-analytics.com/2023/01/23/social-engineering-osint/)
-- [Trace My Shadow Game](https://myshadow.org/trace-my-shadow)
-- [What we talk about when we talk about OSINT](https://www.authentic8.com/blog/definition-of-osint)
-- [Publicly Available Information: The Secret to Unclassified Data, Part I](https://overthehorizonmdos.wpcomstaging.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/) & [Copy](https://web.archive.org/web/20191117062938/https://othjournal.com/2019/04/08/publicly-available-information-the-secret-to-unclassified-data-part-i/)
-- [Improve Your Memory With a Simple Diffuser From eBay](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1200448/full)
 
 **Also:**
 
@@ -310,16 +292,13 @@ A condensed yet equally valuable version of the elements is called the “5W’s
 Applying the same elements to our OSINT investigations we can ask and answer similar questions. By [answering](https://officercia.mirror.xyz/y7qzSLS8qZuU_fdHcrYyN7eZxGzfo_Z5avmNHqhbrZU) the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole. 
 
 - [The Power of Shutting Down Your Senses: How to Boost Your Creativity and Have a Clear Mind](https://buffer.com/resources/the-power-of-shutting-down-your-senses-how-to-boost-your-creativity-and-have-a-clear-mind/amp/)
-- [Training Yourself to be an Analytical Thinker](https://wondersmithrae.medium.com/training-yourself-to-be-an-analytical-thinker-476bdb7e7c99)
 - [Using the OSINT Mind-State for Better Online Investigations](https://www.sans.org/webcasts/atmic-talk-osint-mind-state-online-investigations-114115/)
 - [Latest Trends in SOCMINT, OSINT & Cyber-Psychology](https://www.toddington.com/wp-content/uploads/1Day_OSINT_Masterclass-1-1.pdf)
-- [5 Cognitive Biases That Could Affect Your OSINT Investigations](https://www.liferaftinc.com/blog/5-cognitive-biases-that-could-affect-your-osint-investigations)
 - [Citizen OSINT Analysts: Motivations of Open-Source Intelligence Volunteers](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1670900&dswid=-6049)
 - [New guide on investigating and mapping perpetrators in open-source investigations](https://piac.asn.au/2023/03/29/new-guide-on-investigating-and-mapping-perpetrators-in-open-source-investigations/)
 - [An Overseas Businessman Died and Left Me $4.6M, So I Used OSINT & Social Engineering to Scam a Scammer](https://hatless1der.com/an-overseas-businessman-died-and-left-me-4-6m-so-i-used-osint-social-engineering-to-scam-a-scammer/)
 - [Cchatgpt-unlock-geolocation-data](https://www.digitaldigging.org/p/4-chatgpt-unlock-geolocation-data)
 - [Telegram-osint-vm-part-2](https://www.cqcore.uk/telegram-osint-vm-part-2/)
-- [Studies in Intelligence](https://t.me/devil_may_spy/160)
 - [Safeguarding OSINTers: Shielding Against Disinformation Manipulation](https://osintteam.blog/safeguarding-osinters-shielding-against-disinformation-manipulation-dfbbfbf1db08)
 - [Unveiling the Digital Detective: Essential OSINT Tools and Techniques for Investigators.](https://osintteam.blog/unveiling-the-digital-detective-essential-osint-tools-and-techniques-for-investigators-adf486ad2ccd)
 
@@ -386,21 +365,19 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 
 **Follow top OSINT specialists:**
 
-- [twitter.com/UKOSINT](https://twitter.com/UKOSINT) - news, tools, jokes
-- [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy) - famous specialist, speaker
-- [twitter.com/jakecreps](https://twitter.com/jakecreps) - posts awesome tools every Thursday
-- [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques) - follow the Digital Bread Crumbs
+- [twitter.com/UKOSINT](https://twitter.com/UKOSINT)
+- [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy)
+- [twitter.com/jakecreps](https://twitter.com/jakecreps)
+- [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques)
 - [The Sleuth Sheet](https://medium.com/the-sleuth-sheet)
 - [OSINT Essentials](https://osintessentials.medium.com/)
-- [Sector035](https://medium.com/@sector035) - Week in OSINT
-- [Igor S. Bederov](https://medium.com/@ibederov_en) - Sherlock Holmes of the digital age…
-- [twitter.com/OSINTHK](https://twitter.com/OSINTHK) - volunteers using OSINT
-- [A global OSINT Community](https://osintfr.com/en/home/) - OSINT Community from France
-- [twitter.com/OSINT_Research](https://twitter.com/OSINT_Research) - tools and awesome data
-- [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques) - tools and awesome data
-- [twitter.com/OsintJobs](https://twitter.com/OsintJobs) - jobs in OSINT
-- [www.reddit.com/r/OSINT](https://www.reddit.com/r/OSINT) - the biggest thematic subReddit
-- [Channels about OSINT, Hacking, Security and so on](https://telegra.ph/Channels-about-OSINT-Hacking-Security-and-so-on-04-19)
+- [Sector035](https://medium.com/@sector035)
+- [Igor S. Bederov](https://medium.com/@ibederov_en)
+- [twitter.com/OSINTHK](https://twitter.com/OSINTHK)
+- [A global OSINT Community](https://osintfr.com/en/home/)
+- [twitter.com/OSINT_Research](https://twitter.com/OSINT_Research)
+- [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques)
+- [www.reddit.com/r/OSINT](https://www.reddit.com/r/OSINT)
 
 **More Resources:**
 
@@ -411,24 +388,15 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [GOSI: GIAC Open Source Intelligence](https://www.giac.org/certification/open-source-intelligence-gosi)
 - [SEC487: Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
 - [Inteltechniques.net](https://www.inteltechniques.net/)
-- [IT security lecture](https://github.com/bkimminich/it-security-lecture/)
-- [r4ven Tool](https://github.com/spyboy-productions/r4ven)
-- [Unredacter](https://github.com/BishopFox/unredacter)
-- [forensicdots.de](https://www.forensicdots.de/)
-- [Meta-secret App](https://github.com/meta-secret)
 - [Image Research OSINT](https://github.com/cqcore/Image-Research-OSINT)
 - [15 tools you should know as a security analyst](https://osintteam.blog/15-tools-you-should-know-as-a-security-analyst-f95007e94d99)
-- [Portable Secret App](https://mprimi.github.io/portable-secret/)
 - [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html)
 - [The Internet Intelligence & Investigation Handbook](https://www.amazon.com/Internet-Intelligence-Investigation-Handbook-practical/dp/B096TJMV7J)
 - [NATO OSINT HandBook](https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)
-- [osintnewsletter.com](https://osintnewsletter.com/)
 - [Geolocation OSINT](https://github.com/cqcore/Geolocation-OSINT)
 - [geodetective.io](https://geodetective.io/)
-- [Yet another awesome OSINT book](https://t.me/osintkanal/2049)
 - [Social Media OSINT](https://github.com/cqcore/Social-Media-OSINT)
 - [Fascinating Search Engines That Search for Faces](https://www.makeuseof.com/tag/3-fascinating-search-engines-search-faces/)
-- [OSINT Tools MegaList](https://pastebin.com/z0FUgiGb)
 - [Future of OSINT: People Searching with ChatGPT](https://dorksearch.com/blog/future-of-osint-people-searching/)
 - [Geolocation: At The Retail Park](https://nixintel.info/osint/geolocation-at-the-retail-park/)
 
@@ -479,10 +447,6 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster’s Typosquatting monitoring](https://securityboulevard.com/2022/02/comparing-osint-typosquatting-tools-like-dnstwist-dnsrazzle-against-bolsters-typosquatting-monitoring/)
 - [* What’s that font?](https://osintessentials.medium.com/wtf-be0de2230ed2)
 - [OSINT Cheatsheet](https://thekaiz3n.com/cheatsheet/2022/01/12/osint.html)
-- [The Application of Abductive and Retroductive Inference for the Design and Analysis of Theory-Driven Sociological Research](https://journals.sagepub.com/doi/10.5153/sro.2819)
-- [Abduction as an Aspect of Retroduction](http://www.commens.org/encyclopedia/article/chiasson-phyllis-abduction-aspect-retroduction)
-- [Abduction as an Aspect of Retroduction - 2](https://www.degruyter.com/document/doi/10.1515/semi.2005.2005.153-1-4.223/html?lang=en)
-- [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 
 You may even want to de-anonymize telegram users ([read this channel](https://t.me/ibederov_en)) or, conversely, join [counter-OSINT](https://github.com/soxoj/counter-osint-guide-en) bros. But in doing so, I urge you not to forget the key skills of information retrieval, information analytics, and information application...
 
