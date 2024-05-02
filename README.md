@@ -150,7 +150,7 @@ Basically, it will parse a large amount of information and search various open-s
 **Developing Technical Skills:**
 
 - a. Acquire proficiency in basic computer and internet usage.
-- b. Learn advanced search techniques using search engines and operators.
+- b. Learn [advanced search](https://officercia.mirror.xyz/7YWvHiZXkTXiOE0m-M-Vn6ucN-1xoqRZiEy9IFUYcu0) techniques using search engines and operators.
 - c. Understand the importance of anonymity and acquire skills in using VPNs, proxies, and the Tor network.
 - d. Familiarize yourself with essential OSINT tools, such as Maltego, Shodan, and Google Dorks.
 
@@ -183,7 +183,7 @@ Basically, it will parse a large amount of information and search various open-s
 
 By following this framework, beginners can systematically develop their OSINT skills and become proficient in open source intelligence collection, analysis, and dissemination. OSINT (Open-source Intelligence) is also a crucial stage of the penetration testing process. 
 
-A thorough examination of publicly available information can increase the chances of finding a vulnerable system, gaining valid credentials through password spraying, or gaining a foothold via social engineering.
+A thorough examination of [publicly available](https://officercia.mirror.xyz/y7qzSLS8qZuU_fdHcrYyN7eZxGzfo_Z5avmNHqhbrZU) information can increase the chances of finding a vulnerable system, gaining valid credentials through password spraying, or gaining a foothold via social engineering.
 
 # Immersive & Gamified Learning: Tricks (a)
 
@@ -307,7 +307,7 @@ Don't limit yourself to one approach; don't be afraid to try experiments, but ke
 
 A condensed yet equally valuable version of the elements is called the “5W’s and an H” or Who, What, When, Where, Why, and How. These questions have been used in rhetoric, religious study, police investigations, journalism, and by lawyers since ancient Greece. It is said that an investigation can not be truly complete until all of the Ws and the H can be answered. 
 
-Applying the same elements to our OSINT investigations we can ask and answer similar questions. By answering the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole. 
+Applying the same elements to our OSINT investigations we can ask and answer similar questions. By [answering](https://officercia.mirror.xyz/y7qzSLS8qZuU_fdHcrYyN7eZxGzfo_Z5avmNHqhbrZU) the 5W’s a narrative begins to emerge from our collected data. It is now up to us as analysts to connect the dots in a succinct way. The catch is, that anyone who has done research knows that when information starts to be uncovered it is easy to get stuck in a rabbit hole. 
 
 - [The Power of Shutting Down Your Senses: How to Boost Your Creativity and Have a Clear Mind](https://buffer.com/resources/the-power-of-shutting-down-your-senses-how-to-boost-your-creativity-and-have-a-clear-mind/amp/)
 - [Training Yourself to be an Analytical Thinker](https://wondersmithrae.medium.com/training-yourself-to-be-an-analytical-thinker-476bdb7e7c99)
@@ -745,7 +745,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 **Some outstanding tools:**
 
- > [Remember, Your task for this](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2) final step is to make a plan for maintaining and improving your OSINT skills. Choose some resources for continuous learning, find some challenges to participate in, and consider joining an OSINT community. Lastly, review your ethical guidelines to ensure you are always working responsibly and respectfully. - [Ron Kaminsky](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2)
+ > [Remember, Your task for this](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2) final step is to make a plan for maintaining and improving your OSINT skills. Choose some resources for continuous learning, find some challenges to participate in, and consider joining an OSINT community. Lastly, review your ethical guidelines to ensure you are always [working responsibly](https://officercia.mirror.xyz/1XgiSTo2QKTi2bow7B6IF3nTB9K-_k4eBBl79sqmZFs) and respectfully. - [Ron Kaminsky](https://medium.com/@ronkaminskyy/from-zero-to-sherlock-the-ultimate-osint-adventure-5f9d8c45ae2)
 
 - [datashare.icij.org](https://datashare.icij.org)
 - [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
