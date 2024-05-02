@@ -26,9 +26,9 @@
 
 **Check out:**
 
-- [Navigation (my articles)](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
-- [Original Article](https://officercia.mirror.xyz/5KSkJOTgMtvgC36v1GqZ987N-_Oj_zwvGatOk0A47Ws)
-- [Also posted here!](https://officercia.medium.com/the-atypical-osint-guide-2023-276a8d00959)
+- [OSINT Lesson №1: Mind-Mapping](https://officercia.mirror.xyz/Kfy7hVyHhwyBjei0pvPtoXroEJ3I3efE2c4XbvKm8aU)
+- [OSINT Lesson №2: Occam’s Razor & Intuition](https://officercia.mirror.xyz/vqfkhx-hVQ2rI4rHx_Owsk_qBb5Zq9khuh5oLDSUR30)
+- [OSINT Lesson №3: AI, ChatGPT & Choosing a Pathway to Follow](https://officercia.mirror.xyz/B5QHUahBJwI2_MsofVEGflKdJNL0Fc3DkvY88oeWi_o)
 
 Today I would like to talk about how to become a good OSINT investigator, but to continue the conversation I would like to make a small disclaimer - I will tell you only some aspects because the topic is very vast and I can not describe everything in a single guide, however, I will try to show you the way and how to pass this path. This manual is the culmination of years of work by OSINT professionals. Consider this guidebook to be a compilation of advice and routes!
 
