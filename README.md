@@ -469,8 +469,6 @@ I'll highlight some basic advice for you - evaluate information according to dif
 - [Cryptography & OSINT - The fundamentals](https://www.dutchosintguy.com/post/cryptography-osint-the-fundamentals)
 - [Use Zero-Width Characters to Hide Secret Messages in Text (& Even Reveal Leaks)](https://null-byte.wonderhowto.com/how-to/use-zero-width-characters-hide-secret-messages-text-even-reveal-leaks-0198692/)
 - [OSINT: username search tool](https://www.secjuice.com/osint-username-search-tool/)
-- [Geolocation Challenge Writeup](https://osintteam.blog/geolocation-challenge-writeup-1cd5d5aa299f)
-- [All About Web Recon & OSINT](https://github.com/pr0xh4ck/web-recon)
 - [PainlessPeek Tool - GEOINT](https://github.com/adacable/painlessPeek)
 - [ChatGPT-osint Tool](https://github.com/gigz/gpt-osint)
 - [Querytool](https://github.com/oryon-osint/querytool)
@@ -627,7 +625,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - SMM
 - [AML/Crypto Investigations](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [strategytribe.io](https://strategytribe.io)
-- [Part-time tasks](https://telegra.ph/Scamfari-04-28)
 - [Detect Personal Information Leakage With OSINT Attack Surface Management](https://osintteam.blog/detect-personal-information-leakage-with-osint-attack-surface-management-4a46923dd2fd)
 
 # External Data
@@ -638,13 +635,11 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck)
 - [lampyre.io](https://lampyre.io/)
 - [osintui](https://github.com/wssheldon/osintui)
-- [Detect.Expert](https://Detect.Expert)
 - [OSINT-Browser-Extensions](https://github.com/cqcore/OSINT-Browser-Extensions)
 - [cylect.io](https://cylect.io/)
 - [OSINT for Countries](https://github.com/wddadk/OSINT-for-countries)
 - [tazeros.com/webanalytics](https://tazeros.com/webanalytics)
 - [dorkgenius.com](https://dorkgenius.com)
-- [X-osint](https://github.com/TermuxHackz/X-osint)
 - [meta-webtools.com](https://meta-webtools.com/)
 - [Venatorbrowser](https://t.me/venatorbrowser)
 - [app.shadowmap.org](https://app.shadowmap.org/)
@@ -662,19 +657,12 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [ChatGPT + OSINT](https://m.youtube.com/watch?v=L5OlYdCWzRs&feature=youtu.be)
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
-- [tgscanrobot](https://t.me/tgscanrobot)
-- [velociraptor.app](https://docs.velociraptor.app)
 - [Web3/NFT OSINT](https://twitter.com/fuzzinglabs/status/1676226856553521153)
-- [maigret_osint_bot](https://t.me/maigret_osint_bot)
-- [telesint_bot](https://t.me/telesint_bot)
-- [seekr tool](https://github.com/seekr-osint/seekr)
 - [Data Journalism Resources](https://github.com/r3mlab/datajournalism-resources)
 - [Digital Forensics Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
-- [Twitter to TG bot](https://t.me/TwttrToTG_Bot)
 - [Bellingcat hackathon - stratosphere Project](https://github.com/elehcimd/stratosphere)
 - [osint-Brazil](https://github.com/osintbrazuca/osint-brazuca)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
-- [Awesome TG channel](https://t.me/osintil)
 - [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
 - [metaosint.github.io](https://metaosint.github.io/chart)
 - [Maltego Transforms List](https://github.com/cipher387/maltego-transforms-list)
@@ -730,7 +718,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Universal Search](https://t.me/UniversalSearchRobot)
 - [Intercepter-NG](http://sniff.su/)
 - [metadata2go.com](https://www.metadata2go.com)
-- [suip.biz](https://suip.biz/)
 - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 
 **In-Depth (external):**
@@ -742,7 +729,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT: FOUNDATIONS](https://i-intelligence.eu/courses/osint-foundations)
 - [How to Use OSINT to Detect Data Leaks and Breaches](https://www.liferaftinc.com/blog/how-to-use-osint-to-detect-data-leaks-and-breaches)
 - [Introduction to OSINT](https://infosecwriteups.com/introduction-to-osint-2c92597988d1)
-- [How to Improve Cyber Attack Detection Using Social Media?](https://www.geeksforgeeks.org/how-to-improve-cyber-attack-detection-using-social-media/)
 - [Are you leaking information on the web? Use these tools to find out](https://www.tech.gov.sg/media/technews/are-you-leaking-information-on-the-web)
 - [OSINT: Data Leaks and Data Breaches](https://www.osintguru.com/blog/osint-data-leaks-and-data-breaches)
 - [OSINT with gOSINT](https://brandefense.io/blog/osint-with-gosint/)
@@ -752,7 +738,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Password Game](https://neal.fun/password-game/)
 - [How to Use OSINT in Cybersecurity](https://www.molfar.global/en-blog/how-to-use-osint-in-cybersecurity)
 - [OSINT (OPEN-SOURCE INTELLIGENCE) - become hard to hack!](https://somprt.com/our-series/osint-open-source-intelligence/)
-- [GitHub OSINT Topic](https://github.com/topics/open-source-intelligence?o=desc&s=stars)
 - [SOCMINT – or rather OSINT of social media](https://research.securitum.com/socmint-or-rather-osint-of-social-media/)
 
 **More specific resources (external):**
@@ -765,7 +750,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [OSINT Tools - Airtable](https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op)
 - [OSINT - HUMINT](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=1978517898)
 - [Ultimate OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
-- [OSINT List](https://start.me/p/ZME8nR/osint)
 - [Curated OSINT List](https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo)
 - [OSINT Inception](https://start.me/p/Pwy0X4/osint-inception)
 - [Geolocation-OSINT](https://github.com/cqcore/Geolocation-OSINT)
@@ -773,16 +757,12 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [botster.io/bots Crawling](https://botster.io/bots)
 - [Yet another awesome OSINT list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
 - [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency)
-- [Awesome On-Chain Investigations HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md)
-- [Investigator tools](https://start.me/p/gyaOJz/investigator-tools)
 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
 - [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/tools.html#title-tools-osint)
 - [OSINT-TOOLS-CLI](https://github.com/Coordinate-Cat/OSINT-TOOLS-CLI)
 - [Geoestimation](https://labs.tib.eu/geoestimation/)
 - [Using OSINT Search Engines To Collect Cyber Threat Intelligence](https://osintteam.blog/using-osint-search-engines-to-collect-cyber-threat-intelligence-3e9ace82eb64)
 - [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform)
-- [leakix.net](https://leakix.net/)
-- [Officer_CIA X MaxWayld: Content Overview](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)
 - [Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations](https://www.sans.org/blog/exploring-the-dark-side-osint-tools-and-techniques-for-unmasking-dark-web-operations/)
 
 **Telegram + Discord: Security, OSINT, SOCMINT:**
@@ -799,10 +779,6 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Discord & Telegram OSINT references](https://github.com/Ginsberg5150/Discord-and-Telegram-OSINT-references)
 - [Awesome Discord](https://github.com/jacc/awesome-discord)
 - [Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
-- [Darvester](https://github.com/darvester/darvester)
-- [Telegram & Discord OpSec](https://officercia.mirror.xyz/dlf6ZEXq3FLE21ZY2jeJ0cBDyuZu8XIF9DEJAQ07nk8)
-- [Discord OpSec for servers](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
-- [If you have been scammed…](https://officercia.mirror.xyz/X5Q0uPwvlgZ6BrvCmyqXlXHFgLAWrMtzAHSvjzrDS7c)
 
 **Check out my articles:**
 
