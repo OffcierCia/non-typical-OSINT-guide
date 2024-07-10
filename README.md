@@ -424,6 +424,7 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)
 - [Offensive AI](https://github.com/jiep/offensive-ai-compilation)
 - [Bitcoin Investigation Manual AML](https://www.amazon.com/Bitcoin-Investigation-Manual-AML-Money-Laundering/dp/1077484070)
+- [StreetCLIP](https://huggingface.co/geolocal/StreetCLIP)
 
 # Choosing a Pathway to Follow...
 
