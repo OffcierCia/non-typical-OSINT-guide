@@ -651,6 +651,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [GVision](https://github.com/GONZOsint/gvision?s=35)
 - [geohints.com](https://geohints.com/)
 - [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X data API, MCP server, SDKs, and webhooks for public tweet search, account lookup, follower export, monitors, and media workflows.
 
 **Specific (to be updated):**
 
