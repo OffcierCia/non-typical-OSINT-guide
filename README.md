@@ -706,6 +706,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Pinpoint](https://journaliststudio.google.com/pinpoint/collections)
 - [dtsearch.com](https://www.dtsearch.com/)
 - [Venator](https://t.me/venatorbrowser)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [A next-generation crawling and spidering framework](https://github.com/projectdiscovery/katana)
 - [Start.me](https://about.start.me/)
 - [capacities.io](https://capacities.io/)
