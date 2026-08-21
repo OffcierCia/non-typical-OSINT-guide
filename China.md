@@ -741,6 +741,7 @@
 - [Universal Search](https://t.me/UniversalSearchRobot)
 - [Intercepter-NG](http://sniff.su/)
 - [metadata2go.com](https://www.metadata2go.com)
+- [Metadata Viewer](https://metadataremover.ai/metadata-viewer) — 浏览器本地检查图片 EXIF/IPTC/XMP；取证结论请用 ExifTool 等独立解析器复核
 - [suip.biz](https://suip.biz/)
 - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 
