@@ -426,6 +426,8 @@ When I was young we played «5 steps till Ragnarok» - the goal was to find the 
 - [Bitcoin Investigation Manual AML](https://www.amazon.com/Bitcoin-Investigation-Manual-AML-Money-Laundering/dp/1077484070)
 - [StreetCLIP](https://huggingface.co/geolocal/StreetCLIP)
 - [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt-cybersecurity-osint-investigations)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
 
 # Choosing a Pathway to Follow...
 
