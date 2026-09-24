@@ -716,6 +716,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [obsidian.md](https://obsidian.md/)
 - [dorkgenius.com](https://dorkgenius.com)
+- [Jev Social](https://github.com/socai-io/jev-social) - Read-only Instagram, TikTok, and LinkedIn research where Jev selects bounded actions, the local socai CLI runs them in the user's signed-in browser, and the result is a source-linked evidence report.
 - [canarytokens.org](https://canarytokens.org/generate)
 - [iplogger.org](https://iplogger.org)
 - [Universal Search](https://t.me/UniversalSearchRobot)
