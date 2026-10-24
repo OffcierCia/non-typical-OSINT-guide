@@ -659,6 +659,7 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 
 - [ChatGPT + OSINT](https://m.youtube.com/watch?v=L5OlYdCWzRs&feature=youtu.be)
 - [Bonus OSINT Twitter Crypto toolset](https://telegra.ph/Bonus-OSINT-Twitter-Crypto-toolset-04-15)
+- [twtData X trends archive](https://twtdata.com/twitter-trends/) - Free archive of X (Twitter) trending topics by country and date, to check when and where a hashtag trended.
 - [Awesome OSINT Web3](https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff)
 - [Web3/NFT OSINT](https://twitter.com/fuzzinglabs/status/1676226856553521153)
 - [Data Journalism Resources](https://github.com/r3mlab/datajournalism-resources)
