@@ -652,6 +652,8 @@ I would see it as learning a foreign language. Okay, you have learned it and com
 - [GVision](https://github.com/GONZOsint/gvision?s=35)
 - [geohints.com](https://geohints.com/)
 - [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection)
+- [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches.
+- [Breach House](https://breach.house/) - Search engine for ransomware and breach listings, with the source and discovery date of each one.
 
 **Specific (to be updated):**
 
